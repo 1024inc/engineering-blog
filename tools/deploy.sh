@@ -20,7 +20,7 @@ _no_pages_branch=false
 
 _backup_dir="$(mktemp -d)"
 
-_baseurl="/engineering-blog"
+_baseurl=""
 
 help() {
   echo "Build, test and then deploy the site content to 'origin/<pages_branch>'"
@@ -42,7 +42,7 @@ init() {
     exit -1
   fi
 
-#  _baseurl="$(grep '^baseurl:' _config.yml | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
+  _baseurl="$(grep '^baseurl:' _config.yml | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
 }
 
 build() {

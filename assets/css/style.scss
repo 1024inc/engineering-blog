@@ -11,11 +11,15 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-
 #sidebar #avatar a {
   border: 0;
   border-radius: 0;
-  max-width: 85px;
-  width: initial;
-  height: initial;
+  max-width: 100%;
+  height: auto;
+}
+#sidebar #avatar img:hover {
+  -ms-transform: scale(1);
+  -moz-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
 }
