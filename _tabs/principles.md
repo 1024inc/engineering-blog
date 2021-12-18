@@ -1,10 +1,10 @@
 ---
-title: Engineering Principles
+title: Principles
 icon: fas fa-info-circle
 order: 0
 ---
 
-We are a team of engineers who are passionate about building together a product that is useful and easy to use. We are doing do by following our engineering principles:
+**_We are a team of engineers who are passionate about building together a product that is useful and easy to use. We are doing so by following our engineering principles:_**
 
 
 ## Reduce scope

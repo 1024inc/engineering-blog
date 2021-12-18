@@ -31,10 +31,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://1024inc.github.io/engineering-blog/'
 
 github:
-  username: https://github.com/1024inc/             # change to your github username
+  username: 1024inc/             # change to your github username
 
 twitter:
-  username: https://twitter.com/BeyondPricing            # change to your twitter username
+  username: BeyondPricing            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -82,7 +82,7 @@ theme_mode: dark   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/logo.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
