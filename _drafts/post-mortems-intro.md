@@ -3,7 +3,7 @@ title: Post-mortems intro
 author: Ines Martins
 date: 2022-02-02 11:33:00 +0800
 categories: []
-tags: [postmortem]
+tags: []
 math: true
 mermaid: true
 image: /assets/images/posts/20190808/mockup.png
@@ -14,7 +14,7 @@ height: 500
 
 <h2 data-toc-skip>Background</h2>
 
-In the past, one of the Beyond engineering core values was “We Ship It!” More recently, we translated it to "Ship Early." At Beyond, the best way to ship safely is to ship often, and the best way to ship often is to ship smaller. 
+In the past, one of the Beyond engineering core values was “We Ship It!” More recently, we translated it to "Ship Early." At Beyond, the best way to ship safely is to ship often, and the best way to ship often is to ship smaller.
 
 Shipping early is a good way to get feedback, to quickly iterate and improve on code, break wrong assumptions, rearrange logic and fix unexpected (hopefully) small errors…
 
@@ -39,9 +39,9 @@ As Beyond founder and CTO David Kelso once said: “It's never fun when mistakes
 
 While someone is fixing a bigger issue, they are 100% focused on putting things back on the right track as soon as possible. They cannot (and should not) be wasting time and mental energy thinking about optimization or performing a deep dive on what caused the incident, we just want to get everything right very quickly! A good practice we tend to follow here, is to take notes during the problem solving because this will help to build great post-mortems that will be essential to provide an opportunity to reflect once the issue is no longer impacting users.
 
-Without a post-mortem, we may fail to recognize what we were doing right, where we could improve, and most importantly, how to avoid making the same mistakes in the future and come up with action items for a better long term solution. 
+Without a post-mortem, we may fail to recognize what we were doing right, where we could improve, and most importantly, how to avoid making the same mistakes in the future and come up with action items for a better long term solution.
 
-Still we need to emphasize that post-mortems are optional at our company. They are internal only, more targeted to engineering, but can also be really helpful for other departments like support and customer success managers to understand what happened and to help them polish their public messaging to our affected customers. 
+Still we need to emphasize that post-mortems are optional at our company. They are internal only, more targeted to engineering, but can also be really helpful for other departments like support and customer success managers to understand what happened and to help them polish their public messaging to our affected customers.
 
 ![Desktop View](/assets/images/posts/post-mortems-intro/1J37vylrl9IGdS2iwuWo4KZHe1Tt_Ocli6rxWp4k.png){: width="400" height="200" }
 _“It's never fun when mistakes (...) happen, but what really matters is how we handle them.” - David Kelso_
