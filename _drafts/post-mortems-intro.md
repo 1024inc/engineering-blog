@@ -25,7 +25,7 @@ _“What went wrong, and how/what do we learn from it?”_
 
 If we take notes during the “fixing process,” from the time we found out something was wrong and what we have done to make it right, we can build a post-mortem!
 
-The concept of “post-mortem” originates from medical jargon. By definition “it is a surgical [**examination of a dead body in order to find out the cause of death**](https://dictionary.cambridge.org/pt/dicionario/ingles/order).” This analogy can be transcribed to the engineering field as a detailed examination [**of an incident after it has happened**](https://dictionary.cambridge.org/pt/dicionario/ingles/happen). It is a useful tool to describe major incidents for the rest of the team to have a clearer picture of what went wrong and what was done to fix it!
+The concept of “post-mortem” originates from medical jargon. By definition “it is a surgical examination of a dead body in order to find out the cause of death.” This analogy can be transcribed to the engineering field as a detailed examination of an incident after it has happened. It is a useful tool to describe major incidents for the rest of the team to have a clearer picture of what went wrong and what was done to fix it!
 
 Post-mortems are intended to help us learn from past incidents and mistakes to avoid repeating them in the future.
 
