@@ -1,7 +1,7 @@
 ---
 title: Post-mortems intro
 author: Ines Martins
-date: 2022-02-01 11:33:00 +0800
+date: 2022-02-02 11:33:00 +0800
 categories: []
 tags: [postmortem]
 math: true
