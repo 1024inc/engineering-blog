@@ -6,8 +6,8 @@ categories: []
 tags: []
 math: true
 mermaid: true
-image: /assets/images/posts/20190808/mockup.png
-src: /assets/images/posts/20190808/mockup.png
+image: /assets/images/posts/post-mortems-intro/skeleton.gif
+src: /assets/images/posts/post-mortems-intro/skeleton.gif
 width: 800
 height: 500
 ---
