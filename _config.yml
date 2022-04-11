@@ -160,6 +160,7 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - _drafts
 
 jekyll-archives:
   enabled: [categories, tags]
