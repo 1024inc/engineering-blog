@@ -1,5 +1,5 @@
 ---
-title: Empathy and Compassion in Communication (part 2)
+title: Empathy and Compassion in Communication (part 1)
 author: Francois Toubol
 date: 2022-04-11 12:00:00 +0800
 ---
