@@ -1,10 +1,10 @@
 ---
-title: Empathy and Compassion in Communication
+title: Empathy and Compassion in Communication (part 2)
 author: Francois Toubol
 date: 2022-04-11 12:00:00 +0800
 tags: [communication, self-help]
 ---
-<span style="font-size:25px;">4 tips I learned as an Engineer (part 1)</span><br/>
+![Zen](/assets/images/zen.png)
 
 Effective engineers are strong problem solvers. Great engineers have also become inspiring leaders and master communicators. Whether you want to take your career to the next level, or simply aspire to round-up your skillset, leveling up your self-awareness and communication skills will open many doors on your personal and professional path. In a spirit of sharing, here are four lessons I have learned.
 
@@ -20,7 +20,7 @@ So I began learning. I listened to the advice of peers and proven communicators 
 
 Learning, to me, encompasses the purpose of life. It is playful in its essence and makes living about the journey rather than the destination. 
 
-# Four Learnings
+# Four principles I practice along the way
 
 ## 1. Listen, listen, listen… and watch
 
@@ -41,10 +41,9 @@ Nearly invariably, *“Listening”* was part of the answer. [David Deal](https:
 
 What does it mean to listen, and how can we get better at it? I believe the answer greatly depends on our degrees of extroversion, and intuition. Listening is in part creating space and safety for others to participate in the exchange of information. The more extroverted we are in relation to others, the more we should be self-aware of our propensity to occupy that space and refrain from doing so. Listening means opening our mind to the ideas of others, and broadening our perspective by leveraging diversity of thoughts.
 
+<div style="text-align:center;font-weight:bold;font-size:25px;"><span style="font-style:italic;"><br/>“Listen with the intent to understand, not respond.” </span><a id="an1" href="#fn1">¹</a> <br/>-Stephen Covey</div><br/>
 
-<div style="text-align:center;font-weight:bold;font-size:25px;"><span style="font-style:italic;"><br/>“Listen with the intent to understand, not respond.”</span><br/>-Stephen Covey<br/><br/></div>
-
-The more intuitive we are, the more we tend to solve puzzles and search for information inside instead of outside. And so we listen to our own internal voice using our mind rather than to the voice of others, using our ears. If you are intuitive, which can be considered a trait for many engineers, try to tame your inside voice and make the effort to clearly listen to others. If you are ever in doubt, you can always use paraphrasing and other [active listening techniques](https://www.thebalancecareers.com/active-listening-skills-with-examples-2059684). Many experiments have proven that the exact intended meaning of a message, is nearly never fully understood. And so, we can always pause and resort to constructions such as: 
+The more intuitive we are, the more we tend to solve puzzles and search for information inside instead of outside. And so we listen to our own internal voice using our mind rather than to the voice of others, using our ears. If you are intuitive, which can be considered a trait for many engineers, try to tame your inside voice and make the effort to clearly listen to others. If you are ever in doubt, you can always use paraphrasing and other [active listening techniques](https://www.thebalancecareers.com/active-listening-skills-with-examples-2059684). Many experiments have proven that the exact intended meaning of a message, is nearly never fully understood. And so, we can always pause and resort to constructions such as:
 
 *“This is what I heard you say: &lt;fill in&gt;. I understand what you mean is &lt;extract meaning&gt;. Is that right?”*
 
@@ -76,7 +75,7 @@ We know we are emitting a judgment when we give implicit intention to the subjec
 
 &#45; *“Joey ridiculed me in front of our boss at this morning’s stand-up”*
 
-We can choose to stay away from judgements and evaluation by candidly sticking to observations. Observations are often expressed as gaps between what we observe and what we expected. Here are a few examples from Marshall Rosenberg’s Nonviolent Communication:
+We can choose to stay away from judgements and evaluation by candidly sticking to observations. Observations are often expressed as gaps between what we observe and what we expected. Here are a few examples from Marshall Rosenberg’s Nonviolent Communication<a id="an2" href="#fn2">²</a>:
 
 **Evaluation**: *“The boss is procrastinating around this decision.”*
 
@@ -111,3 +110,17 @@ By doing so and pausing time between stimulus and response, we might end up with
 &#45; *“Joey saw our boss was uncomfortable and wanted to crack a joke. He wanted to re-establish safety in the conversation for him. He also fully expected me to be witty and come back at him to further diffuse the tension in the room. It was nothing personal.”*
 
 We have no real way to fully assess someone else’s intentions. What we can do is choosing the stories we tell ourselves and own the space between stimulus and response.
+
+Dear reader, if you are interested in reading more, you can head to [part 2](/posts/empathy-and-compassion-in-communication-part-2). 
+
+I am grateful for your time and consideration. In an attempt to learn, I would appreciate if you could tell me in the comments:
+1. The one concept that most resonated with you
+2. Any suggestions you may have to improve the content or the delivery
+
+Thank you! 🙏
+
+---
+
+<b id="fn1">1:</b> <a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"><i>The 7 Habits of Highly Effective People</i></a> Habit #5: Seek first to understand, then to be understood.[↩](#an1)
+
+<b id="fn2">2:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication"><i>Nonviolent Communication: A Language of Life</i></a> [↩](#an2)
