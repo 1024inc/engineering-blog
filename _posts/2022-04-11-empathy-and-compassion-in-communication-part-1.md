@@ -2,6 +2,7 @@
 title: Empathy and Compassion in Communication (part 1)
 author: Francois Toubol
 date: 2022-04-11 12:00:00 +0800
+comments: true
 ---
 ![Zen](/assets/images/zen.png)
 
@@ -19,7 +20,7 @@ So I began learning. I listened to the advice of peers and proven communicators 
 
 Learning, to me, encompasses the purpose of life. It is playful in its essence and makes living about the journey rather than the destination. 
 
-# Four principles I practice along the way
+# Four principles I try to practice along the way
 
 ## 1. Listen, listen, listen… and watch
 
@@ -110,9 +111,11 @@ By doing so and pausing time between stimulus and response, we might end up with
 
 We have no real way to fully assess someone else’s intentions. What we can do is choosing the stories we tell ourselves and own the space between stimulus and response.
 
+---
+
 Dear reader, if you are interested in reading more, you can head to [part 2](/posts/empathy-and-compassion-in-communication-part-2). 
 
-I am grateful for your time and consideration. In an attempt to learn, I would appreciate if you could tell me in the comments:
+Thank you for taking the time to read this article. I am grateful for your time and consideration. I will cherish the gift of feedback, and would appreciate if you could tell me in the comments:
 1. The one concept that most resonated with you
 2. Any suggestions you may have to improve the content or the delivery
 
@@ -120,6 +123,10 @@ Thank you! 🙏
 
 ---
 
-<b id="fn1">1:</b> <a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"><i>The 7 Habits of Highly Effective People</i></a> Habit #5: Seek first to understand, then to be understood.[↩](#an1)
+<b id="fn1">1:</b> <a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"><i>Stephen R Covey, The 7 Habits of Highly Effective People</i></a> Habit #5: Seek first to understand, then to be understood.[↩](#an1)
 
-<b id="fn2">2:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication"><i>Nonviolent Communication: A Language of Life</i></a> [↩](#an2)
+<b id="fn2">2:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication"><i>Marshall Rosenberg, Nonviolent Communication: A Language of Life</i></a> [↩](#an2)
+
+{% if page.comments%}
+{% include disqus.html %}
+{% endif %}
