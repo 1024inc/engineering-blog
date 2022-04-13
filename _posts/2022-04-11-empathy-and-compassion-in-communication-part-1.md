@@ -1,5 +1,6 @@
 ---
 title: Empathy and Compassion in Communication (part 1)
+description: Effective engineers are strong problem solvers. Great engineers have also become inspiring leaders and master communicators.
 author: Francois Toubol
 date: 2022-04-11 12:00:00 +0800
 comments: true
