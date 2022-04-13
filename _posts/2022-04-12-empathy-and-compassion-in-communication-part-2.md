@@ -3,6 +3,7 @@ title: Empathy and Compassion in Communication (part 2)
 author: Francois Toubol
 date: 2022-04-12 12:00:00 +0800
 comments: true
+tags: [typography, test]
 ---
 ![Zen](/assets/images/zen.png)
 
