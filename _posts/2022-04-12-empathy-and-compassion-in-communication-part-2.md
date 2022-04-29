@@ -103,11 +103,11 @@ Thank you! 🙏
 
 ---
 
-<b id="fn1">1:</b> <a href="https://www.youtube.com/watch?v=hZIC2f0fMKY"><i>Benjamin Zanders, Choosing Your World, Google ZeitGeist, 2011</i></a> [↩](#an1)
+<b id="fn1">1:</b> <a href="https://www.youtube.com/watch?v=hZIC2f0fMKY" target="_blank"><i>Benjamin Zanders, Choosing Your World, Google ZeitGeist, 2011</i></a> [↩](#an1)
 
-<b id="fn2">2:</b> <a href="https://brenebrown.com/hubs/dare-to-lead/"><i>Bréné Brown, Dare to Lead</i></a> [↩](#an2)
+<b id="fn2">2:</b> <a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank"><i>Bréné Brown, Dare to Lead</i></a> [↩](#an2)
 
-<b id="fn3">3:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication"><i>Marshall Rosenberg, Nonviolent Communication: A Language of Life</i></a> [↩](#an3)
+<b id="fn3">3:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication" target="_blank"><i>Marshall Rosenberg, Nonviolent Communication: A Language of Life</i></a> [↩](#an3)
 
 {% if page.comments%}
 {% include disqus.html %}
