@@ -41,3 +41,10 @@ order: 3
 <hr style="border-color:#02b006 !important" />
 
 ➡ If you read until here and are interested in our openings, check out this <a href="https://www.linkedin.com/company/beyond-pricing/jobs/" target="_blank">link</a>! 🎉
+
+
+<!--
+You know you could be getting paid to poke around in our code?
+We're hiring across the world! 
+https://www.beyondpricing.com/about/careers
+-->
