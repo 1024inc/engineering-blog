@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 0
 ---
 
-**_We are a team of engineers who are passionate about building together a product that is useful and easy to use. We are doing so by following our engineering principles:_**
+**We are a fun bunch of devs passionate about collaborating to build useful and easy to use products. We are doing so by using the following principles:**
 
 
 ## Reduce scope

@@ -25,7 +25,7 @@ Learning, to me, encompasses the purpose of life. It is playful in its essence a
 
 ## 1. Listen, listen, listen… and watch
 
-<blockquote style="color:#cccccc;font-size:20px;font-style:italic;">
+<blockquote style="font-size:20px;font-style:italic;">
 TL;DR<br/>
 Try and listen with your ears, eyes and heart, not just with your head<br/>
 Speak tentatively and create space for others to safely share their stories<br/>
@@ -52,7 +52,7 @@ Finally, being in receiving mode means listening for a message. That message is 
 
 ## 2. Stick to observations, avoid judgements and evaluations
 
-<blockquote style="color:#cccccc;font-size:20px;font-style:italic;">
+<blockquote style="font-size:20px;font-style:italic;">
 TL;DR<br/>
 Slow down, recognize when you are telling yourself “villains or victims” stories<br/>
 Search for explanations that presuppose of positive intent<br/>
@@ -124,9 +124,9 @@ Thank you! 🙏
 
 ---
 
-<b id="fn1">1:</b> <a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"><i>Stephen R Covey, The 7 Habits of Highly Effective People</i></a> Habit #5: Seek first to understand, then to be understood.[↩](#an1)
+<b id="fn1">1:</b> <a href="https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People" target="_blank"><i>Stephen R Covey, The 7 Habits of Highly Effective People</i></a> Habit #5: Seek first to understand, then to be understood.[↩](#an1)
 
-<b id="fn2">2:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication"><i>Marshall Rosenberg, Nonviolent Communication: A Language of Life</i></a> [↩](#an2)
+<b id="fn2">2:</b> <a href="https://en.wikipedia.org/wiki/Nonviolent_Communication" target="_blank"><i>Marshall Rosenberg, Nonviolent Communication: A Language of Life</i></a> [↩](#an2)
 
 {% if page.comments%}
 {% include disqus.html %}

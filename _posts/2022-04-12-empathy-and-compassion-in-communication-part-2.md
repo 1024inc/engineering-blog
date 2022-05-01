@@ -13,7 +13,7 @@ This is a continuation of [part 1](/posts/empathy-and-compassion-in-communicatio
 
 ## 3. Resort to your problem-solving abilities
 
-<blockquote style="color:#cccccc;font-size:20px;font-style:italic;">
+<blockquote style="font-size:20px;font-style:italic;">
 TL;DR<br/>
 Analyze problems in a systematic, pragmatic way, and don’t stop there<br/>
 Assess whether you want to tackle the situation or not<br/>
@@ -52,7 +52,7 @@ Problem solving and gap bridging are great tools to have in our bag, but they ar
 
 ## 4. Show empathy and practice compassion
 
-<blockquote style="color:#cccccc;font-size:20px;font-style:italic;">
+<blockquote style="font-size:20px;font-style:italic;">
 TL;DR<br/>
 Empathy and compassion are crucial at all levels of communication, especially in conflict resolution and emotional support<br/>
 Refrain from using problem solving (3.)<br/>
