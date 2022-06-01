@@ -2,7 +2,7 @@
 title: Tools to backfill large PostgreSQL tables (part 1)
 author: Tamas Simak
 date: 2022-06-01 08:00:00 +0800
-tags: [databases, sql, postgresql, backfill, python]
+tags: []
 comments: true
 ---
 
