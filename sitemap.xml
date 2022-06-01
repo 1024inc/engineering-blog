@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://1024inc.github.io/engineering-blog//posts/post-mortems-intro/</loc>
+<lastmod>2022-05-23T04:34:57-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//posts/empathy-and-compassion-in-communication-part-1/</loc>
+<lastmod>2022-05-01T16:47:51-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//posts/empathy-and-compassion-in-communication-part-2/</loc>
+<lastmod>2022-05-01T16:47:51-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//posts/tools-to-backfill-large-postgresql-tables-pt1/</loc>
+<lastmod>2022-06-01T02:26:08-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//principles/</loc>
+<lastmod>2022-06-01T02:27:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//archives/</loc>
+<lastmod>2022-06-01T02:27:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//interview-process/</loc>
+<lastmod>2022-06-01T02:27:25-05:00</lastmod>
+</url>
+<url>
+<loc>https://1024inc.github.io/engineering-blog//</loc>
+</url>
+</urlset>
