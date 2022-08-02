@@ -1,6 +1,6 @@
 ---
 title: Interview Process
-icon: fas fa-play-circle
+icon: fas fa-handshake
 order: 3
 ---
 

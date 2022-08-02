@@ -1,6 +1,6 @@
 ---
 title: Principles
-icon: fas fa-info-circle
+icon: fas fa-heartbeat
 order: 0
 ---
 

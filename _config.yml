@@ -18,11 +18,13 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Beyond Engineering                          # the main title
+title: |
+  Engineering<br/>
+  @ Beyond
 
-tagline: Let's geek out!   # it will display as the sub-title
+tagline: Let's go Beyond together!   # it will display as the sub-title
 
-description: Beyond Engineering                        # used by seo meta and the atom feed
+description: Beyond Engineering                       # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://1024inc.github.io/engineering-blog/'
