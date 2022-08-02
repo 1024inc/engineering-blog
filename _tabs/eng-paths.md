@@ -38,11 +38,11 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 
 | | IC Path | EM Path |
 |---|---|---|
-| L1 | [Software Engineer Intern](software_engineer_intern) | |
-| L2 | [Software Engineer 2](software_engineer_2) | |
-| L2 | [Software Engineer 3](software_engineer_3) | |
-| L3 | [Senior Software Engineer](sr_software_engineer) | |
-| L4 | [Senior Software Engineer 2](sr_software_engineer_2) | [TL/EM Hybrid](tech_lead_engineering_manager_hybrid) |
-| L4 | [Senior Software Engineer 2](sr_software_engineer_2) | [Engineering Manager 2](engineering_manager_2) |
-| L5 | [Staff Engineer](staff_engineer) | [Director of Engineering](director_of_engineering) |
-| L6 | [Senior Staff Engineer](sr_staff_engineer) | [VP of Engineering](vp_of_engineering) |
+| L1 | [Software Engineer Intern](software_engineer_intern.html) | |
+| L2 | [Software Engineer 2](software_engineer_2.html) | |
+| L2 | [Software Engineer 3](software_engineer_3.html) | |
+| L3 | [Senior Software Engineer](sr_software_engineer.html) | |
+| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [TL/EM Hybrid](tech_lead_engineering_manager_hybrid.html) |
+| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [Engineering Manager 2](engineering_manager_2.html) |
+| L5 | [Staff Engineer](staff_engineer.html) | [Director of Engineering](director_of_engineering.html) |
+| L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
