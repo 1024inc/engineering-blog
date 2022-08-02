@@ -14,7 +14,7 @@ order: 3
 **It's always a two-way road! We're looking forward to meeting you, and also letting you know more about us! 🙌🏽**
 
 
-## 🚀 Engineer's Funnel
+## 🚀 Here is hat to expect when you interview for a job at Beyond.
    1. Skills assessment
       - Have a video conversation with someone on our Recruiting team. This is a high-level conversation about your experience and interest, but also an opportunity for you to learn more about us :)
    2. Hiring Manager interview
