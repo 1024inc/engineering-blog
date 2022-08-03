@@ -1,5 +1,5 @@
 ---
-title: Engineering Paths 
+title: Engineering Paths
 icon: fas fa-users
 layout: page
 order: 2
