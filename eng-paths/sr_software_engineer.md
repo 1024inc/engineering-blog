@@ -33,6 +33,8 @@ Sr Software Engineer
 </td>
 </tr>
 </table>
+
+
 ### Scope of action
 <table  markdown="1">
 <tr>
@@ -60,6 +62,8 @@ Epic / Project
 </td>
 </tr>
 </table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -81,13 +85,18 @@ Sr Software Engineer
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Technical expert on 1 product / key component, learning to solid understanding of 2 other products / key components
+- Technical expert on 1 product / key component
+- Learning to solid understanding of 2 other products / key components
 - Expert in one technology on one part of our stack
 - Strong proficiency in primary focus area (BE/FE/or Data)
 - Proficient with DevOps and Observability stacks
 
 </td></tr>
 </table>
+
+
+_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components)_
+
 ### Responsibilities
 <table  markdown="1">
 <tr><td>
@@ -118,6 +127,8 @@ Sr Software Engineer
 
 </td></tr>
 </table>
+
+
 ### Communication and leadership
 <table  markdown="1">
 <tr><td>
@@ -146,6 +157,8 @@ Sr Software Engineer
 
 </td></tr>
 </table>
+
+
 ### Competencies focus
 <table  markdown="1">
 <tr>
@@ -175,6 +188,10 @@ Sr Software Engineer
 </td>
 </tr>
 </table>
+
+
+_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings)_
+
 ### Job Description
 <table  markdown="1">
 <tr>
@@ -207,6 +224,8 @@ Sr Software Engineer
 </td>
 </tr>
 </table>
+
+
 ### Checkpoints
 <table  markdown="1">
 <tr><td>
@@ -235,3 +254,5 @@ Sr Software Engineer
 
 </td></tr>
 </table>
+
+

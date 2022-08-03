@@ -43,6 +43,8 @@ Engineering Manager 2
 </td>
 </tr>
 </table>
+
+
 ### Scope of action
 <table  markdown="1">
 <tr>
@@ -81,6 +83,8 @@ Engineering Manager 2
 </td>
 </tr>
 </table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -90,7 +94,8 @@ Sr Software Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert on 1 product / key component, learning to solid understanding of 2 other products / key components
+- Technical expert on 1 product / key component
+- Learning to solid understanding of 2 other products / key components
 - Expert in one technology on one part of our stack
 - Strong proficiency in primary focus area (BE/FE/or Data)
 - Proficient with DevOps and Observability stacks
@@ -123,6 +128,8 @@ Engineering Manager 2
 
 </td></tr>
 </table>
+
+
 ### Responsibilities
 <table  markdown="1">
 <tr><td>
@@ -173,6 +180,8 @@ Engineering Manager 2
 
 </td></tr>
 </table>
+
+
 ### Communication and leadership
 <table  markdown="1">
 <tr><td>
@@ -220,6 +229,8 @@ Engineering Manager 2
 
 </td></tr>
 </table>
+
+
 ### Competencies focus
 <table  markdown="1">
 <tr>
@@ -260,6 +271,10 @@ Engineering Manager 2
 </td>
 </tr>
 </table>
+
+
+_reference: [People manager competencies](https://app.tettra.co/teams/beyondpricing/pages/people-managers)_
+
 ### Job Description
 <table  markdown="1">
 <tr>
@@ -300,6 +315,8 @@ Engineering Manager 2
 </td>
 </tr>
 </table>
+
+
 ### Checkpoints
 <table  markdown="1">
 <tr><td>
@@ -341,3 +358,5 @@ Engineering Manager 2
 
 </td></tr>
 </table>
+
+

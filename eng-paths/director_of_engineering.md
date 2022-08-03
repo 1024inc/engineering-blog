@@ -43,6 +43,8 @@ VP of Engineering
 </td>
 </tr>
 </table>
+
+
 ### Scope of action
 <table  markdown="1">
 <tr>
@@ -80,6 +82,8 @@ Organization
 </td>
 </tr>
 </table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -131,6 +135,8 @@ VP of Engineering
 
 </td></tr>
 </table>
+
+
 ### Responsibilities
 <table  markdown="1">
 <tr><td>
@@ -181,6 +187,8 @@ VP of Engineering
 
 </td></tr>
 </table>
+
+
 ### Communication and leadership
 <table  markdown="1">
 <tr><td>
@@ -227,6 +235,8 @@ VP of Engineering
 
 </td></tr>
 </table>
+
+
 ### Competencies focus
 <table  markdown="1">
 <tr>
@@ -267,6 +277,10 @@ VP of Engineering
 </td>
 </tr>
 </table>
+
+
+_reference: [People manager competencies](https://app.tettra.co/teams/beyondpricing/pages/people-managers)_
+
 ### Job Description
 <table  markdown="1">
 <tr>
@@ -304,6 +318,8 @@ WIP
 </td>
 </tr>
 </table>
+
+
 ### Checkpoints
 <table  markdown="1">
 <tr><td>
@@ -340,3 +356,5 @@ WIP
 
 </td></tr>
 </table>
+
+

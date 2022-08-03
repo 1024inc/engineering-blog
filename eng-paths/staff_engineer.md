@@ -43,6 +43,10 @@ Sr Staff Engineer
 </td>
 </tr>
 </table>
+
+
+_reference: fork_
+
 ### Scope of action
 <table  markdown="1">
 <tr>
@@ -80,6 +84,8 @@ Whole platform and organization
 </td>
 </tr>
 </table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -119,6 +125,10 @@ Sr Staff Engineer
 
 </td></tr>
 </table>
+
+
+_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components)_
+
 ### Responsibilities
 <table  markdown="1">
 <tr><td>
@@ -165,6 +175,8 @@ Sr Staff Engineer
 
 </td></tr>
 </table>
+
+
 ### Communication and leadership
 <table  markdown="1">
 <tr><td>
@@ -207,6 +219,8 @@ Sr Staff Engineer
 
 </td></tr>
 </table>
+
+
 ### Competencies focus
 <table  markdown="1">
 <tr>
@@ -247,6 +261,10 @@ Sr Staff Engineer
 </td>
 </tr>
 </table>
+
+
+_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings)_
+
 ### Job Description
 <table  markdown="1">
 <tr>
@@ -292,6 +310,8 @@ WIP
 </td>
 </tr>
 </table>
+
+
 ### Checkpoints
 <table  markdown="1">
 <tr><td>
@@ -334,3 +354,5 @@ Sr Staff Engineer
 
 </td></tr>
 </table>
+
+
