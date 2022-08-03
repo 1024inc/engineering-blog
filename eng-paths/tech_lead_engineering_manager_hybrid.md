@@ -273,7 +273,7 @@ Engineering Manager 2
 </table>
 
 
-_reference: [People manager competencies](https://app.tettra.co/teams/beyondpricing/pages/people-managers)_
+_reference: [People manager competencies](https://app.tettra.co/teams/beyondpricing/pages/people-managers){:target="_blank"}_
 
 ### Job Description
 <table  markdown="1">

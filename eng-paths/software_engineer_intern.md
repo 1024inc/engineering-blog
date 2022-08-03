@@ -91,7 +91,7 @@ Software Engineer 2
 </table>
 
 
-_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components)_
+_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components){:target="_blank"}_
 
 ### Responsibilities
 <table  markdown="1">
@@ -182,7 +182,7 @@ Software Engineer 2
 </table>
 
 
-_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings)_
+_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings){:target="_blank"}_
 
 ### Job Description
 <table  markdown="1">
