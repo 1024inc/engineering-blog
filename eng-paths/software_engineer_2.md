@@ -1,7 +1,7 @@
 ---
 title: Software Engineer 2
 icon: fas fa-users
-order: 2
+order: 3
 layout: page
 ---
 
@@ -21,7 +21,7 @@ Software Engineer 2
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td>
 </tr>
@@ -38,7 +38,7 @@ Software Engineer 2
 </td>
 <td  markdown="1">
 
-2 to 5
+4 to 6
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ Software Engineer 2
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Story / Task
 </td>
 <td  markdown="1">
 
-Story / Task
+Epic / Project
 
 </td>
 </tr>
@@ -110,13 +110,14 @@ Software Engineer 2
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Learning the codebase for 1 product / key component
-- Proficient in primary focus area (BE/FE/Data/or DevOps)
+- Solid technical understanding of 1 product / key component
+- Expert in one technology on one part of our stack
+- Strong proficiency in primary focus area (BE/FE/Data/or DevOps)
 
 </td></tr>
 </table>
@@ -149,12 +150,15 @@ Software Engineer 2
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, given a clear plan and segmented stories
+- Consistently delivers on time and on target, even on larger tasks given a clear definition
+- Participates in planning and drives some team-level communication
+- Participates in improving engineering best practices
+- Participates in estimating large initiatives
 
 </td></tr>
 </table>
@@ -191,14 +195,14 @@ Software Engineer 2
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Solicits feedback from others and is eager to find ways to improve
-- Finds the right balance between reaching out for help and finding answers autonomously
-- Communicates assumptions and gets clarification on tasks up front to minimize the need for rework
+- Gives timely, helpful feedback to peers and managers
+- Understands how their work fits into the larger project and identifies problems with requirements
+- Proactively communicate with team in advance in regards to blockers and changes of deadlines
 
 </td></tr>
 </table>
@@ -219,7 +223,7 @@ Software Engineer 2
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td>
 </tr>
@@ -239,7 +243,7 @@ Software Engineer 2
 <td  markdown="1">
 
 - Deliver Results
-- Growth Mindset
+- Inclusion
 
 </td>
 </tr>
@@ -263,7 +267,7 @@ Software Engineer 2
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td>
 </tr>
@@ -318,13 +322,14 @@ Software Engineer 2
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Has pushed code to production
-- Has paired with teammates weekly for 6+ months
+- Has owned development, deployment, and improvements of multiple product features
+- Has paired with teammates weekly for 12+ months
+- Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months
 
 </td></tr>
 </table>
