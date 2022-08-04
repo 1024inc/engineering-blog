@@ -34,8 +34,8 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 | L2 | [Software Engineer 2](software_engineer_2.html) | |
 | L3 | [Software Engineer 3](software_engineer_3.html) | |
 | L3 | [Senior Software Engineer 1](sr_software_engineer_1.html) | |
-| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [Technical Lead Manager](tech_lead_engineering_manager_hybrid.html) |
-| L4 | | [Engineering Manager](engineering_manager_2.html) |
+| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [Technical Lead Manager](technical_lead_manager.html) |
+| L4 | | [Engineering Manager](engineering_manager.html) |
 | L5 | [Staff Engineer](staff_engineer.html) | [Director of Engineering](director_of_engineering.html) |
 | L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
 
