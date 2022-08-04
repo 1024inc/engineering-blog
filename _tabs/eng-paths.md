@@ -24,7 +24,7 @@ In the end, it is on you to be your own advocate!
 _- Arquay Harris, VPE @ Webflow_
 
 ### Compensation philosophy
-We hold ourselves accountable to be equitable. Therefore, we are constantly monitoring and updating our salary bands according to market data. These bands are related to the different roles on the engineering paths and are wide enough to allow for compensation increases even outside the scope of a promotion. More details [here](https://app.tettra.co/teams/beyondpricing/pages/compensation)
+We hold ourselves accountable to be equitable. Therefore, we are constantly monitoring and updating our salary bands according to market data. These bands are related to the different roles on the engineering paths and are wide enough to allow for compensation increases even outside the scope of a promotion. More details [here](https://app.tettra.co/teams/beyondpricing/pages/compensation) (internal link)
 
 ### Map of Paths
 
@@ -33,9 +33,9 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 | L1 | [Software Engineer Intern](software_engineer_intern.html) | |
 | L2 | [Software Engineer 2](software_engineer_2.html) | |
 | L3 | [Software Engineer 3](software_engineer_3.html) | |
-| L3 | [Senior Software Engineer](sr_software_engineer.html) | |
-| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [TL/EM Hybrid](tech_lead_engineering_manager_hybrid.html) |
-| L4 | | [Engineering Manager 2](engineering_manager_2.html) |
+| L3 | [Senior Software Engineer 1](sr_software_engineer_1.html) | |
+| L4 | [Senior Software Engineer 2](sr_software_engineer_2.html) | [Technical Lead Manager](tech_lead_engineering_manager_hybrid.html) |
+| L4 | | [Engineering Manager](engineering_manager_2.html) |
 | L5 | [Staff Engineer](staff_engineer.html) | [Director of Engineering](director_of_engineering.html) |
 | L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
 

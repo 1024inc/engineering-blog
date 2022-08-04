@@ -21,7 +21,7 @@ Staff Engineer
 </td>
 <td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td>
 </tr>
@@ -38,7 +38,7 @@ Sr Staff Engineer
 </td>
 <td  markdown="1">
 
-15+
+10+
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ Staff Engineer
 </td>
 <td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ Whole platform
 </td>
 <td  markdown="1">
 
-Whole platform and organization
+Whole platform
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Sr Software Engineer 2
 <tr><td  markdown="1">
 
 - Technical expert on 2 products / key components, solid on the rest of the platform
-- Expert in primary focus area (BE/FE/or Data)
+- Expert in primary focus area (BE/FE/Data/or DevOps)
 - Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies
 
 </td></tr>
@@ -108,26 +108,26 @@ Staff Engineer
 <tr><td markdown="1" style="font-weight:bold">
 
 - Technical expert in most key components and solid on 2 products
-- Expert in primary focus area (BE/FE/or Data)
+- Expert in primary focus area (BE/FE/Data/or DevOps)
 - Strong proficiency in all other technologies across the codebase and infrastructure
 
 </td></tr>
 <tr><td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert in all key components and solid on the entire codebase
-- Expert in primary focus area (BE/FE/or Data)
+- Technical expert in most key components and solid on 2 products
+- Expert in primary focus area (BE/FE/Data/or DevOps)
 - Strong proficiency in all other technologies across the codebase and infrastructure
 
 </td></tr>
 </table>
 
 
-_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components){:target="_blank"}_
+_reference: [Products and key components (internal link)](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components){:target="_blank"}_
 
 ### Responsibilities
 <table  markdown="1">
@@ -160,7 +160,7 @@ Staff Engineer
 </td></tr>
 <tr><td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td></tr>
 <tr><td  markdown="1">
@@ -170,8 +170,6 @@ Sr Staff Engineer
 - Mentors engineers and fosters their growth
 - Coach teams to continuously improve delivery pace and quality
 - Can step in as a contributor on any team when needed
-- Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required
-- Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition
 
 </td></tr>
 </table>
@@ -207,15 +205,16 @@ Staff Engineer
 </td></tr>
 <tr><td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Communicates the awesomeness of Beyond's tech community externally via talks and blog posts. Identifies areas that Beyond can share effectively with the outside world and guides the creation of content and communication around these areas
-- Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammates and exec buy-in around the plan
-- Seen as a role model and mentor to every technical member of the team
-- Serves as the main technical advisor for and works directly and closely with senior management
+- Multiplies the effectiveness of others by facilitating cross-team work
+- Primarily acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity of the entire org
+- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates and backs to all stakeholders
+- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammates and exec buy-in around the plan
+- Serves as a technical advisor and works closely with senior management
 
 </td></tr>
 </table>
@@ -236,7 +235,7 @@ Staff Engineer
 </td>
 <td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td>
 </tr>
@@ -255,17 +254,17 @@ Sr Staff Engineer
 </td>
 <td  markdown="1">
 
-- Strategic thinking
-- Deliver Results
+- Deliver results
+- Stretegic thinking
 
 </td>
 </tr>
 </table>
 
 
-_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings){:target="_blank"}_
+_reference: [Individual Contributor competencies (internal link)](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings){:target="_blank"}_
 
-### Job Description
+### Job Description (Internal links)
 <table  markdown="1">
 <tr>
 <td>
@@ -280,32 +279,27 @@ Staff Engineer
 </td>
 <td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td>
 </tr>
 <tr>
 <td  markdown="1">
 
-- [Backend Engineer](https://docs.google.com/document/d/1ZrhG2n7VqcpCfkCK85txt6EJhEoKhQplPFtRYhZikGg/edit?usp=sharing)
-- [Frontend Engineer](https://docs.google.com/document/d/1HW-qf4jHMaDq5lHOvavL3DiCCL8UE3Yfv4gVaufRzBk/edit?usp=sharing)
-- [Data Engineer (Algo)](https://docs.google.com/document/d/1g0fi11JI3xjaWpk5EdJI4PMZY_Jf8xwU8U7opdGYsfY/edit?usp=sharing)
-- [Fullstack Engineer](https://docs.google.com/document/d/1HW-qf4jHMaDq5lHOvavL3DiCCL8UE3Yfv4gVaufRzBk/edit?usp=sharing)
+- [Sr Backend Engineer](https://docs.google.com/document/d/1ZrhG2n7VqcpCfkCK85txt6EJhEoKhQplPFtRYhZikGg/edit?usp=sharing){:target="_blank"}
+- [Sr Fullstack Engineer](https://docs.google.com/document/d/1HW-qf4jHMaDq5lHOvavL3DiCCL8UE3Yfv4gVaufRzBk/edit?usp=sharing){:target="_blank"}
+- [Sr Data Engineer (Algo)](https://docs.google.com/document/d/1g0fi11JI3xjaWpk5EdJI4PMZY_Jf8xwU8U7opdGYsfY/edit?usp=sharing){:target="_blank"}
+- [Sr DevOps Engineer](https://docs.google.com/document/d/1_IKR__6aqRAJEd4mRv6ukUJ7Gx3-hQkXHSDvDKmqFBI/edit){:target="_blank"}
 
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-- [Staff Engineer](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit)
+- [Staff Engineer](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit){:target="_blank"}
 
 </td>
 <td  markdown="1">
 
-WIP
-- [Sr Staff, Architect](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit)
-- [Sr Staff, Solver](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit)
-- [Sr Staff, Infrastructure](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit)
-- [Sr Staff, Right Hand](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit)
-- [Inspired by Will Larsen](https://lethain.com/staff-engineer-archetypes/)
+- [Staff Engineer](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit){:target="_blank"}
 
 </td>
 </tr>
@@ -342,15 +336,15 @@ Staff Engineer
 </td></tr>
 <tr><td>
 
-Sr Staff Engineer
+Staff Engineer
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Has mentored and championed the promotion of 4+ ICs to Sr SE2 or Staff Engineer
-- Has regularly contributed to a technical blog or publications over the past 12 months
-- Has presented on software or management topics to external audiences such as conferences and interest groups and acted as a talent acquisition champion for Beyond
-- Has championed the promotion of 4+ engineers
+- Has been a tech lead for 2+ years
+- Has championed and executed 2+ technical migrations or large multi-months platform/staff projects
+- Has documented 10+ technical aspects of systems implementation and/or post-mortems
+- Has championed the promotion of 2+ engineers
 
 </td></tr>
 </table>

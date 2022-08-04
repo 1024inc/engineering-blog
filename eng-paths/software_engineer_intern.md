@@ -16,7 +16,7 @@ Software Engineer Intern
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ Software Engineer Intern
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ Support / ad-hoc
 </td>
 <td  markdown="1">
 
-Story / Task
+WIP
 
 </td>
 </tr>
@@ -79,19 +79,18 @@ Software Engineer Intern
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Learning the codebase for 1 product / key component
-- Proficient in primary focus area (BE/FE/or Data)
+WIP
 
 </td></tr>
 </table>
 
 
-_reference: [Products and key components](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components){:target="_blank"}_
+_reference: [Products and key components (internal link)](https://app.tettra.co/teams/beyondpricing/pages/platform-products-and-key-components){:target="_blank"}_
 
 ### Responsibilities
 <table  markdown="1">
@@ -108,12 +107,12 @@ Software Engineer Intern
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, given a clear plan and segmented stories
+WIP
 
 </td></tr>
 </table>
@@ -138,14 +137,12 @@ Software Engineer Intern
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Solicits feedback from others and is eager to find ways to improve
-- Finds the right balance between reaching out for help and finding answers autonomously
-- Communicates assumptions and gets clarification on tasks up front to minimize the need for rework
+WIP
 
 </td></tr>
 </table>
@@ -161,7 +158,7 @@ Software Engineer Intern
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td>
 </tr>
@@ -174,7 +171,7 @@ Software Engineer 2
 </td>
 <td  markdown="1">
 
-- Deliver Results
+- Career Development
 - Growth Mindset
 
 </td>
@@ -182,9 +179,9 @@ Software Engineer 2
 </table>
 
 
-_reference: [Individual Contributor competencies](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings){:target="_blank"}_
+_reference: [Individual Contributor competencies (internal link)](https://app.tettra.co/teams/beyondpricing/pages/individual-contributor-competencies-and-trainings){:target="_blank"}_
 
-### Job Description
+### Job Description (Internal links)
 <table  markdown="1">
 <tr>
 <td style="font-weight:bold">
@@ -194,7 +191,7 @@ Software Engineer Intern
 </td>
 <td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td>
 </tr>
@@ -206,9 +203,7 @@ WIP
 </td>
 <td  markdown="1">
 
-- [Backend Engineer](https://docs.google.com/document/d/10VKig1bdGAL84U19PGRNuFRJMcMCgUbkjecydL-t7yA/edit?usp=sharing)
-- [Frontend Engineer](https://docs.google.com/document/d/1Wzi1i_KIhe9cz_E4aHXNMAe0MKIKF8wjoZom1grItEY/edit?usp=sharing)
-- [Data Engineer (Algo)](https://docs.google.com/document/d/1GGsQfApH5Ee76S4A3YR1klI9VGK4AYArad0FY6S7acA/edit?usp=sharing)
+WIP
 
 </td>
 </tr>
@@ -229,13 +224,12 @@ N/A
 </td></tr>
 <tr><td>
 
-Software Engineer 2
+Software Engineer 1 - WIP
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Has pushed code to production
-- Has paired with teammates weekly for 6+ months
+WIP
 
 </td></tr>
 </table>

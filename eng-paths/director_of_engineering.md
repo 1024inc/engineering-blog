@@ -5,13 +5,13 @@ order: 12
 layout: page
 ---
 
-# Director of Engineering (Engineering Management Path)
+# Director of Engineering (People Manager Path)
 ### Years of xp (guideline)
 <table  markdown="1">
 <tr>
 <td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td>
 <td style="font-weight:bold">
@@ -21,7 +21,7 @@ Director of Engineering
 </td>
 <td>
 
-VP of Engineering
+Director of Engineering
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ VP of Engineering
 <tr>
 <td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td>
 <td style="font-weight:bold">
@@ -60,7 +60,7 @@ Director of Engineering
 </td>
 <td>
 
-VP of Engineering
+Director of Engineering
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ VP of Engineering
 </td>
 <td  markdown="1">
 
-Organization
+4-6 teams / 3-4 directs, 15-20 total
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Organization
 <table  markdown="1">
 <tr><td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -118,7 +118,7 @@ Director of Engineering
 </td></tr>
 <tr><td>
 
-VP of Engineering
+Director of Engineering
 
 </td></tr>
 <tr><td  markdown="1">
@@ -129,9 +129,8 @@ VP of Engineering
 - Capacity planning, resource allocation, and budgeting
 - Product strategy
 - Technical mentorship
-- Cross-functional and external communication
+- Cross-functional communication
 - Engineering metrics
-- Organizational design
 
 </td></tr>
 </table>
@@ -141,7 +140,7 @@ VP of Engineering
 <table  markdown="1">
 <tr><td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -174,14 +173,16 @@ Director of Engineering
 </td></tr>
 <tr><td>
 
-VP of Engineering
+Director of Engineering
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality)
+- Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality)
+- Drives EMs' happiness, engagement, and growth
+- Operates talent strategy (IDPS, retention, acquisition)
 - Collaborate with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
-- Can drive all internal and external communication
+- Can drive all internal communication, including cross-departmental
 - Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
 - Drives engineering operations strategy
 
@@ -193,7 +194,7 @@ VP of Engineering
 <table  markdown="1">
 <tr><td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -223,15 +224,14 @@ Director of Engineering
 </td></tr>
 <tr><td>
 
-VP of Engineering
+Director of Engineering
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Ensures that every member of the team understands the business goals for the quarter and has bought into these goals
-- Identifies areas for process evolution or clarification, gathers the stakeholders, and creates and communicates the strategy for resolving these issues
-- Clearly articulates the needs from a personnel and cultural standpoint that will move the engineering organization to the next level
-- Communicates executive-level strategy and helps break down business directives into technology goals
+- Collaborates across functional areas to define, prioritize and ensure implementation of specific innovations to improve technical functionality in support of business needs, efficiencies, and revenue. 
+- Leverages past experience and uses strong communication skills to collaborate effectively with all stakeholders, including customers, senior management, and other business leaders.
+- Owns budgeting and compensation management process for their teams
 
 </td></tr>
 </table>
@@ -242,7 +242,7 @@ VP of Engineering
 <tr>
 <td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td>
 <td style="font-weight:bold">
@@ -252,7 +252,7 @@ Director of Engineering
 </td>
 <td>
 
-VP of Engineering
+Director of Engineering
 
 </td>
 </tr>
@@ -279,14 +279,14 @@ VP of Engineering
 </table>
 
 
-_reference: [People manager competencies](https://app.tettra.co/teams/beyondpricing/pages/people-managers){:target="_blank"}_
+_reference: [People manager competencies (internal link)](https://app.tettra.co/teams/beyondpricing/pages/people-managers){:target="_blank"}_
 
-### Job Description
+### Job Description (Internal links)
 <table  markdown="1">
 <tr>
 <td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td>
 <td style="font-weight:bold">
@@ -296,14 +296,14 @@ Director of Engineering
 </td>
 <td>
 
-VP of Engineering
+Director of Engineering
 
 </td>
 </tr>
 <tr>
 <td  markdown="1">
 
-- [Engineering Manager](https://docs.google.com/document/d/1gfS7P_k8F-WkkkyzVtxBSsUKWPVjEDwoM6YVZAfdGWY/edit)
+- [Engineering Manager](https://docs.google.com/document/d/1gfS7P_k8F-WkkkyzVtxBSsUKWPVjEDwoM6YVZAfdGWY/edit){:target="_blank"}
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -324,7 +324,7 @@ WIP
 <table  markdown="1">
 <tr><td>
 
-Engineering Manager 2
+Engineering Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -347,12 +347,14 @@ Director of Engineering
 </td></tr>
 <tr><td>
 
-VP of Engineering
+Director of Engineering
 
 </td></tr>
 <tr><td  markdown="1">
 
-WIP
+- 4+ directly managed ICs are now Staff Engs or EMs
+- Has regularly contributed to a technical or people management blog or publication over the past 12 months
+- Has presented on software or management topics to external audiences such as conference or interest groups
 
 </td></tr>
 </table>
