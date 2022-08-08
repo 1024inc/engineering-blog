@@ -353,8 +353,8 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Has participated to mentoring, advocating, and executing 2+ IC promotions
-- Has read An Elegant Puzzle, Staff Engineer, and 3 books of choice on communication, leadership, and personal growth (7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...)
+- Has participated in mentoring, advocating, and executing 2+ IC promotions
+- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
 
 </td></tr>
 </table>
