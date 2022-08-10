@@ -11,7 +11,7 @@ layout: page
 <tr>
 <td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td>
 <td style="font-weight:bold">
@@ -50,7 +50,7 @@ Director of Engineering
 <tr>
 <td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td>
 <td style="font-weight:bold">
@@ -89,7 +89,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td></tr>
 <tr><td  markdown="1">
@@ -137,7 +137,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td></tr>
 <tr><td  markdown="1">
@@ -191,7 +191,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td></tr>
 <tr><td  markdown="1">
@@ -240,7 +240,7 @@ Director of Engineering
 <tr>
 <td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td>
 <td style="font-weight:bold">
@@ -284,7 +284,7 @@ _reference: [People manager competencies (internal link)](https://app.tettra.co/
 <tr>
 <td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td>
 <td style="font-weight:bold">
@@ -322,7 +322,7 @@ WIP
 <table  markdown="1">
 <tr><td>
 
-Technical Lead Manager
+EM/TL Hybrid
 
 </td></tr>
 <tr><td  markdown="1">
