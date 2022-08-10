@@ -10,7 +10,7 @@ comments: true
 Third party services are frequently used to extend the functionality of our product/service, especially in cases where what is needed grows beyond the limits of our industry or purpose. Once an integration is set up and running, naturally this must be included in our automation tests, right? (right?) 
 
 It is a widely accepted practice to always mock requests made to third party services while testing, integration tests included. The reasoning behind this lies in 2 main areas:
-1. We don’t control the response we get. This may lead to flaky tests, our testing suite failing because of service unavailability etc. The negative impact is even greater when a CI/CD process is used to deploy to our production and staging environments. Not to mention hotfixes..
+1. We don’t control the response we get. This may lead to flaky tests, our testing suite failing because of service unavailability etc. The negative impact is even greater when a CI/CD process is used to deploy to our production and staging environments. Not to mention hotfixes...
 2. Tests may take a while, since a connection is in the middle of it. If our suite consists of hundreds or thousands of tests, this may add up to a horrible amount of time to complete the suite.
 
 So what are the best ways to mock those requests in our automated tests?
@@ -35,7 +35,7 @@ class ExchangeRatesClient:
 
 ## Good ol’ monkeypatch
 
-Monkeypatch is a fixture from pytest(TODO add links here) which allows us to easily patch attributes. In this case the `get()` function of `requests`.
+Monkeypatch is a fixture from [pytest](https://docs.pytest.org/) which allows us to easily patch attributes. In this case the `get()` function of `requests`.
 
 Example:
 
@@ -80,7 +80,7 @@ class TestExchangeRatesClient:
 
 ## How it works:
 
-When requesting data, we get a Response(TODO add link) object so we have to mock its behaviour. This is what the `class MockResponse` is doing. This class may change depending on how we use the response object. Eg. we may need to add a `text` attribute, or add logic to the `raise_for_error()` to mock its behaviour and raise an HTTPError in case of an invalid status_code (4xx-5xx)
+When requesting data, we get a [Response](https://requests.readthedocs.io/en/latest/api/#requests.Response) object so we have to mock its behaviour. This is what the `class MockResponse` is doing. This class may change depending on how we use the response object. Eg. we may need to add a `text` attribute, or add logic to the `raise_for_error()` to mock its behaviour and raise an HTTPError in case of an invalid status_code (4xx-5xx)
 
 PROS:
 - Doesn’t depend on 3rd party libraries
@@ -94,7 +94,7 @@ CONS:
 
 ## Requests-mock
 
-From the solution above we see that there is a lot of logic inside the MockResponse which isn’t always pleasant and we may introduce more bugs. And it feels a little too custom of a solution for such a generic problem to solve. So yeah… you guessed it. There is a library for that. One of the mostly used libraries in the python world is requests-mock (TODO add link) 
+From the solution above we see that there is a lot of logic inside the MockResponse which isn’t always pleasant and we may introduce more bugs. And it feels a little too custom of a solution for such a generic problem to solve. So yeah… you guessed it. There is a library for that. One of the mostly used libraries in the python world is [requests-mock](https://requests-mock.readthedocs.io/en/latest/) 
 
 Example
 
@@ -137,7 +137,7 @@ CONS
 
 ## VCR.py
 
-Storming from Ruby's VCR library, VCR.py brings all the 80s nostalgia that we secretly crave for is a neat and powerful library that takes away most of the pain. 
+Storming from Ruby's VCR library, VCR.py ~~brings all the 80s nostalgia that we secretly crave for~~ is a neat and powerful library that takes away most of the pain. 
 What it does is that it records every http request done inside a test and “writes” them in a (by default .yaml) file. This file is then reused every time a request needs to be mocked. If there are more than one requests, then it records them all and are exposed in the cassette.responses list.
 
 Example
@@ -234,4 +234,4 @@ CONS
 
 
 ## Conclusion
-So there you have it. When dealing with third parties there is a range of strategies that can fit to a variety of cases. Here at Beyond we prefer the feature rich and production ready solution of the VCR library, since we are doing a heavy use of external requests. The other solutions proposed can be an ideal approach, especially for quicker and simpler cases.
+So there you have it. When dealing with third parties there is a range of strategies that can fit to a variety of cases. Here at Beyond we prefer the feature rich and production-ready solution of the VCR library, since we are doing a heavy use of external requests. The other solutions proposed can also be an ideal approach, especially for simpler cases.
