@@ -11,7 +11,7 @@ layout: page
 <tr>
 <td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td>
 <td style="font-weight:bold">
@@ -50,7 +50,7 @@ Director of Engineering
 <tr>
 <td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td>
 <td style="font-weight:bold">
@@ -89,7 +89,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -137,7 +137,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -191,7 +191,7 @@ Director of Engineering
 <table  markdown="1">
 <tr><td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -240,7 +240,7 @@ Director of Engineering
 <tr>
 <td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td>
 <td style="font-weight:bold">
@@ -284,7 +284,7 @@ _reference: [People manager competencies (internal link)](https://app.tettra.co/
 <tr>
 <td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td>
 <td style="font-weight:bold">
@@ -322,7 +322,7 @@ WIP
 <table  markdown="1">
 <tr><td>
 
-EM/TL Hybrid
+Technical Lead Manager
 
 </td></tr>
 <tr><td  markdown="1">
@@ -352,7 +352,7 @@ Director of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- 4+ directly managed ICs are now Staff Engs or EMs
+- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path
 - Has regularly contributed to a technical or people management blog or publication over the past 12 months
 - Has presented on software or management topics to external audiences such as conference or interest groups
 

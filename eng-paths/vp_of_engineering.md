@@ -240,7 +240,7 @@ Director of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- 4+ directly managed ICs are now Staff Engs or EMs
+- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path
 - Has regularly contributed to a technical or people management blog or publication over the past 12 months
 - Has presented on software or management topics to external audiences such as conference or interest groups
 
