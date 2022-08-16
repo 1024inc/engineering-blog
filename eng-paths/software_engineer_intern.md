@@ -231,8 +231,7 @@ Software Engineer Intern
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has pushed code to production
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 6+ months
+N/A
 
 </td></tr>
 <tr><td>
