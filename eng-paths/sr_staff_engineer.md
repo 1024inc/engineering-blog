@@ -109,8 +109,11 @@ Staff Engineer
 - Leads cross-teams projects and initiatives, and inter-team communication
 - Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution
 - Mentors engineers and fosters their growth
-- Coach teams to continuously improve delivery pace and quality
+- Coaches teams to continuously improve delivery pace and quality
 - Can step in as a contributor on any team when needed
+- Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers
+- Self-guided in a professional way, do their own prioritization when needed
+- Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -123,7 +126,7 @@ Sr Staff Engineer
 - Leads cross-teams projects and initiatives, and inter-team communication
 - Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution
 - Mentors engineers and fosters their growth
-- Coach teams to continuously improve delivery pace and quality
+- Coaches teams to continuously improve delivery pace and quality
 - Can step in as a contributor on any team when needed
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition
@@ -143,8 +146,8 @@ Staff Engineer
 
 - Multiplies the effectiveness of others by facilitating cross-team work
 - Primarily acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity of the entire org
-- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates and backs to all stakeholders
-- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammates and exec buy-in around the plan
+- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders
+- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan
 - Serves as a technical advisor and works closely with senior management
 
 </td></tr>
@@ -156,7 +159,7 @@ Sr Staff Engineer
 <tr><td markdown="1" style="font-weight:bold">
 
 - Communicates the awesomeness of Beyond's tech community externally via talks and blog posts. Identifies areas that Beyond can share effectively with the outside world and guides the creation of content and communication around these areas
-- Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammates and exec buy-in around the plan
+- Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammate and exec buy-in around the plan
 - Seen as a role model and mentor to every technical member of the team
 - Serves as the main technical advisor for and works directly and closely with senior management
 

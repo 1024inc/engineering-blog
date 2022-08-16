@@ -95,6 +95,7 @@ Technical Lead Manager
 <tr><td  markdown="1">
 
 - Foundational IC management
+- Team synergy leadership
 - Technical expert on 1 product / key components
 - Expert in primary focus area (BE/FE/or Data)
 - Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies
@@ -108,6 +109,7 @@ Engineering Manager
 <tr><td markdown="1" style="font-weight:bold">
 
 - Advanced IC management
+- Team synergy leadership
 - Talent strategy
 - Compensation strategy
 - Culture leadership
@@ -143,12 +145,11 @@ Technical Lead Manager
 <tr><td  markdown="1">
 
 - Owns consistent team delivery according to quarterly roadmaps. Makes sure to update roadmaps/OKRs to reflect current work and progress.
-- Act as a top contributor, consistently delivers on time and on target, even on large tasks, and can define scope to meet stakeholder expectations
+- Acts as a top contributor, consistently delivering on time and on target, even on large tasks, and can define scope to meet stakeholder expectations
 - Drives teammates' happiness, engagement, and growth
-- Collaborates with the team's PM on inter/intra-team communication
-- Collaborate with PM and facilitate planning and delivery
-- Drives engineering best practices adoption at a team level
-- Act as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
+- Collaborates with the team's PM on inter/intra-team communication, planning, and delivery
+- Drives adoption of engineering best practices at a team level
+- Acts as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -159,10 +160,10 @@ Engineering Manager
 <tr><td markdown="1" style="font-weight:bold">
 
 - Drives Engineers' happiness, engagement, and growth
-- Operates talent strategy (IDPS, retention, acquisition)
-- Collaborate with TL and facilitate consistent team delivery according to quarterly roadmaps
-- Collaborates with the team's PM on inter/intra-team communication
-- Leads team planning, establishes and controls processes
+- Operates talent strategy (IDPs, retention, acquisition)
+- Collaborates with TL and facilitates consistent team delivery according to quarterly roadmaps
+- Collaborates with the team's PM on inter/intra-team communication, planning, and delivery
+- Leads team organization and controls processes
 - Collaborates on planning and contributes to Engineering Operations
 - Proactively works together with PM and TL to unblock the team
 - Advocates on behalf of team members
@@ -177,8 +178,8 @@ Director of Engineering
 
 - Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality)
 - Drives EMs' happiness, engagement, and growth
-- Operates talent strategy (IDPS, retention, acquisition)
-- Collaborate with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
+- Operates talent strategy (IDPs, retention, acquisition)
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
 - Can drive all internal communication, including cross-departmental
 - Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
 - Drives engineering operations strategy
@@ -198,8 +199,9 @@ Technical Lead Manager
 
 - Makes independent decisions for the team; is actively learning how to handle complex management situations.
 - Contributes to the career development of others.
-- Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and  director or VP to ensure employee growth and retention goals.
+- Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and director or VP to ensure employee growth and retention goals.
 - Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to all stakeholders.
+- Leads and embodies team culture
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -211,13 +213,14 @@ Engineering Manager
 
 - Manages independently; communicates context to the team and surfaces concise people and technical information to upper management.
 - Able to communicate technical concepts to business stakeholders and business objectives to the technical team. 
-- Sets clear expectations for team members; solicits synthesizes, and delivers feedback.
+- Sets clear expectations for team members; solicits, synthesizes, and delivers feedback.
 - Communicates timeline, scope, and technical concerns inside and outside OBTs to all relevant stakeholders
 - Leads delivery of major initiatives on clear timelines
 - Owns the quarterly Roadmaps/OKR setting and review process for teams under their oversight
 - Able to identify areas of strategic technical debt and provide cost/benefit analysis for eliminating this debt and suggested timelines for how to prioritize it
 - Comfortable managing team members with different skill sets and technical areas of focus
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
+- Leads and embodies team culture
 
 </td></tr>
 <tr><td>
@@ -354,7 +357,7 @@ Director of Engineering
 
 - 4+ directly managed ICs are now promoted into the Sr IC path or People Management path
 - Has regularly contributed to a technical or people management blog or publication over the past 12 months
-- Has presented on software or management topics to external audiences such as conference or interest groups
+- Has presented on software or management topics to external audiences such as conferences or interest groups
 
 </td></tr>
 </table>

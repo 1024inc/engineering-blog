@@ -140,11 +140,15 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, even on large tasks, and can clarify scope when needed
+- Expert understanding of the product and ways that our customers use it.
+- Proactively guides scope at team-level to right-size solutions
+- Consistently delivers on time and on target, even on large or high-risk tasks
+- Analyzes and implements technical solutions in an efficient manner. Has a keen eye for reusing code and writing reusable tooling to improve future team efficiency
 - Can drive team-level planning and communication
-- Participates in improving engineering best practices
-- Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous
-
+- Provides accurate effort estimates for large initiatives and clarifies assumptions and risks, even when the scope is still ambiguous
+- Maintains projects with an understanding of how to make them better over time and understands when the time is right
+- Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system
+- Can drive improvements in engineering best practices
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -154,10 +158,13 @@ Sr Software Engineer 2
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Consistently delivers on time and on target, even on large tasks, and can define scope to meet stakeholder expectations
+- Consistently delivers on time and on target, even on large tasks, and defines scope to meet stakeholder expectations
 - Leads team planning and communication, and can lead inter-team communication when needed
 - Leads improvements in engineering best practices
 - Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous
+- Ensures accumulated knowledge is being shared within the team, and inter-team as needed
+- Coaches team members on task grooming to break work down into smaller pieces
+- Able to optimize or tune queries/code to address performance problems
 
 </td></tr>
 <tr><td>
@@ -170,8 +177,11 @@ Staff Engineer
 - Leads cross-teams projects and initiatives, and inter-team communication
 - Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution
 - Mentors engineers and fosters their growth
-- Coach teams to continuously improve delivery pace and quality
+- Coaches teams to continuously improve delivery pace and quality
 - Can step in as a contributor on any team when needed
+- Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers
+- Self-guided in a professional way, do their own prioritization when needed
+- Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in
 
 </td></tr>
 </table>
@@ -186,10 +196,12 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Communicates effectively cross functions; can work well with Product, Design, Ops, Finance, Sales, and all other internal stakeholders, as necessary
-- Communicates technical decisions through design docs, PED talks, and Tettra
+- Communicates effectively across functions; can work well with Product, Design, Ops, Finance, Sales, and any other internal stakeholders, as necessary
 - Mentors junior engineers via pairing, design review, and code review.
 - Proactively identifies problems with requirements (lack of clarity, inconsistencies, technical limitations) for their own work and adjacent work and communicates these issues early to help course-correct
+- Communicates technical decisions through design docs, PED talks, and Tettra articles
+- Communicates well both in writing and verbally with teammates, peers, and stakeholders
+- Positively influences team culture
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -200,8 +212,10 @@ Sr Software Engineer 2
 <tr><td markdown="1" style="font-weight:bold">
 
 - Makes others better through code reviews, thorough documentation, technical guidance, and mentoring or serving as a Tech Lead on a project. 
-- Understands the tradeoffs between technical and product needs and leads to solutions that take all of these needs into account and drive business outcomes
+- Understands the tradeoffs between technical and product needs to lead to solutions that take all of these needs into account and drive business outcomes
 - Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions
+- Able to discuss complex technical issues at an abstract level with non-technical people
+- Strongly influences and leads team culture
 
 </td></tr>
 <tr><td>
@@ -213,8 +227,8 @@ Staff Engineer
 
 - Multiplies the effectiveness of others by facilitating cross-team work
 - Primarily acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity of the entire org
-- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates and backs to all stakeholders
-- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammates and exec buy-in around the plan
+- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders
+- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan
 - Serves as a technical advisor and works closely with senior management
 
 </td></tr>
@@ -321,8 +335,8 @@ Sr Software Engineer 1
 
 - Has lead code reviews for the team for 12+ months
 - Has participated in 2+ technical planning or designs of large Epics or engineering initiatives
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives
-- Has documented 1 technical aspects of systems implementation and/or post-mortems
+- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives
+- Has documented 1 technical aspect of systems implementation and/or post-mortems
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -334,7 +348,7 @@ Sr Software Engineer 2
 
 - Has been a tech lead for 1+ year
 - Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives
-- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives
+- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives
 - Has documented 5+ technical aspects of systems implementation and/or post-mortems
 
 </td></tr>
