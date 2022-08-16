@@ -115,8 +115,8 @@ Director of Engineering
 
 - Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality)
 - Drives EMs' happiness, engagement, and growth
-- Operates talent strategy (IDPS, retention, acquisition)
-- Collaborate with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
+- Operates talent strategy (IDPs, retention, acquisition)
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
 - Can drive all internal communication, including cross-departmental
 - Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
 - Drives engineering operations strategy
@@ -130,7 +130,7 @@ VP of Engineering
 <tr><td markdown="1" style="font-weight:bold">
 
 - Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality)
-- Collaborate with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
 - Can drive all internal and external communication
 - Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
 - Drives engineering operations strategy
@@ -242,7 +242,7 @@ Director of Engineering
 
 - 4+ directly managed ICs are now promoted into the Sr IC path or People Management path
 - Has regularly contributed to a technical or people management blog or publication over the past 12 months
-- Has presented on software or management topics to external audiences such as conference or interest groups
+- Has presented on software or management topics to external audiences such as conferences or interest groups
 
 </td></tr>
 <tr><td style="font-weight:bold">

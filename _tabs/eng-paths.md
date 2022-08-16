@@ -31,6 +31,7 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 | | Individual Contributor Path | People Manager Path |
 |---|---|---|
 | L1 | [Software Engineer Intern](software_engineer_intern.html) | |
+| L2 | [Software Engineer 1](software_engineer_1.html) | |
 | L2 | [Software Engineer 2](software_engineer_2.html) | |
 | L3 | [Software Engineer 3](software_engineer_3.html) | |
 | L3 | [Senior Software Engineer 1](sr_software_engineer_1.html) | |

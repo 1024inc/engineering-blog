@@ -93,7 +93,7 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Learning the codebase for 1 product / key component
+- Solid technical understanding of the codebase for 1 product / key component
 - Proficient in primary focus area (BE/FE/Data/or DevOps)
 
 </td></tr>
@@ -137,7 +137,11 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, given a clear plan and segmented stories
+- Understands the product and ways that our customers use it
+- Is able to understand, discuss, and come to a solution, sometimes with the help of others
+- Participates in troubleshooting issues in their area of focus
+- Proactive in pairing with other team members to learn the team best practices
+- Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -147,10 +151,13 @@ Software Engineer 3
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Consistently delivers on time and on target, even on larger tasks given a clear definition
-- Participates in planning and drives some team-level communication
+- Solid understanding of the product and ways that our customers use it. Evaluates scope to right-size a solution based on this understanding
+- Consistently delivers on time and on target, even on larger tasks when given a clear definition
+- Comfortable troubleshooting issues in their area of focus
+- Regularly participates in team-level planning and drives some team-level communication
+- Able to break down and estimate large initiatives
+- Writes code in a style consistent with the codebase, creates tests for their work
 - Participates in improving engineering best practices
-- Participates in estimating large initiatives
 
 </td></tr>
 <tr><td>
@@ -160,11 +167,15 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, even on large tasks, and can clarify scope when needed
+- Expert understanding of the product and ways that our customers use it.
+- Proactively guides scope at team-level to right-size solutions
+- Consistently delivers on time and on target, even on large or high-risk tasks
+- Analyzes and implements technical solutions in an efficient manner. Has a keen eye for reusing code and writing reusable tooling to improve future team efficiency
 - Can drive team-level planning and communication
-- Participates in improving engineering best practices
-- Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous
-
+- Provides accurate effort estimates for large initiatives and clarifies assumptions and risks, even when the scope is still ambiguous
+- Maintains projects with an understanding of how to make them better over time and understands when the time is right
+- Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system
+- Can drive improvements in engineering best practices
 
 </td></tr>
 </table>
@@ -182,6 +193,7 @@ Software Engineer 2
 - Solicits feedback from others and is eager to find ways to improve
 - Finds the right balance between reaching out for help and finding answers autonomously
 - Communicates assumptions and gets clarification on tasks up front to minimize the need for rework
+- Creates PRs that clearly articulate why the change is being made and what impact it will have
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -193,7 +205,9 @@ Software Engineer 3
 
 - Gives timely, helpful feedback to peers and managers
 - Understands how their work fits into the larger project and identifies problems with requirements
-- Proactively communicate with team in advance in regards to blockers and changes of deadlines
+- Proactively and thoughtfully communicates with team in regards to questions, assumptions, blockers, and changes of estimated timeline
+- Participates in team events, both within engineering and the broader team at Beyond
+- Contributes to design docs and Tettra articles
 
 </td></tr>
 <tr><td>
@@ -203,10 +217,12 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Communicates effectively cross functions; can work well with Product, Design, Ops, Finance, Sales, and all other internal stakeholders, as necessary
-- Communicates technical decisions through design docs, PED talks, and Tettra
+- Communicates effectively across functions; can work well with Product, Design, Ops, Finance, Sales, and any other internal stakeholders, as necessary
 - Mentors junior engineers via pairing, design review, and code review.
 - Proactively identifies problems with requirements (lack of clarity, inconsistencies, technical limitations) for their own work and adjacent work and communicates these issues early to help course-correct
+- Communicates technical decisions through design docs, PED talks, and Tettra articles
+- Communicates well both in writing and verbally with teammates, peers, and stakeholders
+- Positively influences team culture
 
 </td></tr>
 </table>
@@ -313,8 +329,10 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Has pushed code to production
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 6+ months
+- Has owned development, deployment, and improvements of multiple product features
+- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months
+- Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months
+- Has created Jira tasks to track their work
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -325,8 +343,9 @@ Software Engineer 3
 <tr><td markdown="1" style="font-weight:bold">
 
 - Has owned development, deployment, and improvements of multiple product features
-- Has paired with teammates weekly for 12+ months
+- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months
 - Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months
+- Has broken a Jira epic down into smaller pieces
 
 </td></tr>
 <tr><td>
@@ -338,8 +357,8 @@ Sr Software Engineer 1
 
 - Has lead code reviews for the team for 12+ months
 - Has participated in 2+ technical planning or designs of large Epics or engineering initiatives
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives
-- Has documented 1 technical aspects of systems implementation and/or post-mortems
+- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives
+- Has documented 1 technical aspect of systems implementation and/or post-mortems
 
 </td></tr>
 </table>
