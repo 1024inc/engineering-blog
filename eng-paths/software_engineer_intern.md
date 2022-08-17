@@ -2,7 +2,7 @@
 title: Software Engineer Intern
 icon: fas fa-users
 order: 1
-layout: page
+layout: page-eng-paths
 ---
 
 # Software Engineer Intern (Individual Contributor Path)
@@ -73,8 +73,8 @@ Software Engineer Intern
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Learning CS fundamentals, in particular, distributed systems
-- Proficient in one modern frontend or backend language and framework
+- Learning CS fundamentals, in particular, distributed systems.
+- Proficient in one modern frontend or backend language and framework.
 
 </td></tr>
 <tr><td>
@@ -84,8 +84,8 @@ Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Learning the codebase for 1 product / key component
-- Building proficiency in primary focus area (BE/FE/Data/or DevOps)
+- Learning the codebase for 1 product / key component.
+- Building proficiency in primary focus area (BE/FE/Data/or DevOps).
 
 </td></tr>
 </table>
@@ -102,9 +102,9 @@ Software Engineer Intern
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Focused on individual learning and development
-- Displays engineering principles in action
-- Uses pairing sessions to learn about our codebase, product, and best practices
+- Focused on individual learning and development.
+- Displays engineering principles in action.
+- Uses pairing sessions to learn about our codebase, product, and best practices.
 
 </td></tr>
 <tr><td>
@@ -114,10 +114,10 @@ Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Uses pairing sessions and asks questions to learn about our codebase, product, and best practices
-- Accepts guidance on grooming small tasks
-- Delivers small PRs to maintain a short feedback loop
-- Observes technical discussions and learns how to tackle technical problems
+- Uses pairing sessions and asks questions to learn about our codebase, product, and best practices.
+- Accepts guidance on grooming small tasks.
+- Delivers small PRs to maintain a short feedback loop.
+- Observes technical discussions and learns how to tackle technical problems.
 
 </td></tr>
 </table>
@@ -134,10 +134,10 @@ Software Engineer Intern
 
 - Effective in communicating status to the team. Raises blockers and possible change of deadlines.
 - Exhibits Beyond's core values and engineering principles. Focuses on understanding and living these values.
-- Demonstrates interest and willingness to learn and try new things
-- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve
-- Takes initiative to seek out opportunities to learn new skills
-- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help). 
+- Demonstrates interest and willingness to learn and try new things.
+- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve.
+- Takes initiative to seek out opportunities to learn new skills.
+- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help).
 
 </td></tr>
 <tr><td>
@@ -149,12 +149,12 @@ Software Engineer 1
 
 - Effective in communicating status to the team. Raises blockers and possible change of deadlines.
 - Exhibits Beyond's core values and engineering principles. Focuses on understanding and living these values.
-- Demonstrates interest and willingness to learn and try new things
-- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve
-- Takes initiative to seek out opportunities to learn new skills
-- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help). 
-- Solicits feedback from others and is eager to find ways to improve
-- Forms working releationships with their team members
+- Demonstrates interest and willingness to learn and try new things.
+- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve.
+- Takes initiative to seek out opportunities to learn new skills.
+- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help).
+- Solicits feedback from others and is eager to find ways to improve.
+- Forms working releationships with their team members.
 
 </td></tr>
 </table>
@@ -177,14 +177,14 @@ Software Engineer 1
 <tr>
 <td  markdown="1" style="font-weight:bold">
 
-- Career Development
-- Growth Mindset
+- Career Development.
+- Growth Mindset.
 
 </td>
 <td  markdown="1">
 
-- Career Development
-- Growth Mindset
+- Career Development.
+- Growth Mindset.
 
 </td>
 </tr>
@@ -222,7 +222,7 @@ WIP
 </table>
 
 
-### Checkpoints
+### Checkpoints for reaching this level
 <table  markdown="1">
 <tr><td style="font-weight:bold">
 
@@ -241,9 +241,8 @@ Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Has pushed code to production
-- Has owned development, deployment, and improvements of a product feature
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 6+ months
+- Has learned CS fundamentals.
+- Has become proficient in at least one modern frontend or backend language and framework.
 
 </td></tr>
 </table>

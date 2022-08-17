@@ -2,7 +2,7 @@
 title: Director of Engineering
 icon: fas fa-users
 order: 13
-layout: page
+layout: page-eng-paths
 ---
 
 # Director of Engineering (People Manager Path)
@@ -93,11 +93,11 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced IC management
-- Team synergy leadership
-- Talent strategy
-- Compensation strategy
-- Culture leadership
+- Advanced IC management.
+- Team synergy leadership.
+- Talent strategy.
+- Compensation strategy.
+- Culture leadership.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -107,14 +107,14 @@ Director of Engineering
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Advanced managers' management
-- Culture leadership
-- SaaS strategy
-- Capacity planning, resource allocation, and budgeting
-- Product strategy
-- Technical mentorship
-- Cross-functional communication
-- Engineering metrics
+- Advanced managers' management.
+- Culture leadership.
+- SaaS strategy.
+- Capacity planning, resource allocation, and budgeting.
+- Product strategy.
+- Technical mentorship.
+- Cross-functional communication.
+- Engineering metrics.
 
 </td></tr>
 <tr><td>
@@ -124,14 +124,14 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced managers' management
-- Culture leadership
-- SaaS strategy
-- Capacity planning, resource allocation, and budgeting
-- Product strategy
-- Technical mentorship
-- Cross-functional and external communication
-- Engineering metrics
+- Advanced managers' management.
+- Culture leadership.
+- SaaS strategy.
+- Capacity planning, resource allocation, and budgeting.
+- Product strategy.
+- Technical mentorship.
+- Cross-functional and external communication.
+- Engineering metrics.
 - Organizational design
 
 </td></tr>
@@ -147,14 +147,14 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Drives Engineers' happiness, engagement, and growth
-- Operates talent strategy (IDPs, retention, acquisition)
-- Collaborates with TL and facilitates consistent team delivery according to quarterly roadmaps
-- Collaborates with the team's PM on inter/intra-team communication, planning, and delivery
-- Leads team organization and controls processes
-- Collaborates on planning and contributes to Engineering Operations
-- Proactively works together with PM and TL to unblock the team
-- Advocates on behalf of team members
+- Drives Engineers' happiness, engagement, and growth.
+- Operates talent strategy (IDPs, retention, acquisition).
+- Collaborates with TL and facilitates consistent team delivery according to quarterly roadmaps.
+- Collaborates with the team's PM on inter/intra-team communication, planning, and delivery.
+- Leads team organization and controls processes.
+- Collaborates on planning and contributes to Engineering Operations.
+- Proactively works together with PM and TL to unblock the team.
+- Advocates on behalf of team members.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -164,13 +164,13 @@ Director of Engineering
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality)
-- Drives EMs' happiness, engagement, and growth
-- Operates talent strategy (IDPs, retention, acquisition)
-- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
-- Can drive all internal communication, including cross-departmental
-- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
-- Drives engineering operations strategy
+- Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality).
+- Drives EMs' happiness, engagement, and growth.
+- Operates talent strategy (IDPs, retention, acquisition).
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
+- Can drive all internal communication, including cross-departmental.
+- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery.
+- Drives engineering operations strategy.
 
 </td></tr>
 <tr><td>
@@ -180,11 +180,11 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality)
-- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes
-- Can drive all internal and external communication
-- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery
-- Drives engineering operations strategy
+- Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality).
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
+- Can drive all internal and external communication.
+- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery.
+- Drives engineering operations strategy.
 
 </td></tr>
 </table>
@@ -200,15 +200,15 @@ Engineering Manager
 <tr><td  markdown="1">
 
 - Manages independently; communicates context to the team and surfaces concise people and technical information to upper management.
-- Able to communicate technical concepts to business stakeholders and business objectives to the technical team. 
+- Able to communicate technical concepts to business stakeholders and business objectives to the technical team. .
 - Sets clear expectations for team members; solicits, synthesizes, and delivers feedback.
-- Communicates timeline, scope, and technical concerns inside and outside OBTs to all relevant stakeholders
-- Leads delivery of major initiatives on clear timelines
-- Owns the quarterly Roadmaps/OKR setting and review process for teams under their oversight
-- Able to identify areas of strategic technical debt and provide cost/benefit analysis for eliminating this debt and suggested timelines for how to prioritize it
-- Comfortable managing team members with different skill sets and technical areas of focus
+- Communicates timeline, scope, and technical concerns inside and outside OBTs to all relevant stakeholders.
+- Leads delivery of major initiatives on clear timelines.
+- Owns the quarterly Roadmaps/OKR setting and review process for teams under their oversight.
+- Able to identify areas of strategic technical debt and provide cost/benefit analysis for eliminating this debt and suggested timelines for how to prioritize it.
+- Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
-- Leads and embodies team culture
+- Leads and embodies team culture.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -218,9 +218,9 @@ Director of Engineering
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Collaborates across functional areas to define, prioritize and ensure implementation of specific innovations to improve technical functionality in support of business needs, efficiencies, and revenue. 
+- Collaborates across functional areas to define, prioritize and ensure implementation of specific innovations to improve technical functionality in support of business needs, efficiencies, and revenue. .
 - Leverages past experience and uses strong communication skills to collaborate effectively with all stakeholders, including customers, senior management, and other business leaders.
-- Owns budgeting and compensation management process for their teams
+- Owns budgeting and compensation management process for their teams.
 
 </td></tr>
 <tr><td>
@@ -230,10 +230,10 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- Ensures that every member of the team understands the business goals for the quarter and has bought into these goals
-- Identifies areas for process evolution or clarification, gathers the stakeholders, and creates and communicates the strategy for resolving these issues
-- Clearly articulates the needs from a personnel and cultural standpoint that will move the engineering organization to the next level
-- Communicates executive-level strategy and helps break down business directives into technology goals
+- Ensures that every member of the team understands the business goals for the quarter and has bought into these goals.
+- Identifies areas for process evolution or clarification, gathers the stakeholders, and creates and communicates the strategy for resolving these issues.
+- Clearly articulates the needs from a personnel and cultural standpoint that will move the engineering organization to the next level.
+- Communicates executive-level strategy and helps break down business directives into technology goals.
 
 </td></tr>
 </table>
@@ -261,20 +261,20 @@ VP of Engineering
 <tr>
 <td  markdown="1">
 
-- Service oriented
-- Deliver results
+- Service oriented.
+- Deliver results.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-- Deliver results
-- Stretegic thinking
+- Deliver results.
+- Stretegic thinking.
 
 </td>
 <td  markdown="1">
 
-- Deliver results
-- Stretegic thinking
+- Deliver results.
+- Stretegic thinking.
 
 </td>
 </tr>
@@ -322,7 +322,7 @@ WIP
 </table>
 
 
-### Checkpoints
+### Checkpoints for reaching this level
 <table  markdown="1">
 <tr><td>
 
@@ -331,7 +331,7 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Has participated in mentoring, advocating, and executing 2+ IC promotions
+- Has participated in mentoring, advocating, and executing 2+ IC promotions.
 - Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
 
 </td></tr>
@@ -342,9 +342,9 @@ Director of Engineering
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path
-- Has regularly contributed to a technical or people management blog or publication over the past 12 months
-- Has presented on software or management topics to external audiences such as conferences or interest groups
+- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
+- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
+- Has presented on software or management topics to external audiences such as conferences or interest groups.
 
 </td></tr>
 <tr><td>

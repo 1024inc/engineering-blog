@@ -2,7 +2,7 @@
 title: Software Engineer 1
 icon: fas fa-users
 order: 2
-layout: page
+layout: page-eng-paths
 ---
 
 # Software Engineer 1 (Individual Contributor Path)
@@ -93,8 +93,8 @@ Software Engineer Intern
 </td></tr>
 <tr><td  markdown="1">
 
-- Learning CS fundamentals, in particular, distributed systems
-- Proficient in one modern frontend or backend language and framework
+- Learning CS fundamentals, in particular, distributed systems.
+- Proficient in one modern frontend or backend language and framework.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -104,8 +104,8 @@ Software Engineer 1
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Learning the codebase for 1 product / key component
-- Building proficiency in primary focus area (BE/FE/Data/or DevOps)
+- Learning the codebase for 1 product / key component.
+- Building proficiency in primary focus area (BE/FE/Data/or DevOps).
 
 </td></tr>
 <tr><td>
@@ -115,8 +115,8 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Solid technical understanding of the codebase for 1 product / key component
-- Proficient in primary focus area (BE/FE/Data/or DevOps)
+- Solid technical understanding of the codebase for 1 product / key component.
+- Proficient in primary focus area (BE/FE/Data/or DevOps).
 
 </td></tr>
 </table>
@@ -133,9 +133,9 @@ Software Engineer Intern
 </td></tr>
 <tr><td  markdown="1">
 
-- Focused on individual learning and development
-- Displays engineering principles in action
-- Uses pairing sessions to learn about our codebase, product, and best practices
+- Focused on individual learning and development.
+- Displays engineering principles in action.
+- Uses pairing sessions to learn about our codebase, product, and best practices.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -145,10 +145,10 @@ Software Engineer 1
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Uses pairing sessions and asks questions to learn about our codebase, product, and best practices
-- Accepts guidance on grooming small tasks
-- Delivers small PRs to maintain a short feedback loop
-- Observes technical discussions and learns how to tackle technical problems
+- Uses pairing sessions and asks questions to learn about our codebase, product, and best practices.
+- Accepts guidance on grooming small tasks.
+- Delivers small PRs to maintain a short feedback loop.
+- Observes technical discussions and learns how to tackle technical problems.
 
 </td></tr>
 <tr><td>
@@ -158,11 +158,11 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Understands the product and ways that our customers use it
-- Is able to understand, discuss, and come to a solution, sometimes with the help of others
-- Participates in troubleshooting issues in their area of focus
-- Proactive in pairing with other team members to learn the team best practices
-- Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories
+- Understands the product and ways that our customers use it.
+- Is able to understand, discuss, and come to a solution, sometimes with the help of others.
+- Participates in troubleshooting issues in their area of focus.
+- Proactive in pairing with other team members to learn the team best practices.
+- Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories.
 
 </td></tr>
 </table>
@@ -179,10 +179,10 @@ Software Engineer Intern
 
 - Effective in communicating status to the team. Raises blockers and possible change of deadlines.
 - Exhibits Beyond's core values and engineering principles. Focuses on understanding and living these values.
-- Demonstrates interest and willingness to learn and try new things
-- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve
-- Takes initiative to seek out opportunities to learn new skills
-- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help). 
+- Demonstrates interest and willingness to learn and try new things.
+- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve.
+- Takes initiative to seek out opportunities to learn new skills.
+- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help).
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -194,12 +194,12 @@ Software Engineer 1
 
 - Effective in communicating status to the team. Raises blockers and possible change of deadlines.
 - Exhibits Beyond's core values and engineering principles. Focuses on understanding and living these values.
-- Demonstrates interest and willingness to learn and try new things
-- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve
-- Takes initiative to seek out opportunities to learn new skills
-- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help). 
-- Solicits feedback from others and is eager to find ways to improve
-- Forms working releationships with their team members
+- Demonstrates interest and willingness to learn and try new things.
+- Treats all feedback (positive and critical) as a gift. Continuously seeks feedback and areas to improve.
+- Takes initiative to seek out opportunities to learn new skills.
+- Asks for help when blocked (1 hour rule: try 1 hour to solve a problem, otherwise ask for help).
+- Solicits feedback from others and is eager to find ways to improve.
+- Forms working releationships with their team members.
 
 </td></tr>
 <tr><td>
@@ -209,10 +209,10 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Solicits feedback from others and is eager to find ways to improve
-- Finds the right balance between reaching out for help and finding answers autonomously
-- Communicates assumptions and gets clarification on tasks up front to minimize the need for rework
-- Creates PRs that clearly articulate why the change is being made and what impact it will have
+- Solicits feedback from others and is eager to find ways to improve.
+- Finds the right balance between reaching out for help and finding answers autonomously.
+- Communicates assumptions and gets clarification on tasks up front to minimize the need for rework.
+- Creates PRs that clearly articulate why the change is being made and what impact it will have.
 
 </td></tr>
 </table>
@@ -240,20 +240,20 @@ Software Engineer 2
 <tr>
 <td  markdown="1">
 
-- Career Development
-- Growth Mindset
+- Career Development.
+- Growth Mindset.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-- Career Development
-- Growth Mindset
+- Career Development.
+- Growth Mindset.
 
 </td>
 <td  markdown="1">
 
-- Deliver Results
-- Growth Mindset
+- Deliver Results.
+- Growth Mindset.
 
 </td>
 </tr>
@@ -304,7 +304,7 @@ WIP
 </table>
 
 
-### Checkpoints
+### Checkpoints for reaching this level
 <table  markdown="1">
 <tr><td>
 
@@ -323,9 +323,8 @@ Software Engineer 1
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has pushed code to production
-- Has owned development, deployment, and improvements of a product feature
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 6+ months
+- Has learned CS fundamentals.
+- Has become proficient in at least one modern frontend or backend language and framework.
 
 </td></tr>
 <tr><td>
@@ -335,10 +334,9 @@ Software Engineer 2
 </td></tr>
 <tr><td  markdown="1">
 
-- Has owned development, deployment, and improvements of multiple product features
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months
-- Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months
-- Has created Jira tasks to track their work
+- Has owned development, deployment, and improvements of multiple product features.
+- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months.
+- Has created Jira tasks to track their work.
 
 </td></tr>
 </table>

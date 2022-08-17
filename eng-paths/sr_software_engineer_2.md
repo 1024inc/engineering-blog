@@ -2,7 +2,7 @@
 title: Sr Software Engineer 2
 icon: fas fa-users
 order: 7
-layout: page
+layout: page-eng-paths
 ---
 
 # Sr Software Engineer 2 (Sr Individual Contributor Path)
@@ -95,11 +95,11 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert on 1 product / key component
-- Learning to solid understanding of 2 other products / key components
-- Expert in one technology on one part of our stack
-- Strong proficiency in primary focus area (BE/FE/Data/or DevOps)
-- Proficient with DevOps and Observability stacks
+- Technical expert on 1 product / key component.
+- Learning to solid understanding of 2 other products / key components.
+- Expert in one technology on one part of our stack.
+- Strong proficiency in primary focus area (BE/FE/Data/or DevOps).
+- Proficient with DevOps and Observability stacks.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -109,9 +109,9 @@ Sr Software Engineer 2
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Technical expert on 2 products / key components, solid on the rest of the platform
-- Expert in primary focus area (BE/FE/Data/or DevOps)
-- Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies
+- Technical expert on 2 products / key components, solid on the rest of the platform.
+- Expert in primary focus area (BE/FE/Data/or DevOps).
+- Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies.
 
 </td></tr>
 <tr><td>
@@ -121,9 +121,9 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert in most key components and solid on 2 products
-- Expert in primary focus area (BE/FE/Data/or DevOps)
-- Strong proficiency in all other technologies across the codebase and infrastructure
+- Technical expert in most key components and solid on 2 products.
+- Expert in primary focus area (BE/FE/Data/or DevOps).
+- Strong proficiency in all other technologies across the codebase and infrastructure.
 
 </td></tr>
 </table>
@@ -141,14 +141,14 @@ Sr Software Engineer 1
 <tr><td  markdown="1">
 
 - Expert understanding of the product and ways that our customers use it.
-- Proactively guides scope at team-level to right-size solutions
-- Consistently delivers on time and on target, even on large or high-risk tasks
-- Analyzes and implements technical solutions in an efficient manner. Has a keen eye for reusing code and writing reusable tooling to improve future team efficiency
-- Can drive team-level planning and communication
-- Provides accurate effort estimates for large initiatives and clarifies assumptions and risks, even when the scope is still ambiguous
-- Maintains projects with an understanding of how to make them better over time and understands when the time is right
-- Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system
-- Can drive improvements in engineering best practices
+- Proactively guides scope at team-level to right-size solutions.
+- Consistently delivers on time and on target, even on large or high-risk tasks.
+- Analyzes and implements technical solutions in an efficient manner. Has a keen eye for reusing code and writing reusable tooling to improve future team efficiency.
+- Can drive team-level planning and communication.
+- Provides accurate effort estimates for large initiatives and clarifies assumptions and risks, even when the scope is still ambiguous.
+- Maintains projects with an understanding of how to make them better over time and understands when the time is right.
+- Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
+- Can drive improvements in engineering best practices.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -158,13 +158,13 @@ Sr Software Engineer 2
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Consistently delivers on time and on target, even on large tasks, and defines scope to meet stakeholder expectations
-- Leads team planning and communication, and can lead inter-team communication when needed
-- Leads improvements in engineering best practices
-- Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous
-- Ensures accumulated knowledge is being shared within the team, and inter-team as needed
-- Coaches team members on task grooming to break work down into smaller pieces
-- Able to optimize or tune queries/code to address performance problems
+- Consistently delivers on time and on target, even on large tasks, and defines scope to meet stakeholder expectations.
+- Leads team planning and communication, and can lead inter-team communication when needed.
+- Leads improvements in engineering best practices.
+- Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous.
+- Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
+- Coaches team members on task grooming to break work down into smaller pieces.
+- Able to optimize or tune queries/code to address performance problems.
 
 </td></tr>
 <tr><td>
@@ -174,14 +174,14 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Leads cross-teams projects and initiatives, and inter-team communication
-- Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution
-- Mentors engineers and fosters their growth
-- Coaches teams to continuously improve delivery pace and quality
-- Can step in as a contributor on any team when needed
-- Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers
-- Self-guided in a professional way, do their own prioritization when needed
-- Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in
+- Leads cross-teams projects and initiatives, and inter-team communication.
+- Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution.
+- Mentors engineers and fosters their growth.
+- Coaches teams to continuously improve delivery pace and quality.
+- Can step in as a contributor on any team when needed.
+- Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
+- Self-guided in a professional way, do their own prioritization when needed.
+- Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
 
 </td></tr>
 </table>
@@ -196,12 +196,12 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Communicates effectively across functions; can work well with Product, Design, Ops, Finance, Sales, and any other internal stakeholders, as necessary
+- Communicates effectively across functions; can work well with Product, Design, Ops, Finance, Sales, and any other internal stakeholders, as necessary.
 - Mentors junior engineers via pairing, design review, and code review.
-- Proactively identifies problems with requirements (lack of clarity, inconsistencies, technical limitations) for their own work and adjacent work and communicates these issues early to help course-correct
-- Communicates technical decisions through design docs, PED talks, and Tettra articles
-- Communicates well both in writing and verbally with teammates, peers, and stakeholders
-- Positively influences team culture
+- Proactively identifies problems with requirements (lack of clarity, inconsistencies, technical limitations) for their own work and adjacent work and communicates these issues early to help course-correct.
+- Communicates technical decisions through design docs, PED talks, and Tettra articles.
+- Communicates well both in writing and verbally with teammates, peers, and stakeholders.
+- Positively influences team culture.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -211,11 +211,11 @@ Sr Software Engineer 2
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Makes others better through code reviews, thorough documentation, technical guidance, and mentoring or serving as a Tech Lead on a project. 
-- Understands the tradeoffs between technical and product needs to lead to solutions that take all of these needs into account and drive business outcomes
-- Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions
-- Able to discuss complex technical issues at an abstract level with non-technical people
-- Strongly influences and leads team culture
+- Makes others better through code reviews, thorough documentation, technical guidance, and mentoring or serving as a Tech Lead on a project. .
+- Understands the tradeoffs between technical and product needs to lead to solutions that take all of these needs into account and drive business outcomes.
+- Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
+- Able to discuss complex technical issues at an abstract level with non-technical people.
+- Strongly influences and leads team culture.
 
 </td></tr>
 <tr><td>
@@ -225,11 +225,11 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Multiplies the effectiveness of others by facilitating cross-team work
-- Primarily acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity of the entire org
-- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders
-- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan
-- Serves as a technical advisor and works closely with senior management
+- Multiplies the effectiveness of others by facilitating cross-team work.
+- Primarily acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity of the entire org.
+- Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders.
+- Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
+- Serves as a technical advisor and works closely with senior management.
 
 </td></tr>
 </table>
@@ -257,20 +257,20 @@ Staff Engineer
 <tr>
 <td  markdown="1">
 
-- Deliver Results
-- Service Oriented
+- Deliver Results.
+- Service Oriented.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-- Deliver Results
-- Service Oriented
+- Deliver Results.
+- Service Oriented.
 
 </td>
 <td  markdown="1">
 
-- Deliver results
-- Stretegic thinking
+- Deliver results.
+- Stretegic thinking.
 
 </td>
 </tr>
@@ -324,7 +324,7 @@ Staff Engineer
 </table>
 
 
-### Checkpoints
+### Checkpoints for reaching this level
 <table  markdown="1">
 <tr><td>
 
@@ -333,10 +333,10 @@ Sr Software Engineer 1
 </td></tr>
 <tr><td  markdown="1">
 
-- Has lead code reviews for the team for 12+ months
-- Has participated in 2+ technical planning or designs of large Epics or engineering initiatives
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives
-- Has documented 1 technical aspect of systems implementation and/or post-mortems
+- Has lead code reviews for the team for 12+ months.
+- Has participated in 2+ technical planning or designs of large Epics or engineering initiatives.
+- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
+- Has documented 1 technical aspect of systems implementation and/or post-mortems.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -346,10 +346,10 @@ Sr Software Engineer 2
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has been a tech lead for 1+ year
-- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives
-- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives
-- Has documented 5+ technical aspects of systems implementation and/or post-mortems
+- Has been a tech lead for 1+ year.
+- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
+- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
+- Has documented 5+ technical aspects of systems implementation and/or post-mortems.
 
 </td></tr>
 <tr><td>
@@ -359,10 +359,10 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Has been a tech lead for 2+ years
-- Has championed and executed 2+ technical migrations or large multi-months platform/staff projects
-- Has documented 10+ technical aspects of systems implementation and/or post-mortems
-- Has championed the promotion of 2+ engineers
+- Has been a tech lead for 2+ years.
+- Has championed and executed 2+ technical migrations or large multi-months platform/staff projects.
+- Has documented 10+ technical aspects of systems implementation and/or post-mortems.
+- Has championed the promotion of 2+ engineers.
 
 </td></tr>
 </table>
