@@ -31,7 +31,7 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 <span id="paths" />
 ### Map of Paths
 
-| | Technical Path | People Path |
+| | Technical Path | Management Path |
 |---|---|---|
 | L1 | [Software Engineer Intern](software_engineer_intern.html) | |
 | L2 | [Software Engineer 1](software_engineer_1.html) | |
