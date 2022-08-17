@@ -44,4 +44,4 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 | L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
 
 ### Credits
-Creating this would not have been possible without standing on the shoulder of giants, in particular Camille Fournier (VPE @ Rent the Runway / The manager's path), Will Larsen (An elegant Puzzle), Katie Wilde (VPE @ Buffer), and Jerry Talton (VPE @ Carta).
+Creating Beyond's engineering paths was possible thanks to the outstanding collaboration of our Beyond EM team, Paula, Mariah, Rita, Dan, Matt, and Francois, and the positive drive and leadership from the one and only Miguel #wecare. We are also standing on the shoulder of giants, in particular Camille Fournier (VPE @ Rent the Runway / The manager's path), Will Larsen (An elegant Puzzle), Katie Wilde (VPE @ Buffer), and Jerry Talton (VPE @ Carta).
