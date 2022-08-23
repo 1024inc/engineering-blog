@@ -45,8 +45,6 @@ Staff Engineer
 </table>
 
 
-_reference: fork_
-
 ### Scope of action
 <table  markdown="1">
 <tr>
