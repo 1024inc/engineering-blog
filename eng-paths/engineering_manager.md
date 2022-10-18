@@ -334,7 +334,7 @@ Technical Lead Manager
 - Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
 - Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives.
 - Has documented 3+ technical aspects of systems implementation and/or post-mortems.
-- Has read Radical Candor and crucial conversations.
+- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "Radical Candor" and "Crucial Conversations.".
 
 </td></tr>
 <tr><td style="font-weight:bold">
