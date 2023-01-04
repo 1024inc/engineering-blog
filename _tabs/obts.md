@@ -31,6 +31,7 @@ _Defines the what and how_
 - Documents designs
 - Participates in cross-teams and engineering-driven initiatives
 - Owns timelines when required
+
 _Tech lead is not a position on our engineering paths. Instead, it is a set of responsibilities that senior engineers sometimes assume as part of their growth and development_
 
 ## Developer (Dev)
