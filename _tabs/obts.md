@@ -18,15 +18,15 @@ We differentiate 3 types of OBTs:
 # Within OBTs, each player is responsibile for one, or sometimes more, of the following roles:
 ## Product Manager (PM)
 _Explores the why and what_
-- Estimates impact pre-grooming
+- Estimates impact pre refinement
 - Builds measurable outcomes
 - Prioritize the team's backlog and builds the team's roadmap
-- Drives grooming and documents story and acceptance criteria
+- Drives refinement and documents story and acceptance criteria
 - Communicates commitments with customers and business stakeholders
 
 ## Tech Lead (TL)
 _Defines the what and how_
-- Estimates effort pre-grooming
+- Estimates effort pre refinement
 - Decides on technical solutions
 - Documents designs
 - Participates in cross-teams and engineering-driven initiatives
@@ -36,7 +36,7 @@ _Tech lead is not a position on our engineering paths. Instead, it is a set of r
 
 ## Developer (Dev)
 _Builds all the things!_
-- Participates in grooming and estimating stories
+- Participates in refinement and estimating stories
 - Delivers work assignments on time and on target
 - Collaborates with teammates when necessary through pairing and other sessions
 - Takes ownership to iterate and improve when possible
