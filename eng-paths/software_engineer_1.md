@@ -163,6 +163,7 @@ Software Engineer 2
 - Participates in troubleshooting issues in their area of focus.
 - Proactive in pairing with other team members to learn the team best practices.
 - Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories.
+- Understand how the defcon resolutions work. Be part of those when available as a listener.
 
 </td></tr>
 </table>

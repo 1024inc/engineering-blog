@@ -143,6 +143,7 @@ Sr Software Engineer 2
 - Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
 - Coaches team members on task grooming to break work down into smaller pieces.
 - Able to optimize or tune queries/code to address performance problems.
+- Facilitate and help with solutions for defcon meetings and ensure that the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -160,6 +161,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
+- Lead defcon resolutions to ensure the solution taking place is the right one
 
 </td></tr>
 <tr><td>
@@ -176,6 +178,7 @@ Sr Staff Engineer
 - Can step in as a contributor on any team when needed.
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required.
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition.
+- Lead defcon resolutions to ensure the solution taking place is the right one.
 
 </td></tr>
 </table>
@@ -195,6 +198,7 @@ Sr Software Engineer 2
 - Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
 - Able to discuss complex technical issues at an abstract level with non-technical people.
 - Strongly influences and leads team culture.
+- Help debrief the outcomes of the defcon through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td style="font-weight:bold">

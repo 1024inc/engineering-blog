@@ -112,6 +112,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
+- Lead defcon resolutions to ensure the solution taking place is the right one
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -128,6 +129,7 @@ Sr Staff Engineer
 - Can step in as a contributor on any team when needed.
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required.
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition.
+- Lead defcon resolutions to ensure the solution taking place is the right one.
 
 </td></tr>
 </table>

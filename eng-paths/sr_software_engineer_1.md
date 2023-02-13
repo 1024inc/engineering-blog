@@ -113,6 +113,7 @@ Software Engineer 3
 - Able to break down and estimate large initiatives.
 - Writes code in a style consistent with the codebase, creates tests for their work.
 - Participates in improving engineering best practices.
+- Participate in defcon resolutions if in your area of focus. Help come to a solution when it is in your area of expertise.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -131,6 +132,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
+- Help with solutions for defcon meetings and ensure that the outcomes are the best for the situation in technical aspects
 
 </td></tr>
 </table>
@@ -150,6 +152,7 @@ Software Engineer 3
 - Proactively and thoughtfully communicates with team in regards to questions, assumptions, blockers, and changes of estimated timeline.
 - Participates in team events, both within engineering and the broader team at Beyond.
 - Contributes to design docs and Tettra articles.
+- Make thoughtfully and clear communication on defcon resolutions when the issue is in your area of knowledge.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -165,6 +168,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
+- Make thoughtfully and clear communication on defcon resolutions regarding how to achieve the right outcomes.
 
 </td></tr>
 </table>

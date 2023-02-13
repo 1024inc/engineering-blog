@@ -209,6 +209,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
+- Identify and bring the right ICs to the Defcon resolutions. Ensure communications are reaching the right audience channels.
 
 </td></tr>
 <tr><td style="font-weight:bold">
