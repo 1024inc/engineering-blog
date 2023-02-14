@@ -143,7 +143,7 @@ Sr Software Engineer 2
 - Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
 - Coaches team members on task grooming to break work down into smaller pieces.
 - Able to optimize or tune queries/code to address performance problems.
-- Facilitate and help with solutions for defcon meetings and ensure that the outcomes are the best for the situation in technical aspects.
+- Facilitate and help with solutions for critical outages and high-impact issue meetings and ensure that the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -161,7 +161,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
-- Lead defcon resolutions to ensure the solution taking place is the right one
+- Lead critical outages and high impact issues meetings to ensure the solution taking place is the right one
 
 </td></tr>
 <tr><td>
@@ -178,7 +178,7 @@ Sr Staff Engineer
 - Can step in as a contributor on any team when needed.
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required.
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition.
-- Lead defcon resolutions to ensure the solution taking place is the right one.
+- Lead critical outages and high-impact issues meetings to ensure the solution taking place is the right one.
 
 </td></tr>
 </table>
@@ -198,7 +198,8 @@ Sr Software Engineer 2
 - Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
 - Able to discuss complex technical issues at an abstract level with non-technical people.
 - Strongly influences and leads team culture.
-- Help debrief the outcomes of the defcon through messages on the proper channels and/or post-mortem documents.
+- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
+- Help debrief the outcomes of the critical outages and high-impact issues meetings through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -213,6 +214,7 @@ Staff Engineer
 - Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders.
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
+- Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 <tr><td>
@@ -226,6 +228,7 @@ Sr Staff Engineer
 - Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Seen as a role model and mentor to every technical member of the team.
 - Serves as the main technical advisor for and works directly and closely with senior management.
+- Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 </table>

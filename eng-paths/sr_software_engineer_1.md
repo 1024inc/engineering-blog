@@ -113,7 +113,7 @@ Software Engineer 3
 - Able to break down and estimate large initiatives.
 - Writes code in a style consistent with the codebase, creates tests for their work.
 - Participates in improving engineering best practices.
-- Participate in defcon resolutions if in your area of focus. Help come to a solution when it is in your area of expertise.
+- Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution when it is in your area of expertise.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -132,7 +132,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
-- Help with solutions for defcon meetings and ensure that the outcomes are the best for the situation in technical aspects
+- Help with solutions for critical outages and high-impact issues meetings and ensure that the outcomes are the best for the situation in technical aspects
 
 </td></tr>
 </table>
@@ -147,12 +147,7 @@ Software Engineer 3
 </td></tr>
 <tr><td  markdown="1">
 
-- Gives timely, helpful feedback to peers and managers.
-- Understands how their work fits into the larger project and identifies problems with requirements.
-- Proactively and thoughtfully communicates with team in regards to questions, assumptions, blockers, and changes of estimated timeline.
-- Participates in team events, both within engineering and the broader team at Beyond.
-- Contributes to design docs and Tettra articles.
-- Make thoughtfully and clear communication on defcon resolutions when the issue is in your area of knowledge.
+- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -168,7 +163,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
-- Make thoughtfully and clear communication on defcon resolutions regarding how to achieve the right outcomes.
+- Make thoughtful and clear communication on critical outages and high-impact issues meetings regarding how to achieve the right outcomes.
 
 </td></tr>
 </table>

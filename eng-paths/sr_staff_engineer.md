@@ -112,7 +112,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
-- Lead defcon resolutions to ensure the solution taking place is the right one
+- Lead critical outages and high impact issues meetings to ensure the solution taking place is the right one
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -129,7 +129,7 @@ Sr Staff Engineer
 - Can step in as a contributor on any team when needed.
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required.
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition.
-- Lead defcon resolutions to ensure the solution taking place is the right one.
+- Lead critical outages and high-impact issues meetings to ensure the solution taking place is the right one.
 
 </td></tr>
 </table>
@@ -149,6 +149,7 @@ Staff Engineer
 - Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders.
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
+- Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -162,6 +163,7 @@ Sr Staff Engineer
 - Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Seen as a role model and mentor to every technical member of the team.
 - Serves as the main technical advisor for and works directly and closely with senior management.
+- Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 </table>

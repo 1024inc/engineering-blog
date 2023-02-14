@@ -150,7 +150,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
-- Help with solutions for defcon meetings and ensure that the outcomes are the best for the situation in technical aspects
+- Help with solutions for critical outages and high-impact issues meetings and ensure that the outcomes are the best for the situation in technical aspects
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -166,7 +166,7 @@ Technical Lead Manager
 - Collaborates with the team's PM on inter/intra-team communication, planning, and delivery.
 - Drives adoption of engineering best practices at a team level.
 - Acts as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
-- Participate in defcon resolutions if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
+- Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
 
 </td></tr>
 <tr><td>
@@ -204,7 +204,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
-- Make thoughtfully and clear communication on defcon resolutions regarding how to achieve the right outcomes.
+- Make thoughtful and clear communication on critical outages and high-impact issues meetings regarding how to achieve the right outcomes.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -219,7 +219,7 @@ Technical Lead Manager
 - Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and director or VP to ensure employee growth and retention goals.
 - Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to all stakeholders.
 - Leads and embodies team culture.
-- Use communication to bring the right ICs to the defcon resolutions and help/facilitate decisions. Debrief the outcomes of the defcon through messages on the proper channels and/or post-mortem documents.
+- Use communication to bring the right ICs to the critical outages and high-impact issues meetings and help/facilitate decisions. Debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td>
@@ -239,7 +239,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
-- Identify and bring the right ICs to the Defcon resolutions. Ensure communications are reaching the right audience channels.
+- Identify and bring the right ICs to the critical outages and high impact issues meetings. Ensure communications are reaching the right audience channels.
 
 </td></tr>
 </table>
