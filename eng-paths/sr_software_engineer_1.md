@@ -147,7 +147,12 @@ Software Engineer 3
 </td></tr>
 <tr><td  markdown="1">
 
-- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness
+- Gives timely, helpful feedback to peers and managers.
+- Understands how their work fits into the larger project and identifies problems with requirements.
+- Proactively and thoughtfully communicates with team in regards to questions, assumptions, blockers, and changes of estimated timeline.
+- Participates in team events, both within engineering and the broader team at Beyond.
+- Contributes to design docs and Tettra articles.
+- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 <tr><td style="font-weight:bold">
