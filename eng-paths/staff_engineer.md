@@ -143,7 +143,7 @@ Sr Software Engineer 2
 - Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
 - Coaches team members on task grooming to break work down into smaller pieces.
 - Able to optimize or tune queries/code to address performance problems.
-- Facilitate and help with solutions for critical outages and high-impact issue meetings and ensure that the outcomes are the best for the situation in technical aspects.
+- During critical outages and high-impact issue investigations, facilitate and help with solutions. Ensure that the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -198,8 +198,8 @@ Sr Software Engineer 2
 - Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
 - Able to discuss complex technical issues at an abstract level with non-technical people.
 - Strongly influences and leads team culture.
-- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
-- Help debrief the outcomes of the critical outages and high-impact issues meetings through messages on the proper channels and/or post-mortem documents.
+- During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
+- After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td style="font-weight:bold">

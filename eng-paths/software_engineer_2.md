@@ -152,7 +152,7 @@ Software Engineer 2
 - Participates in troubleshooting issues in their area of focus.
 - Proactive in pairing with other team members to learn the team best practices.
 - Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories.
-- Understand how the critical outages and high impact issues meetings work. Be part of those when available as a listener.
+- Understand how critical outages and high-impact issues are investigated. Join those calls as a listener when available.
 
 </td></tr>
 <tr><td>
@@ -169,7 +169,7 @@ Software Engineer 3
 - Able to break down and estimate large initiatives.
 - Writes code in a style consistent with the codebase, creates tests for their work.
 - Participates in improving engineering best practices.
-- Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution when it is in your area of expertise.
+- During critical outages or high-impact issue investigations, participate in group calls if in your area of focus. Help come to a solution when it is in your area of expertise.
 
 </td></tr>
 </table>
@@ -219,7 +219,7 @@ Software Engineer 3
 - Proactively and thoughtfully communicates with team in regards to questions, assumptions, blockers, and changes of estimated timeline.
 - Participates in team events, both within engineering and the broader team at Beyond.
 - Contributes to design docs and Tettra articles.
-- Clearly communicate the status and high-level impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
+- During critical outages or when there is a high-impact issue, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 </table>

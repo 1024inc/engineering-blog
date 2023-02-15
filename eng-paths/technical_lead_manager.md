@@ -150,7 +150,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
-- Help with solutions for critical outages and high-impact issues meetings and ensure that the outcomes are the best for the situation in technical aspects
+- During critical outages and high-impact issues, help identify solutions and ensure the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -204,7 +204,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
-- Make thoughtful and clear communication on critical outages and high-impact issues meetings regarding how to achieve the right outcomes.
+- During critical outages and high-impact issue investigations, make thoughtful and clear communication regarding how to achieve the proper outcomes.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -239,7 +239,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
-- Identify and bring the right ICs to the critical outages and high impact issues meetings. Ensure communications are reaching the right audience channels.
+- During critical outages and high-impact issue investigations, identify and bring the right people to the group call. Ensure communication is clear and visible in the appropriate channels.
 
 </td></tr>
 </table>

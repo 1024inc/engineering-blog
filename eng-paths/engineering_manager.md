@@ -223,7 +223,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
-- Identify and bring the right ICs to the critical outages and high impact issues meetings. Ensure communications are reaching the right audience channels.
+- During critical outages and high-impact issue investigations, identify and bring the right people to the group call. Ensure communication is clear and visible in the appropriate channels.
 
 </td></tr>
 <tr><td>

@@ -163,7 +163,7 @@ Software Engineer 2
 - Participates in troubleshooting issues in their area of focus.
 - Proactive in pairing with other team members to learn the team best practices.
 - Completes well-defined tasks, consistently delivering on time and on target, given a clear plan and segmented stories.
-- Understand how the critical outages and high impact issues meetings work. Be part of those when available as a listener.
+- Understand how critical outages and high-impact issues are investigated. Join those calls as a listener when available.
 
 </td></tr>
 </table>
