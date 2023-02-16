@@ -150,6 +150,7 @@ Technical Lead Manager
 - Collaborates with the team's PM on inter/intra-team communication, planning, and delivery.
 - Drives adoption of engineering best practices at a team level.
 - Acts as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
+- Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -202,6 +203,7 @@ Technical Lead Manager
 - Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and director or VP to ensure employee growth and retention goals.
 - Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to all stakeholders.
 - Leads and embodies team culture.
+- Use communication to bring the right ICs to the critical outages and high-impact issues meetings and help/facilitate decisions. Debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -221,6 +223,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
+- During critical outages and high-impact issue investigations, identify and bring the right people to the group call. Ensure communication is clear and visible in the appropriate channels.
 
 </td></tr>
 <tr><td>

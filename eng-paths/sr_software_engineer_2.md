@@ -147,6 +147,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
+- During critical outages and high-impact issues, help identify solutions and ensure the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -163,6 +164,7 @@ Sr Software Engineer 2
 - Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
 - Coaches team members on task grooming to break work down into smaller pieces.
 - Able to optimize or tune queries/code to address performance problems.
+- During critical outages and high-impact issue investigations, facilitate and help with solutions. Ensure that the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td>
@@ -180,6 +182,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
+- Lead critical outages and high impact issues meetings to ensure the solution taking place is the right one
 
 </td></tr>
 </table>
@@ -200,6 +203,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
+- During critical outages and high-impact issue investigations, make thoughtful and clear communication regarding how to achieve the proper outcomes.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -214,6 +218,8 @@ Sr Software Engineer 2
 - Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
 - Able to discuss complex technical issues at an abstract level with non-technical people.
 - Strongly influences and leads team culture.
+- During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
+- After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td>
@@ -228,6 +234,7 @@ Staff Engineer
 - Listens and guides debates to help reach decisions, drives commitment and accountability; clearly communicates to and backs all stakeholders.
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
+- Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
 
 </td></tr>
 </table>

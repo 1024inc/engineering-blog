@@ -150,6 +150,7 @@ Sr Software Engineer 1
 - Maintains projects with an understanding of how to make them better over time and understands when the time is right.
 - Thinks about the big picture in the scope of the whole project, sees the impact of the changes they're making and how they could impact other areas of the system.
 - Can drive improvements in engineering best practices.
+- During critical outages and high-impact issues, help identify solutions and ensure the outcomes are the best for the situation in technical aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -165,6 +166,7 @@ Technical Lead Manager
 - Collaborates with the team's PM on inter/intra-team communication, planning, and delivery.
 - Drives adoption of engineering best practices at a team level.
 - Acts as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
+- Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
 
 </td></tr>
 <tr><td>
@@ -202,6 +204,7 @@ Sr Software Engineer 1
 - Communicates technical decisions through design docs, PED talks, and Tettra articles.
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
+- During critical outages and high-impact issue investigations, make thoughtful and clear communication regarding how to achieve the proper outcomes.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -216,6 +219,7 @@ Technical Lead Manager
 - Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and director or VP to ensure employee growth and retention goals.
 - Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to all stakeholders.
 - Leads and embodies team culture.
+- Use communication to bring the right ICs to the critical outages and high-impact issues meetings and help/facilitate decisions. Debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 
 </td></tr>
 <tr><td>
@@ -235,6 +239,7 @@ Engineering Manager
 - Comfortable managing team members with different skill sets and technical areas of focus.
 - Sells Beyond as a company and their organization as a team to potential candidates. Inspires potential recruits to join the company.
 - Leads and embodies team culture.
+- During critical outages and high-impact issue investigations, identify and bring the right people to the group call. Ensure communication is clear and visible in the appropriate channels.
 
 </td></tr>
 </table>
