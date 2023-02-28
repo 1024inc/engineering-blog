@@ -10,14 +10,13 @@ on:
 
 jobs:
   continuous-delivery:
-
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # for posts's lastmod
+          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -25,5 +24,15 @@ jobs:
           ruby-version: 2.7
           bundler-cache: true
 
-      - name: Deploy
+      - name: Update References
         run: bash tools/deploy.sh
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          domain: https://engineering.beyondpricing.com/
+          target_branch: gh-pages
+          build_dir: ./_site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
