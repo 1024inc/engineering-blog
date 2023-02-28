@@ -33,6 +33,6 @@ jobs:
         with:
           domain: https://engineering.beyondpricing.com/
           target_branch: gh-pages
-          build_dir: public
+          build_dir: ./
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
