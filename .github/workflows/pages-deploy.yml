@@ -31,7 +31,6 @@ jobs:
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          domain: engineering.beyondpricing.com
           target_branch: gh-pages
           build_dir: ./
         env:
