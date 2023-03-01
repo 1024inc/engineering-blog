@@ -161,7 +161,7 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
-- Lead critical outages and high impact issues meetings to ensure the solution taking place is the right one
+- Take the lead on following up on the incidents that happened, proactively looking into ways to improve the systems to avoid those same issues from happening again, and/or improve monitoring to detect those sooner whenever applicable
 
 </td></tr>
 <tr><td>
@@ -199,7 +199,7 @@ Sr Software Engineer 2
 - Able to discuss complex technical issues at an abstract level with non-technical people.
 - Strongly influences and leads team culture.
 - During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
-- After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents.
+- After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents and create follow-up action items (when applicable) as a measure to prevent the issue from happening again or to be able to detect it sooner.
 
 </td></tr>
 <tr><td style="font-weight:bold">
