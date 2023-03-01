@@ -29,9 +29,9 @@ jobs:
 
       - name: Deploy to GitHub Pages
         if: success()
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: qoomon/deploy-to-github-pages-action@v1
         with:
-          target_branch: gh-pages
-          build_dir: ./
-        env:
+          GITHUB_PAGES_SOURCE_DIR: ./
+          GITHUB_PAGES_BRANCH: gh-pages
+          GITHUB_PAGES_REPLACE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
