@@ -166,7 +166,6 @@ Sr Staff Engineer
 
 - Communicates the awesomeness of Beyond's tech community externally via talks and blog posts. Identifies areas that Beyond can share effectively with the outside world and guides the creation of content and communication around these areas.
 - Within the company, communicates and fosters buy-in for the Engineering long-term plan (12-18 months), while establishing the necessary steps to achieve the defined goals. Drives the Engineering team towards successful execution of the plan, encouraging alignment and commitment towards the company's established objectives.
-- Within the company, communicates the long-term plan for Engineering (12-18 months), and the high-level steps required to achieve those goals. 
 - Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Seen as a role model and mentor to every technical member of the team.
 - Serves as the main technical advisor for and works directly and closely with senior management.
