@@ -205,7 +205,7 @@ Sr Software Engineer 2
 - During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
 - After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents and create follow-up action items (when applicable) as a measure to prevent the issue from happening again or to be able to detect it sooner.
 - Able to analyze and execute cross-team engineering initiatives by leading the scope of implementation within own team. 
-- Communicate clearly with all stakeholders, being able to communicate trade-offs and shift the priorities when necessary.
+- Communicates clearly with all stakeholders, being able to articulate trade-offs and shift the priorities when necessary.
 - Helps to create buy-in on the decisions (together with the EM and PM) by helping the team to understand the "why" of the decisions being taken.
 
 </td></tr>
