@@ -205,6 +205,7 @@ Sr Software Engineer 1
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
 - During critical outages and high-impact issue investigations, make thoughtful and clear communication regarding how to achieve the proper outcomes.
+- Able to communicate trade-offs with PM and EM, and drive Engineering improvements within the team scope.
 
 </td></tr>
 <tr><td style="font-weight:bold">
