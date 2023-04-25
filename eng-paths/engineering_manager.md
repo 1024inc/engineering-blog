@@ -151,6 +151,8 @@ Technical Lead Manager
 - Drives adoption of engineering best practices at a team level.
 - Acts as the primary driver (together with EM/PM) of the team's vision document, driving the planning and delivery towards it.
 - Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
+- Able to create, drive, and communicate big systems architecture decisions and initiatives within the team.
+- Takes ownership of the team's technical scope of responsibility by nurturing scalability, reliability, and efficiency.
 
 </td></tr>
 <tr><td style="font-weight:bold">

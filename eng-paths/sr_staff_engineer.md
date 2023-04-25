@@ -112,7 +112,9 @@ Staff Engineer
 - Able to suggest when/how projects could take shortcuts and still maintain quality to satisfy our customers.
 - Self-guided in a professional way, do their own prioritization when needed.
 - Uses data and facts to debate technical architecture with team members and stakeholders to gain buy-in.
-- Take the lead on following up on the incidents that happened, proactively looking into ways to improve the systems to avoid those same issues from happening again, and/or improve monitoring to detect those sooner whenever applicable
+- Take the lead on following up on the incidents that happened, proactively looking into ways to improve the systems to avoid those same issues from happening again, and/or improve monitoring to detect those sooner whenever applicable.
+- Fosters cost-awareness by advocating for initiatives that lead to savings, and diligently monitoring spending across existing systems.
+- Comfortable with navigating ambiguity, being able to define the next steps of own scope that align with Engineering and the company's needs.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -122,14 +124,14 @@ Sr Staff Engineer
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Leads cross-teams projects and initiatives, and inter-team communication.
+- Leads cross-teams projects and initiatives, and inter-team and company-wide communication.
 - Identifies org-level opportunities, prioritizes, plans, and creates buy-in for resolution.
 - Mentors engineers and fosters their growth.
 - Coaches teams to continuously improve delivery pace and quality.
 - Can step in as a contributor on any team when needed.
 - Can collaborate with internal and external stakeholders in any department, team, or client when technical presence is required.
 - Acts as an external facing advocate and technical authority for Beyond Engineering, drives talent acquisition.
-- Lead critical outages and high-impact issues meetings to ensure the solution taking place is the right one.
+- Leads critical outages and high-impact issues meetings to ensure the solution taking place is the right one.
 
 </td></tr>
 </table>
@@ -150,6 +152,8 @@ Staff Engineer
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
 - Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
+- Consistently provides feedback to Senior Engineers, with the intention of supporting their career growth and professional development.
+- Leverage communication and expertise by working closely with the teams to ensure that cross-team work is being executed successfully, within the scope and timelines required.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -160,6 +164,7 @@ Sr Staff Engineer
 <tr><td markdown="1" style="font-weight:bold">
 
 - Communicates the awesomeness of Beyond's tech community externally via talks and blog posts. Identifies areas that Beyond can share effectively with the outside world and guides the creation of content and communication around these areas.
+- Within the company, communicates and fosters buy-in for the Engineering long-term plan (12-18 months), while establishing the necessary steps to achieve the defined goals. Drives the Engineering team towards successful execution of the plan, encouraging alignment and commitment towards the company's established objectives.
 - Sets long-term strategic technical direction, able to look ahead 12-18 months, identify the areas of greatest need across Beyond, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Seen as a role model and mentor to every technical member of the team.
 - Serves as the main technical advisor for and works directly and closely with senior management.
