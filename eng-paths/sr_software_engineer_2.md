@@ -208,7 +208,7 @@ Sr Software Engineer 1
 - Communicates well both in writing and verbally with teammates, peers, and stakeholders.
 - Positively influences team culture.
 - During critical outages and high-impact issue investigations, make thoughtful and clear communication regarding how to achieve the proper outcomes.
-- Able to communicate trade-offs with PM and EM, and drive Engineering improvements within the team scope.
+- Able to discover, analyze, understand, and communicate trade-offs with PM and EM, and drive Engineering improvements within the team scope.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -225,7 +225,7 @@ Sr Software Engineer 2
 - Strongly influences and leads team culture.
 - During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
 - After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents and create follow-up action items (when applicable) as a measure to prevent the issue from happening again or to be able to detect it sooner.
-- Able to analyze and execute cross-team engineering initiatives by leading the scope of implementation within own team. .
+- Able to analyze and execute cross-team engineering initiatives by leading the scope of implementation within own team.
 - Communicates clearly with all stakeholders, being able to articulate trade-offs and shift the priorities when necessary.
 - Helps to create buy-in on the decisions (together with the EM and PM) by helping the team to understand the "why" of the decisions being taken.
 
@@ -243,7 +243,7 @@ Staff Engineer
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
 - Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
-- Consistently provides feedback to Senior Engineers, with the intention of supporting their career growth and professional development.
+- Consistently provides feedback to engineers, with the intention of supporting their career growth and professional development.
 - Leverage communication and expertise by working closely with the teams to ensure that cross-team work is being executed successfully, within the scope and timelines required.
 
 </td></tr>

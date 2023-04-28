@@ -153,6 +153,7 @@ Technical Lead Manager
 - Participate in critical outages and high impact issues meetings if in your area of focus. Help come to a solution with the suitable IC or the technical approach when it is in your area of expertise.
 - Able to create, drive, and communicate big systems architecture decisions and initiatives within the team.
 - Takes ownership of the team's technical scope of responsibility by nurturing scalability, reliability, and efficiency.
+- Fosters cost-awareness by advocating for initiatives that lead to savings, and diligently monitoring spending across the team scope.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -203,7 +204,7 @@ Technical Lead Manager
 - Makes independent decisions for the team; is actively learning how to handle complex management situations.
 - Contributes to the career development of others.
 - Expected to meet regularly with their direct reports, create openness to feedback by asking for it, use that openness to provide frequent feedback on their work, help the individuals set goals, and work with the HR partner and director or VP to ensure employee growth and retention goals.
-- Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to all stakeholders.
+- Communicates team's vision and mission to Engineering. Proactively clarifies the "why's" of changes and decisions taken to the team and all stakeholders, creating buy-in on those.
 - Leads and embodies team culture.
 - Use communication to bring the right ICs to the critical outages and high-impact issues meetings and help/facilitate decisions. Debrief the outcomes through messages on the proper channels and/or post-mortem documents.
 

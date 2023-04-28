@@ -152,7 +152,7 @@ Staff Engineer
 - Sets medium-term strategic technical direction, able to look ahead 6 months, identify the areas of greatest need across the engineering org, create plans to improve them, and build teammate and exec buy-in around the plan.
 - Serves as a technical advisor and works closely with senior management.
 - Clearly communicate the status and impact of critical outages and high-impact issues in the appropriate public channels for visibility and awareness.
-- Consistently provides feedback to Senior Engineers, with the intention of supporting their career growth and professional development.
+- Consistently provides feedback to engineers, with the intention of supporting their career growth and professional development.
 - Leverage communication and expertise by working closely with the teams to ensure that cross-team work is being executed successfully, within the scope and timelines required.
 
 </td></tr>
