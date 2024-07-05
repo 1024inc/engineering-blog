@@ -1,7 +1,7 @@
 ---
 title: Staff Engineer
 icon: fas fa-users
-order: 8
+order: 9
 layout: page-eng-paths
 ---
 
@@ -11,7 +11,7 @@ layout: page-eng-paths
 <tr>
 <td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td>
 <td style="font-weight:bold">
@@ -28,7 +28,7 @@ Sr Staff Engineer
 <tr>
 <td  markdown="1">
 
-8+
+9+
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -50,7 +50,7 @@ Sr Staff Engineer
 <tr>
 <td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td>
 <td style="font-weight:bold">
@@ -67,7 +67,8 @@ Sr Staff Engineer
 <tr>
 <td  markdown="1">
 
-2-3 Products / Key components
+- Multiple Product/Components.
+- All team's domain.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -88,14 +89,18 @@ Whole platform and organization
 <table  markdown="1">
 <tr><td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert on 2 products / key components, solid on the rest of the platform.
+- Technical expert on multiple products / key components, knowing all the extent of the team's domain.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies.
+
+
+- Thrives in environments with ambiguous scope, clarifying uncertainties and defining clear paths forward with the best outcomes in mind.
+- Provides guidance and direction to their team rather than waiting for instructions, finding opportunities and ensuring proactive and innovative problem-solving.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -109,6 +114,9 @@ Staff Engineer
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in all other technologies across the codebase and infrastructure.
 
+- Thrives in ambiguous scopes throughout Engineering, defining the results we need to aim for and how to get there. .
+- Acts as expert and executor on driving the whole engineering department to the best technical and company outcomes.
+
 </td></tr>
 <tr><td>
 
@@ -117,9 +125,12 @@ Sr Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert in all key components and solid on the entire codebase.
+- Technical expert in most key components and solid on 2 products.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in all other technologies across the codebase and infrastructure.
+
+- Thrives in ambiguous scopes throughout Engineering, defining the results we need to aim for and how to get there. .
+- Acts as expert and executor on driving the whole engineering department to the best technical and company outcomes.
 
 </td></tr>
 </table>
@@ -131,21 +142,15 @@ _reference: [Products and key components (internal link)](https://app.tettra.co/
 <table  markdown="1">
 <tr><td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Consistently delivers on time and on target, even on large tasks, and defines scope to meet stakeholder expectations.
-- Leads team planning and communication, and can lead inter-team communication when needed.
-- Leads improvements in engineering best practices.
-- Provides accurate effort estimates for large initiatives, and clarifies assumptions, even when the scope is still ambiguous.
-- Ensures accumulated knowledge is being shared within the team, and inter-team as needed.
-- Coaches team members on task grooming to break work down into smaller pieces.
-- Able to optimize or tune queries/code to address performance problems.
-- During critical outages and high-impact issue investigations, facilitate and help with solutions. Ensure that the outcomes are the best for the situation in technical aspects.
-- Able to create, drive, and communicate big systems architecture decisions and initiatives within the team.
-- Takes ownership of the team's technical scope of responsibility by nurturing scalability, reliability, and efficiency.
+- Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks but also strategically articulating and executing a long-term vision for the team's technical direction. .
+- Anticipates future needs, articulate a clear plan, and secure buy-in from key stakeholders and team members.
+- Acts as a bridge between technical execution and business strategy, advocating for technical decisions that support the overall success of the organization.
+- Develops strategies to mitigate risks effectively, ensuring robustness and resilience in technical solutions. Capable of making critical decisions during high-pressure situations, maintaining a focus on achieving optimal outcomes for both technical and business aspects.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -192,21 +197,17 @@ Sr Staff Engineer
 <table  markdown="1">
 <tr><td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Makes others better through code reviews, thorough documentation, technical guidance, and mentoring or serving as a Tech Lead on a project. .
-- Understands the tradeoffs between technical and product needs to lead to solutions that take all of these needs into account and drive business outcomes.
-- Identifies and proposes strategies around technical problems affecting their team, communicates standards, and gets buy-in on solutions.
-- Able to discuss complex technical issues at an abstract level with non-technical people.
-- Strongly influences and leads team culture.
-- During critical outages and high-impact issues, clearly communicate the status and high-level impact in the appropriate public channels for visibility and awareness.
-- After a critical outage or high-impact issue is resolved, help debrief the outcomes through messages on the proper channels and/or post-mortem documents and create follow-up action items (when applicable) as a measure to prevent the issue from happening again or to be able to detect it sooner.
-- Able to analyze and execute cross-team engineering initiatives by leading the scope of implementation within own team.
-- Communicates clearly with all stakeholders, being able to articulate trade-offs and shift the priorities when necessary.
-- Helps to create buy-in on the decisions (together with the EM and PM) by helping the team to understand the "why" of the decisions being taken.
+- Thrives in communicating high-level, ensuring clarity for individuals with varying levels of technical expertise.
+- Able to clearly articulate pros/cons, costs and tradeoffs of possible decisions.
+- Proactively establishes the team’s vision and strategic direction.
+- Inspires and motivates team members towards a shared vision, cultivating a culture of innovation and excellence.
+- Helps on the professional development of team members through mentorship, knowledge sharing, and promoting continuous learning .
+- Holds the team accountable to high technical standards.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -249,7 +250,7 @@ Sr Staff Engineer
 <tr>
 <td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td>
 <td style="font-weight:bold">
@@ -266,8 +267,8 @@ Sr Staff Engineer
 <tr>
 <td  markdown="1">
 
-- Deliver Results.
-- Service Oriented.
+- Deliver results.
+- Stretegic thinking.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -293,7 +294,7 @@ _reference: [Individual Contributor competencies (internal link)](https://app.te
 <tr>
 <td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td>
 <td style="font-weight:bold">
@@ -310,10 +311,7 @@ Sr Staff Engineer
 <tr>
 <td  markdown="1">
 
-- [Sr Backend Engineer](https://docs.google.com/document/d/1ZrhG2n7VqcpCfkCK85txt6EJhEoKhQplPFtRYhZikGg/edit?usp=sharing){:target="_blank"}
-- [Sr Fullstack Engineer](https://docs.google.com/document/d/1HW-qf4jHMaDq5lHOvavL3DiCCL8UE3Yfv4gVaufRzBk/edit?usp=sharing){:target="_blank"}
-- [Sr Data Engineer (Algo)](https://docs.google.com/document/d/1g0fi11JI3xjaWpk5EdJI4PMZY_Jf8xwU8U7opdGYsfY/edit?usp=sharing){:target="_blank"}
-- [Sr DevOps Engineer](https://docs.google.com/document/d/1_IKR__6aqRAJEd4mRv6ukUJ7Gx3-hQkXHSDvDKmqFBI/edit){:target="_blank"}
+
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -338,15 +336,16 @@ Sr Staff Engineer
 <table  markdown="1">
 <tr><td>
 
-Sr Software Engineer 2
+Sr Software Engineer 3
 
 </td></tr>
 <tr><td  markdown="1">
 
-- Has been a tech lead for 1+ year.
-- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
+- Has been a tech lead for 2+ year.
+- Has proposed and led in 3+ technical planning or designs of large Epics and engineering initiatives.
 - Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
 - Has documented 5+ technical aspects of systems implementation and/or post-mortems.
+- Has supported the growth of at least 1 engineer in the team.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -356,7 +355,7 @@ Staff Engineer
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has been a tech lead for 2+ years.
+- Has been a tech lead for 3+ years.
 - Has championed and executed 2+ technical migrations or large multi-months platform/staff projects.
 - Has documented 10+ technical aspects of systems implementation and/or post-mortems.
 - Has championed the promotion of 2+ engineers.
