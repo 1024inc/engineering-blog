@@ -77,8 +77,8 @@ Sr Software Engineer 3
 </td>
 <td  markdown="1">
 
-- Multiple Product/Components.
-- All team's domain.
+- Multiple Products/Key Components.
+- All team's domain and tasks that involve cross-teams work.
 
 </td>
 </tr>
@@ -123,9 +123,7 @@ Sr Software Engineer 3
 - Technical expert on multiple products / key components, knowing all the extent of the team's domain.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies.
-
-
-- Thrives in environments with ambiguous scope, clarifying uncertainties and defining clear paths forward with the best outcomes in mind.
+- Thrives in an environment with ambiguous scope, clarifying uncertainties and defining clear paths forward with the best outcomes given the goals.
 - Provides guidance and direction to their team rather than waiting for instructions, finding opportunities and ensuring proactive and innovative problem-solving.
 
 </td></tr>
@@ -181,10 +179,11 @@ Sr Software Engineer 3
 </td></tr>
 <tr><td  markdown="1">
 
-- Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks but also strategically articulating and executing a long-term vision for the team's technical direction. .
-- Anticipates future needs, articulate a clear plan, and secure buy-in from key stakeholders and team members.
+- Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks, but also strategically articulating and executing a long-term vision for the team's technical direction.
+- Anticipates future needs, articulate clear plana, and secure buy-in from key stakeholders and team members.
 - Acts as a bridge between technical execution and business strategy, advocating for technical decisions that support the overall success of the organization.
-- Develops strategies to mitigate risks effectively, ensuring robustness and resilience in technical solutions. Capable of making critical decisions during high-pressure situations, maintaining a focus on achieving optimal outcomes for both technical and business aspects.
+- Develops strategies to mitigate risks effectively, ensuring robustness and resilience in technical solutions.
+- Capable of making critical decisions during high-pressure situations, maintaining a focus on achieving optimal outcomes technically and business-wise.
 
 </td></tr>
 </table>
@@ -235,7 +234,7 @@ Sr Software Engineer 3
 </td></tr>
 <tr><td  markdown="1">
 
-- Thrives in communicating high-level, ensuring clarity for individuals with varying levels of technical expertise.
+- Thrives in communication, ensuring clarity and objectiveness for individuals with varying levels of technical expertise.
 - Able to clearly articulate pros/cons, costs and tradeoffs of possible decisions.
 - Proactively establishes the team’s vision and strategic direction.
 - Inspires and motivates team members towards a shared vision, cultivating a culture of innovation and excellence.
@@ -371,7 +370,9 @@ Sr Software Engineer 3
 <tr><td  markdown="1">
 
 - Has been a tech lead for 2+ year.
-- Has proposed and led in 3+ technical planning or designs of large Epics and engineering initiatives.
+- Has proposed and led 3+ large technical epics (from design to execution) .
+- Has led the team on 1+ cross-teams initiative.
+- Has led the discussion and establishment of a long-term engineering plan for own team.
 - Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
 - Has documented 5+ technical aspects of systems implementation and/or post-mortems.
 - Has supported the growth of at least 1 engineer in the team.
