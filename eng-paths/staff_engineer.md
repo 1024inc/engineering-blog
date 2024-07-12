@@ -143,8 +143,8 @@ Sr Software Engineer 3
 </td></tr>
 <tr><td  markdown="1">
 
-- Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks, but also strategically articulating and executing a long-term vision for the team's technical direction.
-- Anticipates future needs, articulate clear plana, and secure buy-in from key stakeholders and team members.
+- Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks, but also strategically establishing, creating buy-in and executing a short and long-term vision for the team's technical direction.
+- Anticipates future needs, articulates clear plans, and secure buy-in from key stakeholders and team members.
 - Acts as a bridge between technical execution and business strategy, advocating for technical decisions that support the overall success of the organization.
 - Develops strategies to mitigate risks effectively, ensuring robustness and resilience in technical solutions.
 - Capable of making critical decisions during high-pressure situations, maintaining a focus on achieving optimal outcomes technically and business-wise.
