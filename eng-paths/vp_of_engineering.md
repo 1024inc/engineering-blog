@@ -1,7 +1,7 @@
 ---
 title: VP of Engineering
 icon: fas fa-users
-order: 14
+order: 15
 layout: page-eng-paths
 ---
 

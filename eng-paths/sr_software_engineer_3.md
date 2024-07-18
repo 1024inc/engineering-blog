@@ -73,7 +73,7 @@ Staff Engineer
 <td  markdown="1" style="font-weight:bold">
 
 - Multiple Products/Key Components.
-- All team's domain and tasks that involve cross-teams work.
+- All domains of core team and cross-teams tasks.
 
 </td>
 <td  markdown="1">
@@ -96,7 +96,7 @@ Sr Software Engineer 2
 
 - Technical expert on 2 products / key components, solid on the rest of the platform.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
-- Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies.
+- Proficiency in DevOps, PG/CH, Observability, and other platform technologies.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -106,7 +106,7 @@ Sr Software Engineer 3
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Technical expert on multiple products / key components, knowing all the extent of the team's domain.
+- Technical expert on multiple products / key components, knowing all the extent of their core team's domain.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in DevOps, PG/CH, Observability, and other platform technologies.
 - Thrives in an environment with ambiguous scope, clarifying uncertainties and defining clear paths forward with the best outcomes given the goals.
@@ -161,7 +161,7 @@ Sr Software Engineer 3
 <tr><td markdown="1" style="font-weight:bold">
 
 - Takes proactive ownership of the team's technical scope and responsibilities, not only delivering on tasks, but also strategically establishing, creating buy-in and executing a short and long-term vision for the team's technical direction.
-- Anticipates future needs, articulates clear plans, and secure buy-in from key stakeholders and team members.
+- Anticipates future needs, articulates clear plans, and secures buy-in from key stakeholders and team members.
 - Acts as a bridge between technical execution and business strategy, advocating for technical decisions that support the overall success of the organization.
 - Develops strategies to mitigate risks effectively, ensuring robustness and resilience in technical solutions.
 - Capable of making critical decisions during high-pressure situations, maintaining a focus on achieving optimal outcomes technically and business-wise.
@@ -219,11 +219,11 @@ Sr Software Engineer 3
 <tr><td markdown="1" style="font-weight:bold">
 
 - Thrives in communication, ensuring clarity and objectiveness for individuals with varying levels of technical expertise.
-- Able to clearly articulate pros/cons, costs and tradeoffs of possible decisions.
-- Proactively establishes the team’s vision and strategic direction.
+- Able to clearly articulate pros and cons of possible options, including: costs, tradeoffs, risks, and benefits.
+- Proactively establishes the team’s technical vision and strategic direction.
 - Inspires and motivates team members towards a shared vision, cultivating a culture of innovation and excellence.
-- Helps on the professional development of team members through mentorship, knowledge sharing, and promoting continuous learning .
-- Holds the team accountable to high technical standards.
+- Helps on the professional development of team members through mentorship, knowledge sharing, and promoting continuous learning.
+- Holds the team accountable to high technical standards and best practices.
 
 </td></tr>
 <tr><td>
@@ -275,13 +275,13 @@ Staff Engineer
 <td  markdown="1" style="font-weight:bold">
 
 - Deliver results.
-- Stretegic thinking.
+- Strategic thinking.
 
 </td>
 <td  markdown="1">
 
 - Deliver results.
-- Stretegic thinking.
+- Strategic thinking.
 
 </td>
 </tr>
@@ -354,8 +354,8 @@ Sr Software Engineer 3
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has been a tech lead for 2+ year.
-- Has proposed and led 3+ large technical epics (from design to execution) .
+- Has been a tech lead for 2+ years.
+- Has proposed and led 3+ large technical epics (from design to execution).
 - Has led the team on 1+ cross-teams initiative.
 - Has led the discussion and establishment of a long-term engineering plan for own team.
 - Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.

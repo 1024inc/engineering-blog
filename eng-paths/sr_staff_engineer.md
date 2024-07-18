@@ -196,7 +196,7 @@ Sr Staff Engineer
 <td  markdown="1">
 
 - Deliver results.
-- Stretegic thinking.
+- Strategic thinking.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
