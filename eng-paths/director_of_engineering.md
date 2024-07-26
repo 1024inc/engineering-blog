@@ -19,6 +19,11 @@ Engineering Manager
 Director of Engineering
 
 </td>
+<td>
+
+VP of Engineering
+
+</td>
 </tr>
 <tr>
 <td  markdown="1">
@@ -27,6 +32,11 @@ Director of Engineering
 
 </td>
 <td  markdown="1" style="font-weight:bold">
+
+15+
+
+</td>
+<td  markdown="1">
 
 15+
 
@@ -48,6 +58,11 @@ Engineering Manager
 Director of Engineering
 
 </td>
+<td>
+
+VP of Engineering
+
+</td>
 </tr>
 <tr>
 <td  markdown="1">
@@ -58,6 +73,11 @@ Director of Engineering
 <td  markdown="1" style="font-weight:bold">
 
 4-6 teams / 3-4 directs, 15-20 total
+
+</td>
+<td  markdown="1">
+
+Organization
 
 </td>
 </tr>
@@ -97,6 +117,24 @@ Director of Engineering
 - Engineering metrics.
 
 </td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Advanced managers' management.
+- Culture leadership.
+- SaaS strategy.
+- Capacity planning, resource allocation, and budgeting.
+- Product strategy.
+- Technical mentorship.
+- Cross-functional and external communication.
+- Engineering metrics.
+- Organizational design
+
+</td></tr>
 </table>
 
 
@@ -131,6 +169,20 @@ Director of Engineering
 - Operates talent strategy (IDPs, retention, acquisition).
 - Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
 - Can drive all internal communication, including cross-departmental.
+- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery.
+- Drives engineering operations strategy.
+
+</td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality).
+- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
+- Can drive all internal and external communication.
 - Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery.
 - Drives engineering operations strategy.
 
@@ -172,6 +224,19 @@ Director of Engineering
 - Owns budgeting and compensation management process for their teams.
 
 </td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Ensures that every member of the team understands the business goals for the quarter and has bought into these goals.
+- Identifies areas for process evolution or clarification, gathers the stakeholders, and creates and communicates the strategy for resolving these issues.
+- Clearly articulates the needs from a personnel and cultural standpoint that will move the engineering organization to the next level.
+- Communicates executive-level strategy and helps break down business directives into technology goals.
+
+</td></tr>
 </table>
 
 
@@ -188,6 +253,11 @@ Engineering Manager
 Director of Engineering
 
 </td>
+<td>
+
+VP of Engineering
+
+</td>
 </tr>
 <tr>
 <td  markdown="1">
@@ -197,6 +267,12 @@ Director of Engineering
 
 </td>
 <td  markdown="1" style="font-weight:bold">
+
+- Deliver results.
+- Stretegic thinking.
+
+</td>
+<td  markdown="1">
 
 - Deliver results.
 - Stretegic thinking.
@@ -221,6 +297,11 @@ Engineering Manager
 Director of Engineering
 
 </td>
+<td>
+
+VP of Engineering
+
+</td>
 </tr>
 <tr>
 <td  markdown="1">
@@ -229,6 +310,11 @@ Director of Engineering
 
 </td>
 <td  markdown="1" style="font-weight:bold">
+
+WIP
+
+</td>
+<td  markdown="1">
 
 WIP
 
@@ -260,6 +346,16 @@ Director of Engineering
 - 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
 - Has regularly contributed to a technical or people management blog or publication over the past 12 months.
 - Has presented on software or management topics to external audiences such as conferences or interest groups.
+
+</td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+WIP
 
 </td></tr>
 </table>
