@@ -120,7 +120,7 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert in most key components and solid on 2 products.
+- Technical expert in all key components and solid on the entire codebase.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in all other technologies across the codebase and infrastructure.
 - Thrives in ambiguous scopes throughout Engineering, defining the outcomes we need to aim for and how to get there. .
