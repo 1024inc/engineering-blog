@@ -1,7 +1,7 @@
 ---
 title: Sr Staff Engineer
 icon: fas fa-users
-order: 9
+order: 10
 layout: page-eng-paths
 ---
 
@@ -23,7 +23,7 @@ Sr Staff Engineer
 <tr>
 <td  markdown="1">
 
-10+
+11+
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -73,9 +73,11 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Technical expert in most key components and solid on 2 products.
+- Technical expert in all key components and solid on the entire codebase.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in all other technologies across the codebase and infrastructure.
+- Thrives in ambiguous scopes throughout Engineering, defining the outcomes we need to aim for and how to get there. .
+- Acts as expert and executor on driving the whole engineering department to the best technical and company outcomes.
 
 </td></tr>
 <tr><td style="font-weight:bold">
@@ -88,6 +90,8 @@ Sr Staff Engineer
 - Technical expert in all key components and solid on the entire codebase.
 - Expert in primary focus area (BE/FE/Data/or DevOps).
 - Strong proficiency in all other technologies across the codebase and infrastructure.
+- Thrives in ambiguous scopes throughout Engineering, defining the results we need to aim for and how to get there. .
+- Acts as expert and executor on driving the whole engineering department to the best technical and company outcomes.
 
 </td></tr>
 </table>
@@ -192,7 +196,7 @@ Sr Staff Engineer
 <td  markdown="1">
 
 - Deliver results.
-- Stretegic thinking.
+- Strategic thinking.
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -249,7 +253,7 @@ Staff Engineer
 </td></tr>
 <tr><td  markdown="1">
 
-- Has been a tech lead for 2+ years.
+- Has been a tech lead for 4+ years.
 - Has championed and executed 2+ technical migrations or large multi-months platform/staff projects.
 - Has documented 10+ technical aspects of systems implementation and/or post-mortems.
 - Has championed the promotion of 2+ engineers.

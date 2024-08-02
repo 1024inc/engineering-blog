@@ -1,7 +1,7 @@
 ---
 title: Director of Engineering
 icon: fas fa-users
-order: 13
+order: 14
 layout: page-eng-paths
 ---
 
