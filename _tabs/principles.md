@@ -56,7 +56,7 @@ _"Own It, Lead It: Great outcomes start with taking responsibility."_
 - What to avoid
    - Blaming other teams or external factors for project delays or failures.
    - Failing to address production issues promptly or waiting for someone else to solve the problem.
-   - Over-relying on QA or others for quality assurance without taking responsibility for testing your own work.
+   - Over-relying on PMs or others for validation without taking responsibility for writing CI tests.
 
 ## We drive revenue
 _"Build for Impact: Create what counts and drives revenue."_
