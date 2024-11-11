@@ -4,7 +4,7 @@ icon: fas fa-heartbeat
 order: 0
 ---
 
-**We are a bunch of passionate devs having fun building easy to use and valuable products together. To do so, we follow these princilpes**
+**We are a bunch of passionate devs having fun building practical products together. To do so, we follow the following principles**
 
 ## We reduce scope
 _"Focus Narrow, Deliver Big: Less really is more."_
@@ -12,7 +12,7 @@ _"Focus Narrow, Deliver Big: Less really is more."_
 - What to do
    - Breaking down large features into smaller, manageable chunks to ensure quicker delivery.
    - Prioritizing must-have features over nice-to-have ones to focus on core functionality.
-   - Saying “no” to features that don't contribute to the main objective or delaying them for future iterations.
+   - Saying “no” to features that don't contribute to the main objective or postponing for future iterations.
 
 - What to avoid
    - Overcommitting to too many features at once.
@@ -24,7 +24,7 @@ _"Ship Sooner, Learn Faster: Early delivery for quicker feedback."_
 
 - What to do
    - Releasing minimum viable products (MVPs) to get feedback from users quickly.
-   - Setting aggressive but realistic release targets to avoid endless development cycles.
+   - Focusing on simplicity, while caring for readability, performance and scalability expectations are met
    - Prioritizing time-to-market over exhaustive development, even if it means the first version has known limitations.
 
 - What to avoid
@@ -32,7 +32,7 @@ _"Ship Sooner, Learn Faster: Early delivery for quicker feedback."_
    - Ignoring early customer feedback or postponing releases due to minor issues.
    - Spending too much time on internal polishing without shipping anything.
 
-## We learn, iterate, and improve
+## We iterate, and improve
 _"Learn Fast, Adapt Faster: Every step teaches us something new.""_
 
 - What to do
@@ -51,19 +51,19 @@ _"Own It, Lead It: Great outcomes start with taking responsibility."_
 - What to do
    - Owning the entire lifecycle of our code, from development to production and maintenance.
    - Actively engaging in problem-solving, taking responsibility for identifying and fixing issues rather than passing them off.
-   - Communicating proactively about project status, blockers, or failures, and following through on commitments. 
+   - Communicating proactively about project status, blockers, tradeoffs, or failures, and following through on commitments. 
 
 - What to avoid
    - Blaming other teams or external factors for project delays or failures.
    - Failing to address production issues promptly or waiting for someone else to solve the problem.
-   - Over-relying on PMs or others for validation without taking responsibility for writing CI tests.
+   - Over-relying on PMs or others for validation without taking responsibility for writing CI tests or reviewing and owning your deploy.
 
 ## We drive revenue
 _"Build for Impact: Create what counts and drives revenue."_
 
 - What to do
    - Prioritizing features and fixes that have a direct impact on revenue growth, such as improving customer retention or enabling new sales opportunities.
-   -  Collaborating with sales, marketing, and product teams to understand how engineering can best support revenue goals.
+   - Collaborating with sales, marketing, and product teams to understand how engineering can best support revenue goals.
    - Measuring the impact of releases on key revenue metrics and making adjustments to improve outcomes.
 
 - What to avoid
