@@ -51,7 +51,7 @@ _"Own It, Lead It: Great outcomes start with taking responsibility."_
 - What to do
    - Owning the entire lifecycle of our code, from development to production and maintenance.
    - Actively engaging in problem-solving, taking responsibility for identifying and fixing issues rather than passing them off.
-   - Communicating proactively about project status, blockers, tradeoffs, or failures, and following through on commitments. 
+   - Communicating proactively about project status, blockers, trade offs, or failures, and following through on commitments. 
 
 - What to avoid
    - Blaming other teams or external factors for project delays or failures.
