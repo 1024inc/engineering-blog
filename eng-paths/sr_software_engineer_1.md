@@ -268,3 +268,34 @@ Sr Software Engineer 1
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td>
+
+Software Engineer 3
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has owned development, deployment, and improvements of multiple product features.
+- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months.
+- Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months.
+- Has broken a Jira epic down into smaller pieces.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Sr Software Engineer 1
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+- Has lead code reviews for the team for 12+ months.
+- Has participated in 2+ technical planning or designs of large Epics or engineering initiatives.
+- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
+- Has documented 1 technical aspect of systems implementation and/or post-mortems.
+
+</td></tr>
+</table>
+
+

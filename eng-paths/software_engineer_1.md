@@ -340,3 +340,41 @@ WIP
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td>
+
+Software Engineer Intern
+
+</td></tr>
+<tr><td  markdown="1">
+
+N/A
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Software Engineer 1
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+- Has learned CS fundamentals.
+- Has become proficient in at least one modern frontend or backend language and framework.
+
+</td></tr>
+<tr><td>
+
+Software Engineer 2
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has owned development, deployment, and improvements of multiple product features.
+- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months.
+- Has created Jira tasks to track their work.
+
+</td></tr>
+</table>
+
+

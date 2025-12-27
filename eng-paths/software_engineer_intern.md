@@ -247,3 +247,29 @@ WIP
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td style="font-weight:bold">
+
+Software Engineer Intern
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+N/A
+
+</td></tr>
+<tr><td>
+
+Software Engineer 1
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has learned CS fundamentals.
+- Has become proficient in at least one modern frontend or backend language and framework.
+
+</td></tr>
+</table>
+
+

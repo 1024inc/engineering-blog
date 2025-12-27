@@ -362,3 +362,45 @@ Director of Engineering
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td>
+
+Technical Lead Manager
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has been a tech lead for 1+ year.
+- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
+- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives.
+- Has documented 3+ technical aspects of systems implementation and/or post-mortems.
+- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "Radical Candor" and "Crucial Conversations.".
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Engineering Manager
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+- Has participated in mentoring, advocating, and executing 2+ IC promotions.
+- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
+
+</td></tr>
+<tr><td>
+
+Director of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
+- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
+- Has presented on software or management topics to external audiences such as conferences or interest groups.
+
+</td></tr>
+</table>
+
+

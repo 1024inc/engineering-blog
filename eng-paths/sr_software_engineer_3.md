@@ -370,3 +370,50 @@ Staff Engineer
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td>
+
+Sr Software Engineer 2
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has been a tech lead for 1+ year.
+- Has participated in 3+ technical planning or designs of large Epics or engineering initiatives.
+- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
+- Has documented 5+ technical aspects of systems implementation and/or post-mortems.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Sr Software Engineer 3
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+- Has been a tech lead for 2+ years.
+- Has proposed and led 3+ large technical epics (from design to execution).
+- Has led the team on 1+ cross-teams initiative.
+- Has led the discussion and establishment of a long-term engineering plan for own team.
+- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
+- Has documented 5+ technical aspects of systems implementation and/or post-mortems.
+- Has supported the growth of at least 1 engineer in the team.
+
+</td></tr>
+<tr><td>
+
+Staff Engineer
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has been a tech lead for 4+ years.
+- Has championed and executed 2+ technical migrations or large multi-months platform/staff projects.
+- Has documented 10+ technical aspects of systems implementation and/or post-mortems.
+- Has championed the promotion of 2+ engineers.
+
+</td></tr>
+</table>
+
+

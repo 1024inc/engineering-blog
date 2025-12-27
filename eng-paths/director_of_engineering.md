@@ -360,3 +360,49 @@ VP of Engineering
 </table>
 
 
+### Checkpoints for reaching this level
+<table  markdown="1">
+<tr><td>
+
+Engineering Manager
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has participated in mentoring, advocating, and executing 2+ IC promotions.
+- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Director of Engineering
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
+- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
+- Has presented on software or management topics to external audiences such as conferences or interest groups.
+
+</td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+- Has served as Director of Engineering or equivalent for 3+ years.
+- Has directly developed 2+ people into Director or Staff+ roles.
+- Has owned accountability for engineering metrics (retention, acquisition, throughput, quality) across multiple teams for 2+ years.
+- Has led organizational design or restructuring efforts impacting 15+ engineers.
+- Has partnered with Product leadership to define and deliver on org-level measurable outcomes.
+- Has owned capacity planning, resource allocation, and budgeting for engineering.
+- Has driven engineering operations strategy (processes, tooling, delivery practices) at scale.
+- Has led hiring strategy resulting in 10+ senior hires (Sr Engineer and above).
+- Has navigated and resolved cross-functional conflicts at the executive level
+
+</td></tr>
+</table>
+
+
