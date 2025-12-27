@@ -320,12 +320,15 @@ Staff Engineer
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-
+- [Sr Backend Engineer](https://docs.google.com/document/d/1ZrhG2n7VqcpCfkCK85txt6EJhEoKhQplPFtRYhZikGg/edit?usp=sharing){:target="_blank"}
+- [Sr Fullstack Engineer](https://docs.google.com/document/d/1HW-qf4jHMaDq5lHOvavL3DiCCL8UE3Yfv4gVaufRzBk/edit?usp=sharing){:target="_blank"}
+- [Sr Data Engineer (Algo)](https://docs.google.com/document/d/1g0fi11JI3xjaWpk5EdJI4PMZY_Jf8xwU8U7opdGYsfY/edit?usp=sharing){:target="_blank"}
+- [Sr DevOps Engineer](https://docs.google.com/document/d/1_IKR__6aqRAJEd4mRv6ukUJ7Gx3-hQkXHSDvDKmqFBI/edit){:target="_blank"}
 
 </td>
 <td  markdown="1">
 
-- [Staff Engineer](https://docs.google.com/document/d/1dLLqO80JTQIHFotMTEjhoZg_kX8QqRi6NhxGJWPYPOw/edit){:target="_blank"}
+- [Staff Engineer](https://docs.google.com/document/d/1EhPQTo2dUkrL-vajyucqQyznTyj8VWUEfMRgIMsDQG4/edit?tab=t.0#heading=h.ss5cwjc8wwab){:target="_blank"}
 
 </td>
 </tr>

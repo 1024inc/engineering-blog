@@ -312,12 +312,13 @@ VP of Engineering
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-WIP
+- [Director of Engineering](https://docs.google.com/document/d/1lelppZKAcd6b0F1IJLWmtEPl49PEpQgYZTo3Au6A75U/edit?tab=t.0){:target="_blank"}
 
 </td>
 <td  markdown="1">
 
-WIP
+- [VP Of Engineering (original)](https://drive.google.com/file/d/1AtbQ3kET3bLz2pw3It7EfE0u7CQu9h5H/view?usp=sharing){:target="_blank"}
+- [VP Of Engineering (revised)](https://docs.google.com/document/d/1DP7-qqAOOSES8AAFfQc3eo0vlliIBxFdqrxmYcGCKPQ/edit?tab=t.0){:target="_blank"}
 
 </td>
 </tr>
@@ -356,7 +357,15 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-WIP
+- Has served as Director of Engineering or equivalent for 3+ years.
+- Has directly developed 2+ people into Director or Staff+ roles.
+- Has owned accountability for engineering metrics (retention, acquisition, throughput, quality) across multiple teams for 2+ years.
+- Has led organizational design or restructuring efforts impacting 15+ engineers.
+- Has partnered with Product leadership to define and deliver on org-level measurable outcomes.
+- Has owned capacity planning, resource allocation, and budgeting for engineering.
+- Has driven engineering operations strategy (processes, tooling, delivery practices) at scale.
+- Has led hiring strategy resulting in 10+ senior hires (Sr Engineer and above).
+- Has navigated and resolved cross-functional conflicts at the executive level
 
 </td></tr>
 </table>

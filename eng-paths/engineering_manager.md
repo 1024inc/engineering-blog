@@ -320,7 +320,7 @@ Director of Engineering
 </td>
 <td  markdown="1">
 
-WIP
+- [Director of Engineering](https://docs.google.com/document/d/1lelppZKAcd6b0F1IJLWmtEPl49PEpQgYZTo3Au6A75U/edit?tab=t.0){:target="_blank"}
 
 </td>
 </tr>
