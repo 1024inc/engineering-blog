@@ -85,6 +85,41 @@ Director of Engineering
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+Technical Lead Manager
+
+</td></tr>
+<tr><td  markdown="1">
+
+A first-level people manager who combines technical leadership with team management and owns consistent team delivery according to quarterly roadmaps. They act as a top technical contributor while driving teammates' happiness, engagement, and growth. They make independent decisions for the team, contribute to the career development of others, and communicate the team's vision while creating buy-in on decisions. They balance technical ownership with learning to handle complex management situations.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Engineering Manager
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+A people manager who focuses on engineer happiness, growth, and talent strategy while collaborating with TLs and PMs to deliver on roadmaps and develop team processes. They operate talent strategy including IDPs, retention, and acquisition. They set clear expectations, solicit and deliver feedback, and own quarterly OKR setting and review. They identify strategic technical debt, provide cost/benefit analysis, and sell Beyond to potential candidates while leading and embodying team culture.
+
+</td></tr>
+<tr><td>
+
+Director of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+A senior leader who manages multiple teams and managers while owning accountability for metrics-based performance across their part of the org, including retention, acquisition, throughput, and quality. They drive EMs' happiness, engagement, and growth while operating talent strategy at scale. They collaborate with Product leadership to define strategy and org-level outcomes, drive cross-departmental communication, work with staff engineers on cross-team dependencies, and own budgeting and compensation management.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -324,48 +359,6 @@ Director of Engineering
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-Technical Lead Manager
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has been a tech lead for 1+ year.
-- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives.
-- Has documented 3+ technical aspects of systems implementation and/or post-mortems.
-- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "Radical Candor" and "Crucial Conversations.".
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-Engineering Manager
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- Has participated in mentoring, advocating, and executing 2+ IC promotions.
-- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
-
-</td></tr>
-<tr><td>
-
-Director of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
-- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
-- Has presented on software or management topics to external audiences such as conferences or interest groups.
-
-</td></tr>
 </table>
 
 

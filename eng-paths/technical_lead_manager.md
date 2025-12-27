@@ -85,6 +85,41 @@ Engineering Manager
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+Sr Software Engineer 1
+
+</td></tr>
+<tr><td  markdown="1">
+
+A senior engineer and technical expert on one product with growing knowledge across others who leads team-level planning and drives architecture decisions within the team. They proactively guide scope, provide accurate estimates even with ambiguous requirements, and mentor junior engineers. They communicate effectively across functions and drive improvements in engineering best practices.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Technical Lead Manager
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+A first-level people manager who combines technical leadership with team management and owns consistent team delivery according to quarterly roadmaps. They act as a top technical contributor while driving teammates' happiness, engagement, and growth. They make independent decisions for the team, contribute to the career development of others, and communicate the team's vision while creating buy-in on decisions. They balance technical ownership with learning to handle complex management situations.
+
+</td></tr>
+<tr><td>
+
+Engineering Manager
+
+</td></tr>
+<tr><td  markdown="1">
+
+A people manager who focuses on engineer happiness, growth, and talent strategy while collaborating with TLs and PMs to deliver on roadmaps and develop team processes. They operate talent strategy including IDPs, retention, and acquisition. They set clear expectations, solicit and deliver feedback, and own quarterly OKR setting and review. They identify strategic technical debt, provide cost/benefit analysis, and sell Beyond to potential candidates while leading and embodying team culture.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -332,49 +367,6 @@ Engineering Manager
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-Sr Software Engineer 1
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has lead code reviews for the team for 12+ months.
-- Has participated in 2+ technical planning or designs of large Epics or engineering initiatives.
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
-- Has documented 1 technical aspect of systems implementation and/or post-mortems.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-Technical Lead Manager
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- Has been a tech lead for 1+ year.
-- Has proposed and participated in 3+ technical planning or designs of large Epics or engineering initiatives.
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday PMs L+D initiatives.
-- Has documented 3+ technical aspects of systems implementation and/or post-mortems.
-- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "Radical Candor" and "Crucial Conversations.".
-
-</td></tr>
-<tr><td>
-
-Engineering Manager
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has participated in mentoring, advocating, and executing 2+ IC promotions.
-- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
-
-</td></tr>
 </table>
 
 

@@ -64,6 +64,31 @@ Story / Task
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td style="font-weight:bold">
+
+Software Engineer Intern
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+An entry-level contributor who is focused on learning CS fundamentals, the codebase, and engineering practices through pairing and mentorship. They work on small, well-defined tasks under close guidance while developing proficiency in one frontend or backend technology. Their success is measured by their growth, curiosity, and ability to absorb feedback.
+
+</td></tr>
+<tr><td>
+
+Software Engineer 1
+
+</td></tr>
+<tr><td  markdown="1">
+
+An early-career engineer who is building proficiency in one focus area (BE/FE/Data/DevOps) and learning team practices while delivering well-defined tasks with guidance. They use pairing sessions to understand the codebase, accept guidance on grooming tasks, and deliver small PRs to maintain short feedback loops. Their focus is on developing solid foundations and forming working relationships with teammates.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td style="font-weight:bold">
@@ -219,32 +244,6 @@ WIP
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td style="font-weight:bold">
-
-Software Engineer Intern
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-N/A
-
-</td></tr>
-<tr><td>
-
-Software Engineer 1
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has learned CS fundamentals.
-- Has become proficient in at least one modern frontend or backend language and framework.
-
-</td></tr>
 </table>
 
 

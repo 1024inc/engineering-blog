@@ -64,6 +64,31 @@ Epic / Project
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+Software Engineer 3
+
+</td></tr>
+<tr><td  markdown="1">
+
+An experienced engineer and expert in one product area who drives team-level planning and communication while delivering on larger tasks independently. They evaluate scope to right-size solutions, break down and estimate large initiatives, and participate in improving engineering best practices. They contribute to design docs, mentor through code review, and help resolve issues in their area of expertise.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Sr Software Engineer 1
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+A senior engineer and technical expert on one product with growing knowledge across others who leads team-level planning and drives architecture decisions within the team. They proactively guide scope, provide accurate estimates even with ambiguous requirements, and mentor junior engineers. They communicate effectively across functions and drive improvements in engineering best practices.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -240,37 +265,6 @@ Sr Software Engineer 1
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-Software Engineer 3
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has owned development, deployment, and improvements of multiple product features.
-- Has paired with teammates on a regular cadence (once every one or two weeks is recommended) for 12+ months.
-- Has reviewed other engineers' contributions through pairing or PRs weekly for 6+ months.
-- Has broken a Jira epic down into smaller pieces.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-Sr Software Engineer 1
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- Has lead code reviews for the team for 12+ months.
-- Has participated in 2+ technical planning or designs of large Epics or engineering initiatives.
-- Has presented 1+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
-- Has documented 1 technical aspect of systems implementation and/or post-mortems.
-
-</td></tr>
 </table>
 
 

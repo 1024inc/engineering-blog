@@ -84,6 +84,41 @@ Organization
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+Engineering Manager
+
+</td></tr>
+<tr><td  markdown="1">
+
+A people manager who focuses on engineer happiness, growth, and talent strategy while collaborating with TLs and PMs to deliver on roadmaps and develop team processes. They operate talent strategy including IDPs, retention, and acquisition. They set clear expectations, solicit and deliver feedback, and own quarterly OKR setting and review. They identify strategic technical debt, provide cost/benefit analysis, and sell Beyond to potential candidates while leading and embodying team culture.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Director of Engineering
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+A senior leader who manages multiple teams and managers while owning accountability for metrics-based performance across their part of the org, including retention, acquisition, throughput, and quality. They drive EMs' happiness, engagement, and growth while operating talent strategy at scale. They collaborate with Product leadership to define strategy and org-level outcomes, drive cross-departmental communication, work with staff engineers on cross-team dependencies, and own budgeting and compensation management.
+
+</td></tr>
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+An executive leader who translates company strategy into engineering execution, owns org-wide performance metrics, and drives organizational design. They ensure every team member understands and buys into business goals, identify areas for process evolution, and gather stakeholders to resolve issues. They clearly articulate personnel and cultural needs to advance the engineering organization, break down business directives into technology goals, and partner closely with Product leadership on strategy.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -322,52 +357,6 @@ VP of Engineering
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-Engineering Manager
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has participated in mentoring, advocating, and executing 2+ IC promotions.
-- Has stepped through explorative material and checked in with their manager as they consumed said material. For example, recommendations include "An Elegant Puzzle", "Staff Engineer", and "The Manager's Path", as well as broader choices on business, personal growth, and communication such as 7 habits, 5 dysfunctions, How to decide, Leadership is language, Turn the ship around, Measure what matters, Coaching habit, EI 2.0, Nonviolent communication, Dare to lead, ...
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-Director of Engineering
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
-- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
-- Has presented on software or management topics to external audiences such as conferences or interest groups.
-
-</td></tr>
-<tr><td>
-
-VP of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has served as Director of Engineering or equivalent for 3+ years.
-- Has directly developed 2+ people into Director or Staff+ roles.
-- Has owned accountability for engineering metrics (retention, acquisition, throughput, quality) across multiple teams for 2+ years.
-- Has led organizational design or restructuring efforts impacting 15+ engineers.
-- Has partnered with Product leadership to define and deliver on org-level measurable outcomes.
-- Has owned capacity planning, resource allocation, and budgeting for engineering.
-- Has driven engineering operations strategy (processes, tooling, delivery practices) at scale.
-- Has led hiring strategy resulting in 10+ senior hires (Sr Engineer and above).
-- Has navigated and resolved cross-functional conflicts at the executive level
-
-</td></tr>
 </table>
 
 

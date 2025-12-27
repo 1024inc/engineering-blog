@@ -64,6 +64,31 @@ Whole software platform, and cross-company leadership
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+VP of Engineering
+
+</td></tr>
+<tr><td  markdown="1">
+
+An executive leader who translates company strategy into engineering execution, owns org-wide performance metrics, and drives organizational design. They ensure every team member understands and buys into business goals, identify areas for process evolution, and gather stakeholders to resolve issues. They clearly articulate personnel and cultural needs to advance the engineering organization, break down business directives into technology goals, and partner closely with Product leadership on strategy.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+CTO
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+The chief technical executive who is accountable for the entire engineering organization's performance and defines and adapts engineering culture, strategy, and operations. They serve as the primary technical advisor to the CEO and as the primary partner to the Head of Product. They provide technical perspective for company strategy, represent the technical side in board meetings and M&A discussions, and act as CISO. They set the 12-24 month technical vision, own the excellence bar across career paths, and collaborate with Staff engineers and VP/Directors to drive outcomes.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -248,45 +273,6 @@ CTO
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-VP of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has served as Director of Engineering or equivalent for 3+ years.
-- Has directly developed 2+ people into Director or Staff+ roles.
-- Has owned accountability for engineering metrics (retention, acquisition, throughput, quality) across multiple teams for 2+ years.
-- Has led organizational design or restructuring efforts impacting 15+ engineers.
-- Has partnered with Product leadership to define and deliver on org-level measurable outcomes.
-- Has owned capacity planning, resource allocation, and budgeting for engineering.
-- Has driven engineering operations strategy (processes, tooling, delivery practices) at scale.
-- Has led hiring strategy resulting in 10+ senior hires (Sr Engineer and above).
-- Has navigated and resolved cross-functional conflicts at the executive level
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-CTO
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- Has served as VP of Engineering, Sr Staff Engineer, or equivalent for 3+ years.
-- Has led technical due diligence for M&A or fundraising.
-- Has championed and executed 3+ major technical migrations or platform initiatives.
-- Has mentored and championed the promotion of 6+ ICs to Staff or Sr Staff level.
-- Has owned security architecture and compliance responsibilities.
-- Has led and delivered substantial infrastructure COGS optimizations.
-- Has partnered closely with Product leadership on cross-functional strategy.
-
-</td></tr>
 </table>
 
 

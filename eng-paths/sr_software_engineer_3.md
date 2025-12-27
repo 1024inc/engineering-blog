@@ -85,6 +85,41 @@ Whole platform
 </table>
 
 
+### Role Description
+<table  markdown="1">
+<tr><td>
+
+Sr Software Engineer 2
+
+</td></tr>
+<tr><td  markdown="1">
+
+A senior engineer and technical expert across multiple products who leads team and inter-team communication while defining scope to meet stakeholder expectations. They make others better through code reviews, documentation, and technical guidance. They create buy-in on decisions, coach team members on breaking down work, and take ownership of the team's technical scope including scalability, reliability, and efficiency.
+
+</td></tr>
+<tr><td style="font-weight:bold">
+
+Sr Software Engineer 3
+
+</td></tr>
+<tr><td markdown="1" style="font-weight:bold">
+
+A senior engineer who owns the team's technical vision, bridging technical execution and business strategy while making critical decisions in high-pressure situations. They take proactive ownership of the team's technical direction, anticipate future needs, and secure stakeholder buy-in. They develop risk mitigation strategies and hold the team accountable to high technical standards while inspiring innovation and excellence.
+
+</td></tr>
+<tr><td>
+
+Staff Engineer
+
+</td></tr>
+<tr><td  markdown="1">
+
+An organization-wide technical leader who drives cross-team projects and initiatives, identifies org-level opportunities, and creates buy-in for resolution. They mentor engineers, coach teams on delivery pace and quality, and can step in as a contributor anywhere when needed. They set medium-term strategic direction (6 months), serve as a technical advisor to senior management, and multiply effectiveness by building systems and patterns that raise org-wide productivity.
+
+</td></tr>
+</table>
+
+
 ### Scope of knowledge (Breadth and Depth)
 <table  markdown="1">
 <tr><td>
@@ -332,53 +367,6 @@ Staff Engineer
 
 </td>
 </tr>
-</table>
-
-
-### Checkpoints for reaching this level
-<table  markdown="1">
-<tr><td>
-
-Sr Software Engineer 2
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has been a tech lead for 1+ year.
-- Has participated in 3+ technical planning or designs of large Epics or engineering initiatives.
-- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
-- Has documented 5+ technical aspects of systems implementation and/or post-mortems.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
-Sr Software Engineer 3
-
-</td></tr>
-<tr><td markdown="1" style="font-weight:bold">
-
-- Has been a tech lead for 2+ years.
-- Has proposed and led 3+ large technical epics (from design to execution).
-- Has led the team on 1+ cross-teams initiative.
-- Has led the discussion and establishment of a long-term engineering plan for own team.
-- Has presented 3+ times on a technical topic for a PED talk, ideally based on Friday afternoon L+D initiatives.
-- Has documented 5+ technical aspects of systems implementation and/or post-mortems.
-- Has supported the growth of at least 1 engineer in the team.
-
-</td></tr>
-<tr><td>
-
-Staff Engineer
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Has been a tech lead for 4+ years.
-- Has championed and executed 2+ technical migrations or large multi-months platform/staff projects.
-- Has documented 10+ technical aspects of systems implementation and/or post-mortems.
-- Has championed the promotion of 2+ engineers.
-
-</td></tr>
 </table>
 
 
