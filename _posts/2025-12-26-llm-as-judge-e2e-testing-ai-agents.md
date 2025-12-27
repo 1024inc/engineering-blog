@@ -24,12 +24,57 @@ Before diving into testing, let's establish what we mean by an "agent." At its c
 
 The harness defines the agent's personality, constraints, and context. It's the system prompt that shapes how the LLM behaves, what it knows about itself, and what rules it should follow.
 
-```python
-system_message = """You are a helpful assistant for a property management platform.
-You help users understand their listings, bookings, and revenue data.
-Always be concise and accurate. Use the tools available to fetch real data.
-Today's date is {today}. Respond in {locale}."""
+In production, this isn't a simple paragraph. Our system prompt is a structured document spanning several hundred tokens, organized into sections:
+
+```xml
+<identity>
+You are Neyoba, the AI revenue management assistant for Beyond...
+</identity>
+
+<role>
+Help users make smarter pricing and performance decisions. Surface insights,
+explain data clearly, and guide users to appropriate actions...
+</role>
+
+<constraints>
+- Cannot process file uploads or generate downloadable files
+- If listing lacks dynamic pricing, recommend enabling it first
+- Never suggest disabling Beyond pricing
+- Never use internal terminology...
+</constraints>
+
+<formatting>
+- Links: inline HTML with target="_blank"
+- Structure: bold headers, short paragraphs, markdown headings
+- Data: use tables for comparisons...
+</formatting>
+
+<localization>
+- Spanish: formal "usted" unless user uses "tú"
+- Portuguese: Brazilian conventions
+- Dates/currency/spelling: match user's region...
+</localization>
+
+<response-behavior>
+  <ambiguous-questions>
+    For broad questions ("how am I doing?"):
+    1. State your interpretation
+    2. Deliver most actionable insight first
+    3. Offer 2-3 specific follow-ups
+  </ambiguous-questions>
+  
+  <pacing-questions>...</pacing-questions>
+  <clarifications>...</clarifications>
+</response-behavior>
+
+<tool-usage>
+- Never call get_listing_details_by_id in loops
+- For 50+ listings, use market-level aggregates
+- Combine tools: get_listings for IDs, then get_bookings for details...
+</tool-usage>
 ```
+
+The prompt covers identity, role definition, hard constraints, formatting rules, localization preferences, response length guidelines, multi-turn conversation handling, and tool usage patterns. This level of detail is essential for consistent, production-quality agent behavior.
 
 ### 2. The Reasoning Loop (ReAct Pattern)
 
