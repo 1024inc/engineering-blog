@@ -93,7 +93,7 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced IC management.
+- Manages ICs.
 - Team synergy leadership.
 - Talent strategy.
 - Compensation strategy.
@@ -107,7 +107,7 @@ Director of Engineering
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Advanced managers' management.
+- Manages managers and ICs.
 - Culture leadership.
 - SaaS strategy.
 - Capacity planning, resource allocation, and budgeting.
@@ -124,7 +124,7 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced managers' management.
+- Manages managers and directors.
 - Culture leadership.
 - SaaS strategy.
 - Capacity planning, resource allocation, and budgeting.
@@ -231,6 +231,7 @@ VP of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
+- Translate executive strategy into engineering execution.
 - Ensures that every member of the team understands the business goals for the quarter and has bought into these goals.
 - Identifies areas for process evolution or clarification, gathers the stakeholders, and creates and communicates the strategy for resolving these issues.
 - Clearly articulates the needs from a personnel and cultural standpoint that will move the engineering organization to the next level.

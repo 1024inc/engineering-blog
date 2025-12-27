@@ -1,25 +1,20 @@
 ---
-title: VP of Engineering
+title: CTO
 icon: fas fa-users
-order: 15
+order: 16
 layout: page-eng-paths
 ---
 
-# VP of Engineering (People Manager Path)
+# CTO (People Manager Path)
 ### Years of xp (guideline)
 <table  markdown="1">
 <tr>
 <td>
 
-Director of Engineering
-
-</td>
-<td style="font-weight:bold">
-
 VP of Engineering
 
 </td>
-<td>
+<td style="font-weight:bold">
 
 CTO
 
@@ -32,11 +27,6 @@ CTO
 
 </td>
 <td  markdown="1" style="font-weight:bold">
-
-15+
-
-</td>
-<td  markdown="1">
 
 20+
 
@@ -50,15 +40,10 @@ CTO
 <tr>
 <td>
 
-Director of Engineering
-
-</td>
-<td style="font-weight:bold">
-
 VP of Engineering
 
 </td>
-<td>
+<td style="font-weight:bold">
 
 CTO
 
@@ -67,15 +52,10 @@ CTO
 <tr>
 <td  markdown="1">
 
-4-6 teams / 3-4 directs, 15-20 total
-
-</td>
-<td  markdown="1" style="font-weight:bold">
-
 Organization
 
 </td>
-<td  markdown="1">
+<td  markdown="1" style="font-weight:bold">
 
 Whole software platform, and cross-company leadership
 
@@ -88,27 +68,10 @@ Whole software platform, and cross-company leadership
 <table  markdown="1">
 <tr><td>
 
-Director of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Manages managers and ICs.
-- Culture leadership.
-- SaaS strategy.
-- Capacity planning, resource allocation, and budgeting.
-- Product strategy.
-- Technical mentorship.
-- Cross-functional communication.
-- Engineering metrics.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
 VP of Engineering
 
 </td></tr>
-<tr><td markdown="1" style="font-weight:bold">
+<tr><td  markdown="1">
 
 - Manages managers and directors.
 - Culture leadership.
@@ -121,12 +84,12 @@ VP of Engineering
 - Organizational design
 
 </td></tr>
-<tr><td>
+<tr><td style="font-weight:bold">
 
 CTO
 
 </td></tr>
-<tr><td  markdown="1">
+<tr><td markdown="1" style="font-weight:bold">
 
 - Culture leadership - defines and adapts engineering culture.
 - SaaS strategy and product strategy.
@@ -146,26 +109,10 @@ CTO
 <table  markdown="1">
 <tr><td>
 
-Director of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Owns accountability for metrics-based performance of their part of the org (eg. retention, acquisition, throughput, quality).
-- Drives EMs' happiness, engagement, and growth.
-- Operates talent strategy (IDPs, retention, acquisition).
-- Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
-- Can drive all internal communication, including cross-departmental.
-- Collaborates with staff engineers to resolve cross-teams dependencies and orchestrate delivery.
-- Drives engineering operations strategy.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
 VP of Engineering
 
 </td></tr>
-<tr><td markdown="1" style="font-weight:bold">
+<tr><td  markdown="1">
 
 - Owns accountability for metrics-based performance for the engineering org (eg. retention, acquisition, throughput, quality).
 - Collaborates with Product leadership to define strategy across multiple teams and helps define org-level measurable outcomes.
@@ -174,12 +121,12 @@ VP of Engineering
 - Drives engineering operations strategy.
 
 </td></tr>
-<tr><td>
+<tr><td style="font-weight:bold">
 
 CTO
 
 </td></tr>
-<tr><td  markdown="1">
+<tr><td markdown="1" style="font-weight:bold">
 
 - Accountable for the entire engineering organization's performance (retention, acquisition, throughput, quality).
 - Defines and adapts engineering culture, strategy, and operations; VP Eng executes day-to-day.
@@ -203,22 +150,10 @@ CTO
 <table  markdown="1">
 <tr><td>
 
-Director of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- Collaborates across functional areas to define, prioritize and ensure implementation of specific innovations to improve technical functionality in support of business needs, efficiencies, and revenue. .
-- Leverages past experience and uses strong communication skills to collaborate effectively with all stakeholders, including customers, senior management, and other business leaders.
-- Owns budgeting and compensation management process for their teams.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
 VP of Engineering
 
 </td></tr>
-<tr><td markdown="1" style="font-weight:bold">
+<tr><td  markdown="1">
 
 - Translate executive strategy into engineering execution.
 - Ensures that every member of the team understands the business goals for the quarter and has bought into these goals.
@@ -227,12 +162,12 @@ VP of Engineering
 - Communicates executive-level strategy and helps break down business directives into technology goals.
 
 </td></tr>
-<tr><td>
+<tr><td style="font-weight:bold">
 
 CTO
 
 </td></tr>
-<tr><td  markdown="1">
+<tr><td markdown="1" style="font-weight:bold">
 
 - Provides technical perspective for the company strategy (what's possible, what's risky, what opportunities exist).
 - Serves as the primary technical advisor to the CEO.
@@ -257,15 +192,10 @@ CTO
 <tr>
 <td>
 
-Director of Engineering
-
-</td>
-<td style="font-weight:bold">
-
 VP of Engineering
 
 </td>
-<td>
+<td style="font-weight:bold">
 
 CTO
 
@@ -279,12 +209,6 @@ CTO
 
 </td>
 <td  markdown="1" style="font-weight:bold">
-
-- Deliver results.
-- Stretegic thinking.
-
-</td>
-<td  markdown="1">
 
 - Strategic thinking.
 - Deliver Results.
@@ -301,15 +225,10 @@ _reference: [People manager competencies (internal link)](https://app.tettra.co/
 <tr>
 <td>
 
-Director of Engineering
-
-</td>
-<td style="font-weight:bold">
-
 VP of Engineering
 
 </td>
-<td>
+<td style="font-weight:bold">
 
 CTO
 
@@ -326,11 +245,6 @@ WIP
 WIP
 
 </td>
-<td  markdown="1">
-
-WIP
-
-</td>
 </tr>
 </table>
 
@@ -339,32 +253,20 @@ WIP
 <table  markdown="1">
 <tr><td>
 
-Director of Engineering
-
-</td></tr>
-<tr><td  markdown="1">
-
-- 4+ directly managed ICs are now promoted into the Sr IC path or People Management path.
-- Has regularly contributed to a technical or people management blog or publication over the past 12 months.
-- Has presented on software or management topics to external audiences such as conferences or interest groups.
-
-</td></tr>
-<tr><td style="font-weight:bold">
-
 VP of Engineering
 
 </td></tr>
-<tr><td markdown="1" style="font-weight:bold">
+<tr><td  markdown="1">
 
 WIP
 
 </td></tr>
-<tr><td>
+<tr><td style="font-weight:bold">
 
 CTO
 
 </td></tr>
-<tr><td  markdown="1">
+<tr><td markdown="1" style="font-weight:bold">
 
 - Has served as VP of Engineering, Sr Staff Engineer, or equivalent for 3+ years.
 - Has defined and communicated multi-year technical strategy with executive buy-in.

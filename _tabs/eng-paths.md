@@ -42,6 +42,7 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 | L4 | [Senior Software/Platform/Data Engineer 3](sr_software_engineer_3.html) | [Engineering Manager](engineering_manager.html) |
 | L5 | [Staff Engineer](staff_engineer.html) | [Director of Engineering](director_of_engineering.html) |
 | L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
+| L7 | [CTO](cto.html) | [CTO](cto.html) |
 
 ### Credits
 Creating Beyond's engineering paths was possible thanks to the outstanding collaboration of our Beyond EM team, Paula, Mariah, Rita, Dan, Matt, and Francois, and the positive drive and leadership from the one and only Miguel #wecare. We are also standing on the shoulder of giants, in particular Camille Fournier (VPE @ Rent the Runway / The manager's path), Will Larsen (An elegant Puzzle), Katie Wilde (VPE @ Buffer), and Jerry Talton (VPE @ Carta), whose gracefully open content was repurposed here.

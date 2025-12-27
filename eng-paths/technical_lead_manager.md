@@ -122,7 +122,7 @@ Engineering Manager
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced IC management.
+- Manages ICs.
 - Team synergy leadership.
 - Talent strategy.
 - Compensation strategy.

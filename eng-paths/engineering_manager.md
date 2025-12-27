@@ -108,7 +108,7 @@ Engineering Manager
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Advanced IC management.
+- Manages ICs.
 - Team synergy leadership.
 - Talent strategy.
 - Compensation strategy.
@@ -122,7 +122,7 @@ Director of Engineering
 </td></tr>
 <tr><td  markdown="1">
 
-- Advanced managers' management.
+- Manages managers and ICs.
 - Culture leadership.
 - SaaS strategy.
 - Capacity planning, resource allocation, and budgeting.
