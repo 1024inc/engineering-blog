@@ -5,7 +5,7 @@ order: 16
 layout: page-eng-paths
 ---
 
-# CTO (People Manager Path)
+# CTO
 ### Years of experience (guideline)
 <table  markdown="1">
 <tr>
@@ -153,7 +153,7 @@ CTO
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Accountable for the entire engineering organization's performance (retention, acquisition, throughput, quality).
+- Accountable for the entire engineering organization's performance (Listings, GBV, take rate, throughput, quality).
 - Defines and adapts engineering culture, strategy, and operations; VP Eng executes day-to-day.
 - Leads major innovation bets and R&D allocation, and contributes to boost PoC when required and sponsors critical initiatives personally to de-risk them.
 - Leads internal talent development toward Staff, Sr Staff, Directors and VP positions in alignment with organizational needs.
