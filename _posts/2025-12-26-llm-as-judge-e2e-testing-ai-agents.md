@@ -170,7 +170,6 @@ flowchart LR
     RA <--> MCP
     Executor --> Judge
     Judge <--> LLM2
-    Judge --> Executor
 ```
 
 The judge receives three inputs:
