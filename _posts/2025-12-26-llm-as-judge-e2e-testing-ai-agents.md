@@ -2,8 +2,8 @@
 title: "LLM as Judge: End-to-End Testing for AI Agents"
 author: Francois Toubol
 date: 2025-12-26 10:00:00 +0800
-categories: [AI, Testing]
-tags: [llm, agents, testing, mcp]
+categories: []
+tags: []
 math: false
 mermaid: true
 ---
@@ -378,6 +378,7 @@ Agent: "I'd be happy to help! Which listing would you like to see the occupancy 
 
 This is valid agent behavior, but it fails a test expecting occupancy data. The solution: use another LLM to detect clarification requests and auto-respond.
 
+{% raw %}
 ```python
 async def check_needs_followup(ai_response: str, original_prompt: str) -> tuple[bool, str]:
     check_prompt = f"""Analyze this AI response to determine if it's asking for clarification.
@@ -406,6 +407,7 @@ If the AI provided a substantive answer, respond with:
     result = json.loads(message.content[0].text)
     return result["needs_followup"], result["followup_response"]
 ```
+{% endraw %}
 
 The executor uses this to automatically continue conversations up to a maximum number of follow-ups, ensuring tests evaluate the final answer rather than intermediate clarifications.
 
