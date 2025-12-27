@@ -162,8 +162,8 @@ CTO
 - Accountable for technical leadership, architecture decisions, and technical direction, closely collaborating with Staff engineers.
 - Accountable for org structure, talent strategy, internal communication, and engineering operations, closely collaborating with VP/Directors.
 - Accountable for histing COGS and engineering SaaS spending
-- Tie breaker on architecture and technical strategy and on capacity planning
-- Tie breaker on team topology and OBT boundaries; approves major changes to engineering org structure
+- Tie breaker on architecture, technical strategy, and capacity planning
+- Tie breaker on team topology and OBT boundaries and major changes to engineering org structure
 - Owns and evolves the Engineering Strategy framework; final decider on major build vs buy decisions, with exception of the CEO
 - Owns major technical partnership decisions; leads technical evaluation for strategic partnerships
 - Acts as CISO: owns security architecture, policies, compliance audits, incident response
