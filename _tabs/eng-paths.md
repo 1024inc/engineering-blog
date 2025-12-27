@@ -31,27 +31,18 @@ We hold ourselves accountable to be equitable. Therefore, we are constantly moni
 <span id="paths" />
 ### Map of Paths
 
-<table>
-<thead>
-<tr>
-<th style="width:10%"></th>
-<th style="width:45%">Technical Path</th>
-<th style="width:45%">Management Path</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>L1</td><td><a href="software_engineer_intern.html">Software Engineer Intern</a></td><td></td></tr>
-<tr><td>L2</td><td><a href="software_engineer_1.html">Software/Platform/Data Engineer 1</a></td><td></td></tr>
-<tr><td>L2</td><td><a href="software_engineer_2.html">Software/Platform/Data Engineer 2</a></td><td></td></tr>
-<tr><td>L3</td><td><a href="software_engineer_3.html">Software/Platform/Data Engineer 3</a></td><td></td></tr>
-<tr><td>L3</td><td><a href="sr_software_engineer_1.html">Senior Software/Platform/Data Engineer 1</a></td><td></td></tr>
-<tr><td>L4</td><td><a href="sr_software_engineer_2.html">Senior Software/Platform/Data Engineer 2</a></td><td><a href="technical_lead_manager.html">Technical Lead Manager</a></td></tr>
-<tr><td>L4</td><td><a href="sr_software_engineer_3.html">Senior Software/Platform/Data Engineer 3</a></td><td><a href="engineering_manager.html">Engineering Manager</a></td></tr>
-<tr><td>L5</td><td><a href="staff_engineer.html">Staff Engineer</a></td><td><a href="director_of_engineering.html">Director of Engineering</a></td></tr>
-<tr><td>L6</td><td><a href="sr_staff_engineer.html">Senior Staff Engineer</a></td><td><a href="vp_of_engineering.html">VP of Engineering</a></td></tr>
-<tr><td>L7</td><td colspan="2" style="text-align:center"><a href="cto.html">CTO</a></td></tr>
-</tbody>
-</table>
+| | Technical Path | Management Path |
+|---|---|---|
+| L1 | [Software Engineer Intern](software_engineer_intern.html) | |
+| L2 | [Software/Platform/Data Engineer 1](software_engineer_1.html) | |
+| L2 | [Software/Platform/Data Engineer 2](software_engineer_2.html) | |
+| L3 | [Software/Platform/Data Engineer 3](software_engineer_3.html) | |
+| L3 | [Senior Software/Platform/Data Engineer 1](sr_software_engineer_1.html) | |
+| L4 | [Senior Software/Platform/Data Engineer 2](sr_software_engineer_2.html) | [Technical Lead Manager](technical_lead_manager.html) |
+| L4 | [Senior Software/Platform/Data Engineer 3](sr_software_engineer_3.html) | [Engineering Manager](engineering_manager.html) |
+| L5 | [Staff Engineer](staff_engineer.html) | [Director of Engineering](director_of_engineering.html) |
+| L6 | [Senior Staff Engineer](sr_staff_engineer.html) | [VP of Engineering](vp_of_engineering.html) |
+| L7 | [CTO](cto.html) | |
 
 ### Credits
 Creating Beyond's engineering paths was possible thanks to the outstanding collaboration of our Beyond EM team, Paula, Mariah, Rita, Dan, Matt, and Francois, and the positive drive and leadership from the one and only Miguel #wecare. We are also standing on the shoulder of giants, in particular Camille Fournier (VPE @ Rent the Runway / The manager's path), Will Larsen (An elegant Puzzle), Katie Wilde (VPE @ Buffer), and Jerry Talton (VPE @ Carta), whose gracefully open content was repurposed here.
