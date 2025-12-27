@@ -303,7 +303,7 @@ CTO
 </td></tr>
 <tr><td markdown="1" style="font-weight:bold">
 
-- Has served as VP of Engineering, Sr Staff Engineer, or equivalent for 3+ years.
+- Has served as VP of Engineering, Sr Staff Engineer, or equivalent for 10+ years.
 - Has led technical due diligence for M&A or fundraising.
 - Has championed and executed 3+ major technical migrations or platform initiatives.
 - Has mentored and championed the promotion of 6+ ICs to Staff or Sr Staff level.
