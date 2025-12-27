@@ -6,7 +6,7 @@ layout: page-eng-paths
 ---
 
 # Sr Software Engineer 1 (Individual Contributor Path)
-### Years of xp (guideline)
+### Years of experience (guideline)
 <table  markdown="1">
 <tr>
 <td>

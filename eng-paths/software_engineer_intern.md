@@ -6,7 +6,7 @@ layout: page-eng-paths
 ---
 
 # Software Engineer Intern (Individual Contributor Path)
-### Years of xp (guideline)
+### Years of experience (guideline)
 <table  markdown="1">
 <tr>
 <td style="font-weight:bold">

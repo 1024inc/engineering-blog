@@ -6,7 +6,7 @@ layout: page-eng-paths
 ---
 
 # Engineering Manager (People Manager Path)
-### Years of xp (guideline)
+### Years of experience (guideline)
 <table  markdown="1">
 <tr>
 <td>
