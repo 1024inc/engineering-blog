@@ -159,7 +159,7 @@ flowchart LR
 
     subgraph Eval[Evaluation]
         Judge[LLM Judge]
-        LLM2[Claude Opus]
+        LLM2[Claude Opus 4.5]
     end
 
     CLI --> Executor
@@ -168,7 +168,7 @@ flowchart LR
     Executor --> RA
     RA <--> LLM1
     RA <--> MCP
-    RA --> Judge
+    Executor --> Judge
     Judge <--> LLM2
     Judge --> Executor
 ```
