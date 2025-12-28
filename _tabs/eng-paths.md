@@ -1,8 +1,8 @@
 ---
-title: Our Engineering Paths
+title: Engineering Paths
 icon: fas fa-users
 layout: page
-order: 2
+order: 3
 ---
 
 ## Welcome to Engineering Paths @ Beyond!

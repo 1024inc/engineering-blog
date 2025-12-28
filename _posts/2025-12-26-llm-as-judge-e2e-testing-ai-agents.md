@@ -1,5 +1,5 @@
 ---
-title: "LLM as Judge: End-to-End Testing for AI Agents"
+title: "End-to-End Testing for AI Agents with LLM as a Judge"
 author: Francois Toubol
 date: 2025-12-26 10:00:00 +0800
 categories: []

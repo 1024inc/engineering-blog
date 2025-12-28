@@ -1,5 +1,5 @@
 ---
-title: Our Delivery Teams
+title: Delivery Teams
 icon: fas fa-users
 layout: page
 order: 1
