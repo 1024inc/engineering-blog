@@ -73,7 +73,7 @@ Director of Engineering
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-2-3 teams / 6-8 directs
+2-3 teams / 8-10 directs
 
 </td>
 <td  markdown="1">

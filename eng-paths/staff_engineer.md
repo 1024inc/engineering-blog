@@ -78,7 +78,7 @@ Whole platform
 </td>
 <td  markdown="1">
 
-Whole platform and organization
+Whole platform and engineering org
 
 </td>
 </tr>

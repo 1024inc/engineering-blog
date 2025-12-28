@@ -52,12 +52,12 @@ CTO
 <tr>
 <td  markdown="1">
 
-Organization
+Engineering org
 
 </td>
 <td  markdown="1" style="font-weight:bold">
 
-Whole software platform, and cross-company leadership
+Whole platform and engineering org
 
 </td>
 </tr>

@@ -67,7 +67,7 @@ VP of Engineering
 <tr>
 <td  markdown="1">
 
-2-3 teams / 6-8 directs
+2-3 teams / 8-10 directs
 
 </td>
 <td  markdown="1" style="font-weight:bold">
@@ -77,7 +77,7 @@ VP of Engineering
 </td>
 <td  markdown="1">
 
-Organization
+Engineering org
 
 </td>
 </tr>
