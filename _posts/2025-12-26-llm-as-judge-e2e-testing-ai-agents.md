@@ -76,6 +76,8 @@ explain data clearly, and guide users to appropriate actions...
 
 The prompt covers identity, role definition, hard constraints, formatting rules, localization preferences, response length guidelines, multi-turn conversation handling, and tool usage patterns. This level of detail is essential for consistent, production-quality agent behavior.
 
+You can explore our full production system prompt on [LangSmith Prompt Hub](https://smith.langchain.com/prompts/sage-cs-chat--system-setup?organizationId=ff257759-ce3a-45f6-afb1-515aaef31216).
+
 ### 2. The Reasoning Loop (ReAct Pattern)
 
 The agent uses a reasoning loop to decide what to do next. We implement the ReAct (Reasoning + Acting) pattern via LangGraph, where the LLM can:
