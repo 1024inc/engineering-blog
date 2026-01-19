@@ -44,7 +44,7 @@ This transformation spans multiple dimensions:
 
 - **Internal AI Tooling Expansion:** *"We plan to continue exploring AI-assisted development tools... and removing adoption barriers to let adoption happen bottoms up."*
 
-- **Information Security:** AI-powered development tools introduce new attack vectors that require vigilance. Secrets (API keys, credentials, tokens) can inadvertently leak to LLM providers through context windows, command history, or file contents. More critically, prompt injection attacks—where malicious instructions embedded in external content (websites, code comments, documents) hijack AI agents—pose significant risks, especially with tools that have browser control, file system access, or code execution capabilities. We must balance productivity gains with appropriate guardrails and security awareness.
+- **Information Security:** *"AI-powered development tools introduce new attack vectors that require vigilance. Secrets (API keys, credentials, tokens) can inadvertently leak to LLM providers through context windows, command history, or file contents. Prompt injection attacks, where malicious instructions embedded in external content (websites, code comments, documents) hijack AI agents, pose significant risks, especially with tools that have browser control, file system access, or code execution capabilities. We must balance productivity gains with appropriate guardrails and security awareness."*
 
 ---
 
