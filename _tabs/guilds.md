@@ -14,6 +14,7 @@ Guilds and Communities are voluntary groups of engineers who share a common inte
 | Community | Focus Area | Slack Channel |
 |-----------|------------|---------------|
 | [Coding with AI](coding-with-ai.html) | AI tooling, patterns, and best practices for development | #ai-coding |
+| [Frontend](frontend.html) | Frontend engineering excellence, consistency, and collaboration | #dev-front-end |
 
 ### Why Join a Guild?
 
