@@ -6,15 +6,17 @@ layout: page
 
 # Frontend Guild
 
-## Overview
-
-A knowledge-sharing community focused on frontend engineering excellence, consistency, and collaboration across Beyond's product teams.
-
 ## Purpose
 
-The Frontend guild brings together engineers working on user-facing applications to share knowledge, align on best practices, and drive consistency across the codebase. By collaborating on library choices, code structure decisions, and component development, we prevent duplicated effort and ensure a cohesive user experience.
+The Frontend guild brings engineers together across OBTs to exchange knowledge, brainstorm solutions, and align on best practices. Our goals are to:
 
-## Key Focus Areas
+- **Improve consistency, maintainability, and developer experience** across our frontend stack
+- **Learn from one another**, surface challenges, and collectively improve tooling, patterns, and practices that make frontend development faster, safer, and more enjoyable
+- **Prevent duplicated effort** by collaborating on library choices, code structure decisions, and component development
+
+---
+
+## In Scope
 
 **Core Technologies:**
 
@@ -50,6 +52,8 @@ The Frontend guild brings together engineers working on user-facing applications
 - Legacy code modernization
 - Tooling improvements (bundlers, linters, formatters)
 
+---
+
 ## Strategic Alignment
 
 The Frontend guild supports Beyond's engineering strategy through:
@@ -60,20 +64,40 @@ The Frontend guild supports Beyond's engineering strategy through:
 - **Continuous improvement** - Driving migrations and updates via a dedicated Jira board
 - **Design partnership** - Close collaboration with the Design team to maintain visual coherence
 
-## Organization
-
-**Meeting Cadence:** Weekly
-
-**Format:** Standup updates from each team, open discussion on frontend concerns, and collaborative problem-solving
-
-**Communication:** Slack channel #dev-front-end for ongoing discussions and questions
-
-**Project Tracking:** [Frontend Jira board](https://beyondpricing.atlassian.net/jira/software/c/projects/FE/boards/255) for tracking migrations, updates, and guild initiatives
-
-**Audience:** Engineers working on frontend applications who want to share experiences, ask questions, and contribute to frontend standards
+---
 
 ## Out of Scope
+
+To keep this group focused on frontend engineering, the following topics are out of scope:
 
 - Backend API design
 - Infrastructure and DevOps tooling
 - Mobile-app development
+
+---
+
+## Target Audience
+
+Engineers with curiosity for all things frontend and a desire to iterate on best practices.
+
+---
+
+## Meeting Structure
+
+- **Cadence:** Every Tuesday @ 5:00 PM GMT
+- **Format:** Topics (brainstorming, knowledge sharing, etc.) followed by a brief standup
+- **Hosting:** Rotating among participants
+
+---
+
+## Slack Channel
+
+**#dev-front-end**
+
+Join to share learnings between sessions, post interesting tools or articles, ask questions, and coordinate meeting times.
+
+---
+
+## Project Tracking
+
+[Frontend Jira board](https://beyondpricing.atlassian.net/jira/software/c/projects/FE/boards/255) for tracking migrations, updates, and guild initiatives.
