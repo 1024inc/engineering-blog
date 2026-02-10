@@ -1,3 +1,8 @@
+---
+title: Data Guild
+icon: fas fa-database
+layout: page
+---
 # Data Guild
 
 ## TL;DR
