@@ -75,10 +75,10 @@ The Data Guild helps teams make better data-driven decisions through **education
 | Resource | Status |
 |----------|--------|
 | **Data Catalog** | 🚧 In Progress |
-| Spark Best Practices | ✅ Planned |
-| Airflow Best Practices | ✅ Planned |
+| Spark Best Practices | 📋 Planned |
+| Airflow Best Practices | 📋  Planned |
 | Dataproc / ClickHouse / Trino Runbooks | 📋 Planned |
-| Data Quality Guide | ✅ Planned |
+| Data Quality Guide | 📋  Planned |
 | Data Lake Architecture | 📋 Planned |
 
 ---
