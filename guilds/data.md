@@ -92,7 +92,7 @@ The Data Guild helps teams make better data-driven decisions through **education
 
 ## Success Metrics
 
-- **Data Discoverability:** 80% of production datasets documented by Q2 2026
+- **Data Discoverability:** 80% of production datasets to be documented by Q2 2026
 - **Engagement:** Guild meeting attendance and #dev-data activity
 - **Data Quality:** Reduction in data incidents, SLA compliance
 - **Adoption:** Teams following guild standards
