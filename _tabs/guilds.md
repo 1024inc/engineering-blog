@@ -16,6 +16,7 @@ Guilds and Communities are voluntary groups of engineers who share a common inte
 | [Coding with AI](coding-with-ai.html) | AI tooling, patterns, and best practices for development | #ai-coding |
 | [Frontend](frontend.html) | Frontend engineering excellence, consistency, and collaboration | #dev-front-end |
 | [Data](data.html) | Data driven decision making, best practices, and governance | #dev-data |
+| [Performance](performance.html) | SLOs, performance budgets, cross-team optimization, and regression prevention | #dev-performance |
 
 ### Why Join a Guild?
 
