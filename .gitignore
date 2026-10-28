@@ -4,6 +4,7 @@
 !.editorconfig
 !.nojekyll
 !.travis.yml
+!.well-known
 
 # bundler cache
 _site
