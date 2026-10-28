@@ -149,6 +149,10 @@ compress_html:
   ignore:
     envs: [development]
 
+include:
+  - .nojekyll
+  - .well-known
+
 exclude:
   - '*.gem'
   - '*.gemspec'
