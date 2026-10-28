@@ -150,6 +150,7 @@ compress_html:
     envs: [development]
 
 include:
+  - .nojekyll
   - .well-known
 
 exclude:

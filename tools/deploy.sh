@@ -82,6 +82,7 @@ setup_gh() {
 }
 
 backup() {
+  shopt -s dotglob nullglob
   mv "$SITE_DIR"/* "$_backup_dir"
   mv .git "$_backup_dir"
 
@@ -96,7 +97,6 @@ flush() {
   rm -rf ./*
   rm -rf .[^.] .??*
 
-  shopt -s dotglob nullglob
   mv "$_backup_dir"/* .
 }
 
