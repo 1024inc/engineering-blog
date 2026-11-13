@@ -23,6 +23,7 @@ These hosts are in scope:
 | `api.beyondpricing.com` | Beyond API |
 | `beacon.beyondpricing.com` | Beacon script and data collection |
 | `api.beacon.beyondpricing.com` | Beacon API |
+| `agents.beyondpricing.com` | Neyoba AI assistant API |
 | `app.signal.prd.beyondpricing.com` | Signal backend, called by our WordPress plugin |
 
 Everything else is out of scope. This includes:
