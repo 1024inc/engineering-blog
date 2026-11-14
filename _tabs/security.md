@@ -40,7 +40,7 @@ If you find a host that is not on this list and you think it should be, ask us b
 ## Rules of engagement
 
 - Use only accounts that you create or own. Do not access, change, or delete data that belongs to other users. If you get access to someone else's data by accident, stop, do not keep a copy, and tell us in your report.
-- Send the header `X-Bug-Bounty: <your handle>` on every request you make. We use it to tell your traffic apart from an attack.
+- Add the query parameter `bug_bounty=<your handle>` to every request you make, and also send the header `X-Bug-Bounty: <your handle>`. We use them to tell your traffic apart from an attack. If an endpoint rejects a request because of the parameter, send that request again without the parameter, and keep the header.
 - Keep automated traffic under 5 requests per second per host.
 - Do not run denial of service or load tests.
 - Do not use social engineering, phishing, or physical attacks against our staff, customers, or offices.
@@ -109,7 +109,7 @@ Impact:
 (what an attacker can do to a real user or to Beyond, and what they need first)
 
 Your test accounts:
-Your X-Bug-Bounty handle:
+Your bug_bounty handle:
 ```
 
 A video alone is not a proof of concept. Send the requests and responses as text so that we can repeat them.
